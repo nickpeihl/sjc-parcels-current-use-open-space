@@ -1,0 +1,9146 @@
+{
+ "displayFieldName": "PIN",
+ "fieldAliases": {
+  "OID": "OID",
+  "PIN": "PIN",
+  "ALTPin": "ALTPin",
+  "Island": "Island",
+  "District": "District",
+  "Acres": "Acres",
+  "TA_ID": "TA_ID",
+  "Owner": "Owner",
+  "Address_1": "Address_1",
+  "Address_2": "Address_2",
+  "Address_3": "Address_3",
+  "City": "City",
+  "State": "State",
+  "Zip": "Zip",
+  "Short_Lega": "Short_Lega",
+  "Legal_Acre": "Legal_Acre",
+  "Taxable_Ac": "Taxable_Ac",
+  "Tax_Code": "Tax_Code",
+  "Tax_Area": "Tax_Area",
+  "Land_Value": "Land_Value",
+  "Appraised_": "Appraised_",
+  "Curruse_Va": "Curruse_Va",
+  "Bldg_Value": "Bldg_Value",
+  "Owner_Last": "Owner_Last",
+  "Use_Code": "Use_Code",
+  "Tax_Status": "Tax_Status",
+  "Sale_date": "Sale_date",
+  "Sale_Price": "Sale_Price"
+ },
+ "geometryType": "esriGeometryPolygon",
+ "spatialReference": {
+  "wkid": 4326,
+  "latestWkid": 4326
+ },
+ "fields": [
+  {
+   "name": "OID",
+   "type": "esriFieldTypeOID",
+   "alias": "OID"
+  },
+  {
+   "name": "PIN",
+   "type": "esriFieldTypeString",
+   "alias": "PIN",
+   "length": 50
+  },
+  {
+   "name": "ALTPin",
+   "type": "esriFieldTypeString",
+   "alias": "ALTPin",
+   "length": 50
+  },
+  {
+   "name": "Island",
+   "type": "esriFieldTypeString",
+   "alias": "Island",
+   "length": 50
+  },
+  {
+   "name": "District",
+   "type": "esriFieldTypeString",
+   "alias": "District",
+   "length": 15
+  },
+  {
+   "name": "Acres",
+   "type": "esriFieldTypeDouble",
+   "alias": "Acres"
+  },
+  {
+   "name": "TA_ID",
+   "type": "esriFieldTypeInteger",
+   "alias": "TA_ID"
+  },
+  {
+   "name": "Owner",
+   "type": "esriFieldTypeString",
+   "alias": "Owner",
+   "length": 70
+  },
+  {
+   "name": "Address_1",
+   "type": "esriFieldTypeString",
+   "alias": "Address_1",
+   "length": 60
+  },
+  {
+   "name": "Address_2",
+   "type": "esriFieldTypeString",
+   "alias": "Address_2",
+   "length": 60
+  },
+  {
+   "name": "Address_3",
+   "type": "esriFieldTypeString",
+   "alias": "Address_3",
+   "length": 60
+  },
+  {
+   "name": "City",
+   "type": "esriFieldTypeString",
+   "alias": "City",
+   "length": 50
+  },
+  {
+   "name": "State",
+   "type": "esriFieldTypeString",
+   "alias": "State",
+   "length": 50
+  },
+  {
+   "name": "Zip",
+   "type": "esriFieldTypeString",
+   "alias": "Zip",
+   "length": 10
+  },
+  {
+   "name": "Short_Lega",
+   "type": "esriFieldTypeString",
+   "alias": "Short_Lega",
+   "length": 255
+  },
+  {
+   "name": "Legal_Acre",
+   "type": "esriFieldTypeDouble",
+   "alias": "Legal_Acre"
+  },
+  {
+   "name": "Taxable_Ac",
+   "type": "esriFieldTypeDouble",
+   "alias": "Taxable_Ac"
+  },
+  {
+   "name": "Tax_Code",
+   "type": "esriFieldTypeString",
+   "alias": "Tax_Code",
+   "length": 23
+  },
+  {
+   "name": "Tax_Area",
+   "type": "esriFieldTypeString",
+   "alias": "Tax_Area",
+   "length": 255
+  },
+  {
+   "name": "Land_Value",
+   "type": "esriFieldTypeDouble",
+   "alias": "Land_Value"
+  },
+  {
+   "name": "Appraised_",
+   "type": "esriFieldTypeDouble",
+   "alias": "Appraised_"
+  },
+  {
+   "name": "Curruse_Va",
+   "type": "esriFieldTypeDouble",
+   "alias": "Curruse_Va"
+  },
+  {
+   "name": "Bldg_Value",
+   "type": "esriFieldTypeDouble",
+   "alias": "Bldg_Value"
+  },
+  {
+   "name": "Owner_Last",
+   "type": "esriFieldTypeString",
+   "alias": "Owner_Last",
+   "length": 30
+  },
+  {
+   "name": "Use_Code",
+   "type": "esriFieldTypeString",
+   "alias": "Use_Code",
+   "length": 10
+  },
+  {
+   "name": "Tax_Status",
+   "type": "esriFieldTypeString",
+   "alias": "Tax_Status",
+   "length": 10
+  },
+  {
+   "name": "Sale_date",
+   "type": "esriFieldTypeDate",
+   "alias": "Sale_date",
+   "length": 36
+  },
+  {
+   "name": "Sale_Price",
+   "type": "esriFieldTypeDouble",
+   "alias": "Sale_Price"
+  }
+ ],
+ "features": [
+  {
+   "attributes": {
+    "OID": 193707,
+    "PIN": "140422002000",
+    "ALTPin": "140422002",
+    "Island": "Lopez",
+    "District": "3 - Lopez",
+    "Acres": 43.19804396,
+    "TA_ID": 1002,
+    "Owner": "ALLEN D ISRAEL TTEE OF KONA RESIDENCE TRUST",
+    "Address_1": "c/o FOSTER PEPPER & SHEFELMAN",
+    "Address_2": "1111 3RD AVE STE 3400",
+    "Address_3": null,
+    "City": "SEATTLE",
+    "State": "WA",
+    "Zip": "98101-3299",
+    "Short_Lega": "GL 1 & N330' SW-NW Sec 04, T 34N, R 1W",
+    "Legal_Acre": 43.198,
+    "Taxable_Ac": 43.200000000000003,
+    "Tax_Code": "0442",
+    "Tax_Area": "LOPEZ",
+    "Land_Value": 1642870,
+    "Appraised_": 328570,
+    "Curruse_Va": 328570,
+    "Bldg_Value": 0,
+    "Owner_Last": "ISRAEL; TTEE OF KONA",
+    "Use_Code": "9400",
+    "Tax_Status": null,
+    "Sale_date": null,
+    "Sale_Price": null
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -122.81687,
+       48.47428
+      ],
+      [
+       -122.82315,
+       48.47336
+      ],
+      [
+       -122.82317,
+       48.4768
+      ],
+      [
+       -122.81687,
+       48.47428
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 1649,
+    "PIN": "140423001000",
+    "ALTPin": "140423001",
+    "Island": "Lopez",
+    "District": "3 - Lopez",
+    "Acres": 40.010028570000003,
+    "TA_ID": 1004,
+    "Owner": "ALLEN D ISRAEL TTEE OF KONA RESIDENCE TRUST",
+    "Address_1": "c/o FOSTER PEPPER & SHEFELMAN",
+    "Address_2": "1111 3RD AVE STE 3400",
+    "Address_3": null,
+    "City": "SEATTLE",
+    "State": "WA",
+    "Zip": "98101-3299",
+    "Short_Lega": "SW-NE, EX N330' & N330' NW-SW Sec 04, T 34N, R 1W",
+    "Legal_Acre": 40.009999999999998,
+    "Taxable_Ac": 40.100000000000001,
+    "Tax_Code": "0442",
+    "Tax_Area": "LOPEZ",
+    "Land_Value": 366780,
+    "Appraised_": 73360,
+    "Curruse_Va": 73360,
+    "Bldg_Value": 0,
+    "Owner_Last": "ISRAEL; TTEE OF KONA",
+    "Use_Code": "9400",
+    "Tax_Status": null,
+    "Sale_date": null,
+    "Sale_Price": null
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -122.82315,
+       48.47336
+      ],
+      [
+       -122.81771,
+       48.47337
+      ],
+      [
+       -122.8177,
+       48.46975
+      ],
+      [
+       -122.82315,
+       48.47336
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 193743,
+    "PIN": "140424002000",
+    "ALTPin": "140424002",
+    "Island": "Lopez",
+    "District": "3 - Lopez",
+    "Acres": 41.22324132,
+    "TA_ID": 1006,
+    "Owner": "ALLEN D ISRAEL TTEE OF KONA RESIDENCE TRUST",
+    "Address_1": "c/o FOSTER PEPPER & SHEFELMAN",
+    "Address_2": "1111 3RD AVE STE 3400",
+    "Address_3": null,
+    "City": "SEATTLE",
+    "State": "WA",
+    "Zip": "98101-3299",
+    "Short_Lega": "GL 2, GL 3 & PR GL 4 IN SE-SW Sec 04, T 34N, R 1W",
+    "Legal_Acre": 41.223199999999999,
+    "Taxable_Ac": 41.219999999999999,
+    "Tax_Code": "0442",
+    "Tax_Area": "LOPEZ",
+    "Land_Value": 1836180,
+    "Appraised_": 367230,
+    "Curruse_Va": 367230,
+    "Bldg_Value": 0,
+    "Owner_Last": "ISRAEL; TTEE OF KONA",
+    "Use_Code": "9400",
+    "Tax_Status": null,
+    "Sale_date": null,
+    "Sale_Price": null
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -122.81687,
+       48.47428
+      ],
+      [
+       -122.81318,
+       48.47217
+      ],
+      [
+       -122.81768,
+       48.46558
+      ],
+      [
+       -122.81687,
+       48.47428
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 1564,
+    "PIN": "140433001000",
+    "ALTPin": "140433001",
+    "Island": "Lopez",
+    "District": "3 - Lopez",
+    "Acres": 39.91452847,
+    "TA_ID": 1008,
+    "Owner": "ALLEN D ISRAEL TTEE OF KONA RESIDENCE TRUST",
+    "Address_1": "c/o FOSTER PEPPER & SHEFELMAN",
+    "Address_2": "1111 3RD AVE STE 3400",
+    "Address_3": null,
+    "City": "SEATTLE",
+    "State": "WA",
+    "Zip": "98101-3299",
+    "Short_Lega": "NW-SW, EX N330' & N330' GL 4 (SFTPO FR 140433003) Sec 04, T 34N, R 1W",
+    "Legal_Acre": 39.914499999999997,
+    "Taxable_Ac": 39.909999999999997,
+    "Tax_Code": "0442",
+    "Tax_Area": "LOPEZ",
+    "Land_Value": 305650,
+    "Appraised_": 61130,
+    "Curruse_Va": 61130,
+    "Bldg_Value": 0,
+    "Owner_Last": "ISRAEL; TTEE OF KONA",
+    "Use_Code": "9400",
+    "Tax_Status": null,
+    "Sale_date": null,
+    "Sale_Price": null
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -122.8177,
+       48.46975
+      ],
+      [
+       -122.82312,
+       48.46613
+      ],
+      [
+       -122.82314,
+       48.46974
+      ],
+      [
+       -122.8177,
+       48.46975
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 193951,
+    "PIN": "140433002000",
+    "ALTPin": "140433002",
+    "Island": "Lopez",
+    "District": "3 - Lopez",
+    "Acres": 40.154206170000002,
+    "TA_ID": 1009,
+    "Owner": "ALLEN D ISRAEL TTEE OF KONA RESIDENCE TRUST",
+    "Address_1": "c/o FOSTER PEPPER & SHEFELMAN",
+    "Address_2": "1111 3RD AVE STE 3400",
+    "Address_3": null,
+    "City": "SEATTLE",
+    "State": "WA",
+    "Zip": "98101-3299",
+    "Short_Lega": "GL 4 EX NWLY 330' & PR GL 1 SEC 8 & PR GL 1 SEC 9 & PR GL 1 SEC 5      Secs 4, 5, 8, & 9  T 34N, R 1W",
+    "Legal_Acre": 43.719700000000003,
+    "Taxable_Ac": 43.539999999999999,
+    "Tax_Code": "0442",
+    "Tax_Area": "LOPEZ",
+    "Land_Value": 1427770,
+    "Appraised_": 3463750,
+    "Curruse_Va": 148020,
+    "Bldg_Value": 2628010,
+    "Owner_Last": "ISRAEL; TTEE OF KONA",
+    "Use_Code": "9400",
+    "Tax_Status": null,
+    "Sale_date": null,
+    "Sale_Price": null
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -122.81882,
+       48.46336
+      ],
+      [
+       -122.82071,
+       48.46036
+      ],
+      [
+       -122.82312,
+       48.46613
+      ],
+      [
+       -122.81882,
+       48.46336
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 208379,
+    "PIN": "140433002000",
+    "ALTPin": "140433002",
+    "Island": "Lopez",
+    "District": "3 - Lopez",
+    "Acres": 3.5655197699999999,
+    "TA_ID": 1009,
+    "Owner": "ALLEN D ISRAEL TTEE OF KONA RESIDENCE TRUST",
+    "Address_1": "c/o FOSTER PEPPER & SHEFELMAN",
+    "Address_2": "1111 3RD AVE STE 3400",
+    "Address_3": null,
+    "City": "SEATTLE",
+    "State": "WA",
+    "Zip": "98101-3299",
+    "Short_Lega": "GL 4 EX NWLY 330' & PR GL 1 SEC 8 & PR GL 1 SEC 9 & PR GL 1 SEC 5      Secs 4, 5, 8, & 9  T 34N, R 1W",
+    "Legal_Acre": 43.719700000000003,
+    "Taxable_Ac": 43.539999999999999,
+    "Tax_Code": "0442",
+    "Tax_Area": "LOPEZ",
+    "Land_Value": 1427770,
+    "Appraised_": 3463750,
+    "Curruse_Va": 148020,
+    "Bldg_Value": 2628010,
+    "Owner_Last": "ISRAEL; TTEE OF KONA",
+    "Use_Code": "9400",
+    "Tax_Status": null,
+    "Sale_date": null,
+    "Sale_Price": null
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -122.82178,
+       48.46115
+      ],
+      [
+       -122.82083,
+       48.46036
+      ],
+      [
+       -122.82309,
+       48.45957
+      ],
+      [
+       -122.82178,
+       48.46115
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 193745,
+    "PIN": "140511002000",
+    "ALTPin": "140511002",
+    "Island": "Lopez",
+    "District": "3 - Lopez",
+    "Acres": 52.007461480000003,
+    "TA_ID": 1013,
+    "Owner": "ALLEN D ISRAEL TTEE OF KONA RESIDENCE TRUST",
+    "Address_1": "c/o FOSTER PEPPER & SHEFELMAN",
+    "Address_2": "1111 3RD AVE STE 3400",
+    "Address_3": null,
+    "City": "SEATTLE",
+    "State": "WA",
+    "Zip": "98101-3299",
+    "Short_Lega": "GL 1 & ELY PR GL 3 Sec 05, T 34N, R 1W",
+    "Legal_Acre": 52.0075,
+    "Taxable_Ac": 52.009999999999998,
+    "Tax_Code": "0442",
+    "Tax_Area": "LOPEZ",
+    "Land_Value": 1354330,
+    "Appraised_": 270870,
+    "Curruse_Va": 270870,
+    "Bldg_Value": 0,
+    "Owner_Last": "ISRAEL; TTEE OF KONA",
+    "Use_Code": "9400",
+    "Tax_Status": null,
+    "Sale_date": null,
+    "Sale_Price": null
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -122.82354,
+       48.47712
+      ],
+      [
+       -122.82314,
+       48.47065
+      ],
+      [
+       -122.82858,
+       48.47068
+      ],
+      [
+       -122.82354,
+       48.47712
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 223983,
+    "PIN": "140512001000",
+    "ALTPin": "140512001",
+    "Island": "Ram",
+    "District": "3 - Lopez",
+    "Acres": 8.6603290800000003,
+    "TA_ID": 1015,
+    "Owner": "EMERALI LLC",
+    "Address_1": "PO BOX 271",
+    "Address_2": null,
+    "Address_3": null,
+    "City": "HOQUIAM",
+    "State": "WA",
+    "Zip": "98550-0271",
+    "Short_Lega": "GL 2 SEC 05 T34N R1W & GL 1 SEC 32 T35N R1W - RAM ISLAND     Sec 05, T 34N, R 1W & Sec 32, T 35N, R 1W",
+    "Legal_Acre": 8.6602999999999994,
+    "Taxable_Ac": 8.6600000000000001,
+    "Tax_Code": "0444",
+    "Tax_Area": "LOPEZ ISLANDS",
+    "Land_Value": 1200000,
+    "Appraised_": 547500,
+    "Curruse_Va": 217500,
+    "Bldg_Value": 0,
+    "Owner_Last": "EMERALI, LLC",
+    "Use_Code": "9400",
+    "Tax_Status": null,
+    "Sale_date": null,
+    "Sale_Price": null
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -122.82995,
+       48.47893
+      ],
+      [
+       -122.83045,
+       48.4761
+      ],
+      [
+       -122.83378,
+       48.47475
+      ],
+      [
+       -122.82995,
+       48.47893
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 193777,
+    "PIN": "140541001000",
+    "ALTPin": "140541001",
+    "Island": "Lopez",
+    "District": "3 - Lopez",
+    "Acres": 40.960726260000001,
+    "TA_ID": 1019,
+    "Owner": "ALLEN D ISRAEL TTEE OF KONA RESIDENCE TRUST",
+    "Address_1": "c/o FOSTER PEPPER & SHEFELMAN",
+    "Address_2": "1111 3RD AVE STE 3400",
+    "Address_3": null,
+    "City": "SEATTLE",
+    "State": "WA",
+    "Zip": "98101-3299",
+    "Short_Lega": "PR GL 4 & PR GL 5      Sec 05, T 34N, R 1W",
+    "Legal_Acre": 40.960700000000003,
+    "Taxable_Ac": 40.960000000000001,
+    "Tax_Code": "0442",
+    "Tax_Area": "LOPEZ",
+    "Land_Value": 1851030,
+    "Appraised_": 3806070,
+    "Curruse_Va": 232660,
+    "Bldg_Value": 2885690,
+    "Owner_Last": "ISRAEL; TTEE OF KONA",
+    "Use_Code": "9400",
+    "Tax_Status": null,
+    "Sale_date": null,
+    "Sale_Price": null
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -122.82859,
+       48.47333
+      ],
+      [
+       -122.82833,
+       48.46548
+      ],
+      [
+       -122.83367,
+       48.46907
+      ],
+      [
+       -122.82859,
+       48.47333
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 193726,
+    "PIN": "140544001000",
+    "ALTPin": "140544001",
+    "Island": "Lopez",
+    "District": "3 - Lopez",
+    "Acres": 41.164284139999999,
+    "TA_ID": 1022,
+    "Owner": "PAUL G ALLEN                    ",
+    "Address_1": "c/o VULCAN NORTHWEST",
+    "Address_2": "505 5TH AVE S STE 900",
+    "Address_3": null,
+    "City": "SEATTLE",
+    "State": "WA",
+    "Zip": "98104-3821",
+    "Short_Lega": "PR GL 5      Sec 05, T 34N, R 1W",
+    "Legal_Acre": 41.164299999999997,
+    "Taxable_Ac": 41.159999999999997,
+    "Tax_Code": "0442",
+    "Tax_Area": "LOPEZ",
+    "Land_Value": 1599310,
+    "Appraised_": 5518340,
+    "Curruse_Va": 235810,
+    "Bldg_Value": 4862260,
+    "Owner_Last": "ALLEN",
+    "Use_Code": "9400",
+    "Tax_Status": null,
+    "Sale_date": null,
+    "Sale_Price": null
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -122.82539,
+       48.46705
+      ],
+      [
+       -122.83059,
+       48.46473
+      ],
+      [
+       -122.82858,
+       48.47068
+      ],
+      [
+       -122.82539,
+       48.46705
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 193723,
+    "PIN": "140544002000",
+    "ALTPin": "140544002",
+    "Island": "Lopez",
+    "District": "3 - Lopez",
+    "Acres": 34.667150200000002,
+    "TA_ID": 1023,
+    "Owner": "ALLEN D ISRAEL TTEE OF KONA RESIDENCE TRUST",
+    "Address_1": "c/o FOSTER PEPPER & SHEFELMAN",
+    "Address_2": "1111 3RD AVE STE 3400",
+    "Address_3": null,
+    "City": "SEATTLE",
+    "State": "WA",
+    "Zip": "98101-3299",
+    "Short_Lega": "PR GL 5     Sec 05, T 34N, R 1W",
+    "Legal_Acre": 34.667200000000001,
+    "Taxable_Ac": 34.670000000000002,
+    "Tax_Code": "0442",
+    "Tax_Area": "LOPEZ",
+    "Land_Value": 961280,
+    "Appraised_": 1865400,
+    "Curruse_Va": 123480,
+    "Bldg_Value": 1398060,
+    "Owner_Last": "ISRAEL; TTEE OF KONA",
+    "Use_Code": "9400",
+    "Tax_Status": null,
+    "Sale_date": null,
+    "Sale_Price": null
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -122.82359,
+       48.4643
+      ],
+      [
+       -122.82624,
+       48.46391
+      ],
+      [
+       -122.82541,
+       48.47066
+      ],
+      [
+       -122.82359,
+       48.4643
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 660,
+    "PIN": "141711002000",
+    "ALTPin": "141711002",
+    "Island": "Lopez",
+    "District": "3 - Lopez",
+    "Acres": 27.71856743,
+    "TA_ID": 1415,
+    "Owner": "STEVEN CARTER YOUNG TTEE & SUSAN J YOUNG TTEE",
+    "Address_1": "78 SNOWBERRY LANE",
+    "Address_2": null,
+    "Address_3": null,
+    "City": "LOPEZ ISLAND",
+    "State": "WA",
+    "Zip": "98261-8561",
+    "Short_Lega": "PR NE-NE EX CO RD     Sec 17, T 34N, R 1W",
+    "Legal_Acre": 27.718599999999999,
+    "Taxable_Ac": 26.829999999999998,
+    "Tax_Code": "0442",
+    "Tax_Area": "LOPEZ",
+    "Land_Value": 308280,
+    "Appraised_": 378960,
+    "Curruse_Va": 115790,
+    "Bldg_Value": 120300,
+    "Owner_Last": null,
+    "Use_Code": "9430",
+    "Tax_Status": null,
+    "Sale_date": 1250726400000,
+    "Sale_Price": 0
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -122.82302,
+       48.44521
+      ],
+      [
+       -122.82849,
+       48.44522
+      ],
+      [
+       -122.82849,
+       48.44793
+      ],
+      [
+       -122.82302,
+       48.44521
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 192333,
+    "PIN": "141934001000",
+    "ALTPin": "141934001",
+    "Island": "Lopez",
+    "District": "3 - Lopez",
+    "Acres": 31.223762959999998,
+    "TA_ID": 1848,
+    "Owner": "FLINT BEACH OHANA LLC           ",
+    "Address_1": "5440 143RD AVE SE",
+    "Address_2": null,
+    "Address_3": null,
+    "City": "BELLEVUE",
+    "State": "WA",
+    "Zip": "98006-4378",
+    "Short_Lega": "GL 5 TGW CONS ESMT       Sec 19, T 34N, R 1W",
+    "Legal_Acre": 31.223800000000001,
+    "Taxable_Ac": 31.219999999999999,
+    "Tax_Code": "0442",
+    "Tax_Area": "LOPEZ",
+    "Land_Value": 1867510,
+    "Appraised_": 1584790,
+    "Curruse_Va": 487100,
+    "Bldg_Value": 677420,
+    "Owner_Last": "FLINT BEACH OHANA LLC",
+    "Use_Code": "9520",
+    "Tax_Status": null,
+    "Sale_date": null,
+    "Sale_Price": null
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -122.85674,
+       48.42236
+      ],
+      [
+       -122.86113,
+       48.41985
+      ],
+      [
+       -122.86113,
+       48.4231
+      ],
+      [
+       -122.85674,
+       48.42236
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 193130,
+    "PIN": "142032001000",
+    "ALTPin": "142032001",
+    "Island": "Lopez",
+    "District": "3 - Lopez",
+    "Acres": 14.193454409999999,
+    "TA_ID": 1955,
+    "Owner": "RUTH B PRINS                    ",
+    "Address_1": "4735 W ROBERTS WAY",
+    "Address_2": null,
+    "Address_3": null,
+    "City": "SEATTLE",
+    "State": "WA",
+    "Zip": "98199-1824",
+    "Short_Lega": "PR GL 1 Sec 20, T 34N, R 1W",
+    "Legal_Acre": 14.1935,
+    "Taxable_Ac": 14.19,
+    "Tax_Code": "0442",
+    "Tax_Area": "LOPEZ",
+    "Land_Value": 1185150,
+    "Appraised_": 841810,
+    "Curruse_Va": 477960,
+    "Bldg_Value": 134610,
+    "Owner_Last": "PRINS",
+    "Use_Code": "9400",
+    "Tax_Status": null,
+    "Sale_date": null,
+    "Sale_Price": null
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -122.84236,
+       48.4274
+      ],
+      [
+       -122.83956,
+       48.42537
+      ],
+      [
+       -122.84431,
+       48.42598
+      ],
+      [
+       -122.84236,
+       48.4274
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 193580,
+    "PIN": "142041001000",
+    "ALTPin": "142041001",
+    "Island": "Lopez",
+    "District": "3 - Lopez",
+    "Acres": 24.57664887,
+    "TA_ID": 1956,
+    "Owner": "RONALD J & RUTH BECK",
+    "Address_1": "PO BOX 97055",
+    "Address_2": null,
+    "Address_3": null,
+    "City": "LAKEWOOD",
+    "State": "WA",
+    "Zip": "98497-0055",
+    "Short_Lega": "GL 1 TGW CONS ESMT Sec 20, T 34N, R 1W",
+    "Legal_Acre": 24.576599999999999,
+    "Taxable_Ac": 24.579999999999998,
+    "Tax_Code": "0442",
+    "Tax_Area": "LOPEZ",
+    "Land_Value": 206310,
+    "Appraised_": 20630,
+    "Curruse_Va": 20630,
+    "Bldg_Value": 0,
+    "Owner_Last": "BECK",
+    "Use_Code": "9420",
+    "Tax_Status": null,
+    "Sale_date": null,
+    "Sale_Price": null
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -122.82419,
+       48.42705
+      ],
+      [
+       -122.82313,
+       48.42375
+      ],
+      [
+       -122.82804,
+       48.42571
+      ],
+      [
+       -122.82419,
+       48.42705
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 193561,
+    "PIN": "142114001000",
+    "ALTPin": "142114001",
+    "Island": "Lopez",
+    "District": "3 - Lopez",
+    "Acres": 9.5446116100000005,
+    "TA_ID": 1967,
+    "Owner": "GENE O & CAROLYN HIGGINS        ",
+    "Address_1": "c/o LARRY HIGGINS, ESTATE P.R.",
+    "Address_2": "PO BOX 106",
+    "Address_3": null,
+    "City": "LA CONNER",
+    "State": "WA",
+    "Zip": "98257-0106",
+    "Short_Lega": "PR GL 3 PR GL 4 TGW TIDELANDS     Sec 21, T 34N, R 1W",
+    "Legal_Acre": 9.5446000000000009,
+    "Taxable_Ac": 9.5399999999999991,
+    "Tax_Code": "0442",
+    "Tax_Area": "LOPEZ",
+    "Land_Value": 762790,
+    "Appraised_": 522590,
+    "Curruse_Va": 149420,
+    "Bldg_Value": 14220,
+    "Owner_Last": "HIGGINS",
+    "Use_Code": "9400",
+    "Tax_Status": null,
+    "Sale_date": null,
+    "Sale_Price": null
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -122.80497,
+       48.43172
+      ],
+      [
+       -122.80346,
+       48.42969
+      ],
+      [
+       -122.80729,
+       48.4296
+      ],
+      [
+       -122.80497,
+       48.43172
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 193562,
+    "PIN": "142114002000",
+    "ALTPin": "142114002",
+    "Island": "Lopez",
+    "District": "3 - Lopez",
+    "Acres": 4.3931120699999999,
+    "TA_ID": 1970,
+    "Owner": "LUCILE ROCK TTEE",
+    "Address_1": "4170E AQUARIUS DR",
+    "Address_2": "",
+    "Address_3": "",
+    "City": "TUCSON",
+    "State": "AZ",
+    "Zip": "85718-5221",
+    "Short_Lega": "PR GL 3 & 4 TGW CONSERVATION EASEMENT Sec 21, T 34N, R 1W",
+    "Legal_Acre": 4.3930999999999996,
+    "Taxable_Ac": 4.3899999999999997,
+    "Tax_Code": "0442",
+    "Tax_Area": "LOPEZ",
+    "Land_Value": 548260,
+    "Appraised_": 203380,
+    "Curruse_Va": 202860,
+    "Bldg_Value": 520,
+    "Owner_Last": null,
+    "Use_Code": "9420",
+    "Tax_Status": null,
+    "Sale_date": 1359504000000,
+    "Sale_Price": 0
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -122.80348,
+       48.4296
+      ],
+      [
+       -122.80367,
+       48.42878
+      ],
+      [
+       -122.8073,
+       48.42926
+      ],
+      [
+       -122.80348,
+       48.4296
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 193573,
+    "PIN": "142114003000",
+    "ALTPin": "142114003",
+    "Island": "Lopez",
+    "District": "3 - Lopez",
+    "Acres": 3.9585650999999999,
+    "TA_ID": 1971,
+    "Owner": "SEDUM HOUSE LLC",
+    "Address_1": "19344 11TH AVE NW",
+    "Address_2": "",
+    "Address_3": "",
+    "City": "SHORELINE",
+    "State": "WA",
+    "Zip": "98177-2613",
+    "Short_Lega": "PR GL 4 LYG E OF ESMT TGW CONS ESMT     Sec 21, T 34N, R 1W",
+    "Legal_Acre": 3.9586000000000001,
+    "Taxable_Ac": 3.96,
+    "Tax_Code": "0442",
+    "Tax_Area": "LOPEZ",
+    "Land_Value": 557810,
+    "Appraised_": 615280,
+    "Curruse_Va": 107430,
+    "Bldg_Value": 240400,
+    "Owner_Last": null,
+    "Use_Code": "9420",
+    "Tax_Status": null,
+    "Sale_date": 1359504000000,
+    "Sale_Price": 0
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -122.80381,
+       48.4288
+      ],
+      [
+       -122.80303,
+       48.42796
+      ],
+      [
+       -122.80579,
+       48.42822
+      ],
+      [
+       -122.80381,
+       48.4288
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 193577,
+    "PIN": "142114004000",
+    "ALTPin": "142114004",
+    "Island": "Lopez",
+    "District": "3 - Lopez",
+    "Acres": 11.51677931,
+    "TA_ID": 1974,
+    "Owner": "CARLA JEAN & KAREN LYNN HOLM CO-TTEES",
+    "Address_1": "529 NW DELAWARE AVE",
+    "Address_2": null,
+    "Address_3": null,
+    "City": "BEND",
+    "State": "OR",
+    "Zip": "97701-3223",
+    "Short_Lega": "PRS GLS 3, 4, & 5 TGW CONS ESMT Sec 21, T 34N, R 1W",
+    "Legal_Acre": 11.5168,
+    "Taxable_Ac": 11.52,
+    "Tax_Code": "0442",
+    "Tax_Area": "LOPEZ",
+    "Land_Value": 916950,
+    "Appraised_": 718300,
+    "Curruse_Va": 311080,
+    "Bldg_Value": 17520,
+    "Owner_Last": "CARLA JEAN & KAREN LYNN",
+    "Use_Code": "9420",
+    "Tax_Status": null,
+    "Sale_date": null,
+    "Sale_Price": null
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -122.80338,
+       48.4278
+      ],
+      [
+       -122.80698,
+       48.42652
+      ],
+      [
+       -122.80727,
+       48.42841
+      ],
+      [
+       -122.80338,
+       48.4278
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 68,
+    "PIN": "142114005000",
+    "ALTPin": "142114005",
+    "Island": "Lopez",
+    "District": "3 - Lopez",
+    "Acres": 2.35450209,
+    "TA_ID": 1975,
+    "Owner": "SEDUM HOUSE LLC",
+    "Address_1": "19344 11TH AVE NW",
+    "Address_2": "",
+    "Address_3": "",
+    "City": "SHORELINE",
+    "State": "WA",
+    "Zip": "98177-2613",
+    "Short_Lega": "PR GLS 3 & 4 LYG W OF ESMT TGW CONSERVATION EASEMENT Sec 21, T 34N, R 1W",
+    "Legal_Acre": 2.3544999999999998,
+    "Taxable_Ac": 2.3500000000000001,
+    "Tax_Code": "0442",
+    "Tax_Area": "LOPEZ",
+    "Land_Value": 38520,
+    "Appraised_": 14250,
+    "Curruse_Va": 14250,
+    "Bldg_Value": 0,
+    "Owner_Last": null,
+    "Use_Code": "9420",
+    "Tax_Status": null,
+    "Sale_date": 1359504000000,
+    "Sale_Price": 0
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -122.80594,
+       48.42832
+      ],
+      [
+       -122.80727,
+       48.42841
+      ],
+      [
+       -122.8073,
+       48.42926
+      ],
+      [
+       -122.80594,
+       48.42832
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 193686,
+    "PIN": "142132001000",
+    "ALTPin": "142132001",
+    "Island": "Lopez",
+    "District": "3 - Lopez",
+    "Acres": 43.375807080000001,
+    "TA_ID": 1991,
+    "Owner": "RONALD J & RUTH BECK            ",
+    "Address_1": "PO BOX 97055",
+    "Address_2": null,
+    "Address_3": null,
+    "City": "LAKEWOOD",
+    "State": "WA",
+    "Zip": "98497-0055",
+    "Short_Lega": "GL 7 Sec 21, T 34N, R 1W",
+    "Legal_Acre": 43.375799999999998,
+    "Taxable_Ac": 43.380000000000003,
+    "Tax_Code": "0442",
+    "Tax_Area": "LOPEZ",
+    "Land_Value": 1410570,
+    "Appraised_": 834450,
+    "Curruse_Va": 105330,
+    "Bldg_Value": 371890,
+    "Owner_Last": "BECK",
+    "Use_Code": "9400",
+    "Tax_Status": null,
+    "Sale_date": null,
+    "Sale_Price": null
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -122.8204,
+       48.42709
+      ],
+      [
+       -122.81776,
+       48.42268
+      ],
+      [
+       -122.82313,
+       48.42375
+      ],
+      [
+       -122.8204,
+       48.42709
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 223951,
+    "PIN": "152042001000",
+    "ALTPin": "152042001",
+    "Island": "Trump",
+    "District": "3 - Lopez",
+    "Acres": 28.6089217,
+    "TA_ID": 2206,
+    "Owner": "TRUMP ISLAND LLC",
+    "Address_1": "1004 COMMERCIAL AVENUE",
+    "Address_2": "PMB 164",
+    "Address_3": null,
+    "City": "ANACORTES",
+    "State": "WA",
+    "Zip": "98221-4117",
+    "Short_Lega": "GL 5 - TRUMP ISLAND    Sec 20, T 35N, R 1W",
+    "Legal_Acre": 28.608899999999998,
+    "Taxable_Ac": 28.609999999999999,
+    "Tax_Code": "0443",
+    "Tax_Area": "DECATUR",
+    "Land_Value": 2600000,
+    "Appraised_": 4382480,
+    "Curruse_Va": 1090800,
+    "Bldg_Value": 2509680,
+    "Owner_Last": "TRUMP ISLAND. LLC",
+    "Use_Code": "9403",
+    "Tax_Status": null,
+    "Sale_date": null,
+    "Sale_Price": null
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -122.83692,
+       48.5064
+      ],
+      [
+       -122.83568,
+       48.50365
+      ],
+      [
+       -122.83905,
+       48.5021
+      ],
+      [
+       -122.83692,
+       48.5064
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 244070,
+    "PIN": "152834003000",
+    "ALTPin": "152834003",
+    "Island": "Decatur",
+    "District": "3 - Lopez",
+    "Acres": 11.61130157,
+    "TA_ID": 2542,
+    "Owner": "ROBERT S MUCKLESTONE & MEGAN KRUSE",
+    "Address_1": "1519 3RD AVE ",
+    "Address_2": "APT 801",
+    "Address_3": null,
+    "City": "SEATTLE",
+    "State": "WA",
+    "Zip": "98101-1623",
+    "Short_Lega": "PR GL 6 TGW CONS ESMT & ACCESS ESMT OVER 21002 & 42011     Sec 28, T 35N, R 1W",
+    "Legal_Acre": 11.6113,
+    "Taxable_Ac": 11.609999999999999,
+    "Tax_Code": "0443",
+    "Tax_Area": "DECATUR",
+    "Land_Value": 333960,
+    "Appraised_": 743410,
+    "Curruse_Va": 102580,
+    "Bldg_Value": 563340,
+    "Owner_Last": "MUCKLESTONE &",
+    "Use_Code": "9420",
+    "Tax_Status": null,
+    "Sale_date": null,
+    "Sale_Price": null
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -122.81477,
+       48.48848
+      ],
+      [
+       -122.81703,
+       48.48613
+      ],
+      [
+       -122.81994,
+       48.48812
+      ],
+      [
+       -122.81477,
+       48.48848
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 2414,
+    "PIN": "152913002000",
+    "ALTPin": "152913002",
+    "Island": "Center",
+    "District": "3 - Lopez",
+    "Acres": 4.0578966699999999,
+    "TA_ID": 2613,
+    "Owner": "CHRISTIAN D & MONIQUE MAAS      ",
+    "Address_1": "CENTER ISLAND FARM",
+    "Address_2": "CENTER ISLAND",
+    "Address_3": null,
+    "City": "ANACORTES",
+    "State": "WA",
+    "Zip": "98221-9403",
+    "Short_Lega": "PR GL 2     Sec 29, T 35N, R 1W",
+    "Legal_Acre": 4.0579000000000001,
+    "Taxable_Ac": 4.0599999999999996,
+    "Tax_Code": "0443",
+    "Tax_Area": "DECATUR",
+    "Land_Value": 250000,
+    "Appraised_": 170000,
+    "Curruse_Va": 170000,
+    "Bldg_Value": 0,
+    "Owner_Last": "MAAS",
+    "Use_Code": "9400",
+    "Tax_Status": null,
+    "Sale_date": null,
+    "Sale_Price": null
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -122.83566,
+       48.49376
+      ],
+      [
+       -122.83305,
+       48.49278
+      ],
+      [
+       -122.83636,
+       48.49267
+      ],
+      [
+       -122.83566,
+       48.49376
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 243640,
+    "PIN": "152942001000",
+    "ALTPin": "152942001",
+    "Island": "Center",
+    "District": "3 - Lopez",
+    "Acres": 15.44102032,
+    "TA_ID": 2614,
+    "Owner": "CHRISTIAN DOUGLAS MAAS & MONIQUE ELIZA MAAS TTEES",
+    "Address_1": "CENTER ISLAND FARM",
+    "Address_2": "CENTER ISLAND",
+    "Address_3": null,
+    "City": "ANACORTES",
+    "State": "WA",
+    "Zip": "98221-9403",
+    "Short_Lega": "PR GL 2  PR GL 3  CENTER ISLAND     Sec 29, T 35N, R 1W",
+    "Legal_Acre": 15.441000000000001,
+    "Taxable_Ac": 15.44,
+    "Tax_Code": "0443",
+    "Tax_Area": "DECATUR",
+    "Land_Value": 349500,
+    "Appraised_": 831740,
+    "Curruse_Va": 197200,
+    "Bldg_Value": 575040,
+    "Owner_Last": "MAAS &",
+    "Use_Code": "9403",
+    "Tax_Status": null,
+    "Sale_date": null,
+    "Sale_Price": null
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -122.83463,
+       48.49406
+      ],
+      [
+       -122.83297,
+       48.48883
+      ],
+      [
+       -122.83652,
+       48.4904
+      ],
+      [
+       -122.83463,
+       48.49406
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 2349,
+    "PIN": "152942006000",
+    "ALTPin": "152942006",
+    "Island": "Center",
+    "District": "3 - Lopez",
+    "Acres": 5.2263104399999998,
+    "TA_ID": 2619,
+    "Owner": "CHRISTIAN D & MONIQUE E MAAS TTEES",
+    "Address_1": "CENTER ISLAND FARM",
+    "Address_2": "CENTER ISLAND",
+    "Address_3": null,
+    "City": "ANACORTES",
+    "State": "WA",
+    "Zip": "98221-9403",
+    "Short_Lega": "PR GL 2 & PR GL 3     Sec 29, T 35N, R 1W",
+    "Legal_Acre": 5.2263000000000002,
+    "Taxable_Ac": 5.2300000000000004,
+    "Tax_Code": "0443",
+    "Tax_Area": "DECATUR",
+    "Land_Value": 55000,
+    "Appraised_": 37400,
+    "Curruse_Va": 37400,
+    "Bldg_Value": 0,
+    "Owner_Last": "MAAS",
+    "Use_Code": "9400",
+    "Tax_Status": null,
+    "Sale_date": null,
+    "Sale_Price": null
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -122.83305,
+       48.49278
+      ],
+      [
+       -122.83526,
+       48.49163
+      ],
+      [
+       -122.83525,
+       48.4928
+      ],
+      [
+       -122.83305,
+       48.49278
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 196010,
+    "PIN": "153122001000",
+    "ALTPin": "153122001",
+    "Island": "Lopez",
+    "District": "3 - Lopez",
+    "Acres": 39.712275419999997,
+    "TA_ID": 2808,
+    "Owner": "CHARLES J & OAKLEY C GOODNER    ",
+    "Address_1": "2787 LOPEZ SOUND RD",
+    "Address_2": null,
+    "Address_3": null,
+    "City": "LOPEZ ISLAND",
+    "State": "WA",
+    "Zip": "98261-8609",
+    "Short_Lega": "PRS GLS 1, 2, 3 & 5 TGW CONS ESMT Sec 31, T 35N, R 1W",
+    "Legal_Acre": 39.712299999999999,
+    "Taxable_Ac": 38.920000000000002,
+    "Tax_Code": "0442",
+    "Tax_Area": "LOPEZ",
+    "Land_Value": 1700000,
+    "Appraised_": 1551330,
+    "Curruse_Va": 322500,
+    "Bldg_Value": 603830,
+    "Owner_Last": "GOODNER",
+    "Use_Code": "9420",
+    "Tax_Status": null,
+    "Sale_date": null,
+    "Sale_Price": null
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -122.86165,
+       48.48912
+      ],
+      [
+       -122.86648,
+       48.48399
+      ],
+      [
+       -122.8665,
+       48.4887
+      ],
+      [
+       -122.86165,
+       48.48912
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 305958,
+    "PIN": "160211002000",
+    "ALTPin": "160211002",
+    "Island": "Orcas",
+    "District": "2 - Orcas",
+    "Acres": 52.311476710000001,
+    "TA_ID": 2866,
+    "Owner": "MICHELLE A OMALEV & BARBARA OMALEV TTEE",
+    "Address_1": "PO BOX 882021",
+    "Address_2": "",
+    "Address_3": "",
+    "City": "STEAMBOAT SPRINGS",
+    "State": "CO",
+    "Zip": "80488-2021",
+    "Short_Lega": "GL 1 & PR GL 2 TGW TDS ABUTTING GL 1    Sec 02, T 36N, R 1W",
+    "Legal_Acre": 52.311500000000002,
+    "Taxable_Ac": 52.310000000000002,
+    "Tax_Code": "0373",
+    "Tax_Area": "ORCAS",
+    "Land_Value": 2393660,
+    "Appraised_": 2359100,
+    "Curruse_Va": 1350330,
+    "Bldg_Value": 599610,
+    "Owner_Last": null,
+    "Use_Code": "1100",
+    "Tax_Status": null,
+    "Sale_date": 1356652800000,
+    "Sale_Price": 0
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -122.77059,
+       48.64192
+      ],
+      [
+       -122.77655,
+       48.64004
+      ],
+      [
+       -122.77605,
+       48.64528
+      ],
+      [
+       -122.77059,
+       48.64192
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 304779,
+    "PIN": "160812001000",
+    "ALTPin": "160812001",
+    "Island": "Orcas",
+    "District": "2 - Orcas",
+    "Acres": 114.99394624999999,
+    "TA_ID": 3211,
+    "Owner": "MARY STUART CLARK",
+    "Address_1": "719 HONEYSUCKLE DR",
+    "Address_2": "",
+    "Address_3": "",
+    "City": "MT VERNON",
+    "State": "WA",
+    "Zip": "98273",
+    "Short_Lega": "GL 4 W1/2NE TGW TDS TGW CONS ESMT     Sec 08, T 36N, R 1W",
+    "Legal_Acre": 114.9939,
+    "Taxable_Ac": 114.98999999999999,
+    "Tax_Code": "0373",
+    "Tax_Area": "ORCAS",
+    "Land_Value": 1581530,
+    "Appraised_": 1023540,
+    "Curruse_Va": 494670,
+    "Bldg_Value": 97730,
+    "Owner_Last": null,
+    "Use_Code": "9420",
+    "Tax_Status": null,
+    "Sale_date": 1377820800000,
+    "Sale_Price": 0
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -122.84092,
+       48.62139
+      ],
+      [
+       -122.84612,
+       48.62135
+      ],
+      [
+       -122.84619,
+       48.63069
+      ],
+      [
+       -122.84092,
+       48.62139
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 270943,
+    "PIN": "160950105000",
+    "ALTPin": "160950105",
+    "Island": "Orcas",
+    "District": "2 - Orcas",
+    "Acres": 1.4215415300000001,
+    "TA_ID": 3397,
+    "Owner": "OLGA ORS PROPERTIES LLC         ",
+    "Address_1": "525 GARDEN ST",
+    "Address_2": null,
+    "Address_3": null,
+    "City": "BELLINGHAM",
+    "State": "WA",
+    "Zip": "98225-5411",
+    "Short_Lega": "PLAT OF OLGA - BLK 1 LT 5; VACATED PR GRAYS AVE; BLK 5 LTS 1-5 & LT C; TGW TDS (CFTPO)   Sec 09, T 36N, R 1W",
+    "Legal_Acre": 1.4215,
+    "Taxable_Ac": 1.4199999999999999,
+    "Tax_Code": "0373",
+    "Tax_Area": "ORCAS",
+    "Land_Value": 948040,
+    "Appraised_": 670420,
+    "Curruse_Va": 257120,
+    "Bldg_Value": 199890,
+    "Owner_Last": "OLGA ORS PROPERTIES LLC",
+    "Use_Code": "9400",
+    "Tax_Status": null,
+    "Sale_date": null,
+    "Sale_Price": null
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -122.83365,
+       48.61992
+      ],
+      [
+       -122.83386,
+       48.61915
+      ],
+      [
+       -122.83472,
+       48.61906
+      ],
+      [
+       -122.83365,
+       48.61992
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 16576,
+    "PIN": "170732001000",
+    "ALTPin": "170732001",
+    "Island": "Orcas",
+    "District": "2 - Orcas",
+    "Acres": 32.912437760000003,
+    "TA_ID": 4083,
+    "Owner": "KNAPP FAMILY FARM LLC",
+    "Address_1": "343 BUCKHORN RD",
+    "Address_2": "",
+    "Address_3": "",
+    "City": "EASTSOUND",
+    "State": "WA",
+    "Zip": "98245-9000",
+    "Short_Lega": "PR N1/2 GL 2 & N1/2 NE-SE SEC 12 T37N R2W EX CO RD, TGW CONS ESMT Sec 07, T 37N, R 1W",
+    "Legal_Acre": 32.912399999999998,
+    "Taxable_Ac": 31.260000000000002,
+    "Tax_Code": "0374",
+    "Tax_Area": "ORCAS/CEMETERY",
+    "Land_Value": 410280,
+    "Appraised_": 618040,
+    "Curruse_Va": 79290,
+    "Bldg_Value": 398940,
+    "Owner_Last": null,
+    "Use_Code": "9520",
+    "Tax_Status": null,
+    "Sale_date": 1392940800000,
+    "Sale_Price": 0
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -122.87591,
+       48.70848
+      ],
+      [
+       -122.88458,
+       48.71023
+      ],
+      [
+       -122.87538,
+       48.71022
+      ],
+      [
+       -122.87591,
+       48.70848
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 156237,
+    "PIN": "240212001000",
+    "ALTPin": "240212001",
+    "Island": "Lopez",
+    "District": "3 - Lopez",
+    "Acres": 20.016224139999998,
+    "TA_ID": 5377,
+    "Owner": "LAWRENCE W & VALORIE OSTERMAN   ",
+    "Address_1": "18232 190TH NE",
+    "Address_2": null,
+    "Address_3": null,
+    "City": "WOODINVILLE",
+    "State": "WA",
+    "Zip": "98072-6637",
+    "Short_Lega": "PR GL 2 EX CO RD TGW CONS ESMT      Sec 02, T 34N, R 2W",
+    "Legal_Acre": 20.170999999999999,
+    "Taxable_Ac": 19.789999999999999,
+    "Tax_Code": "0442",
+    "Tax_Area": "LOPEZ",
+    "Land_Value": 371180,
+    "Appraised_": 604230,
+    "Curruse_Va": 185150,
+    "Bldg_Value": 316230,
+    "Owner_Last": "OSTERMAN",
+    "Use_Code": "9420",
+    "Tax_Status": null,
+    "Sale_date": null,
+    "Sale_Price": null
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -122.89366,
+       48.47452
+      ],
+      [
+       -122.89636,
+       48.47815
+      ],
+      [
+       -122.89364,
+       48.47813
+      ],
+      [
+       -122.89366,
+       48.47452
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 202328,
+    "PIN": "240222001000",
+    "ALTPin": "240222001",
+    "Island": "Lopez",
+    "District": "3 - Lopez",
+    "Acres": 37.236499870000003,
+    "TA_ID": 5389,
+    "Owner": "CONSTANCE MARIE KYSER TTEE",
+    "Address_1": "PO BOX 399",
+    "Address_2": "",
+    "Address_3": "",
+    "City": "LOPEZ ISLAND",
+    "State": "WA",
+    "Zip": "98261-0399",
+    "Short_Lega": "PR GL 4 EX CO RDS TGW CONS ESMT          Sec 02, T 34N, R 2W",
+    "Legal_Acre": 37.236499999999999,
+    "Taxable_Ac": 36.270000000000003,
+    "Tax_Code": "0442",
+    "Tax_Area": "LOPEZ",
+    "Land_Value": 346000,
+    "Appraised_": 382400,
+    "Curruse_Va": 184960,
+    "Bldg_Value": 135980,
+    "Owner_Last": null,
+    "Use_Code": "9430",
+    "Tax_Status": null,
+    "Sale_date": 1363737600000,
+    "Sale_Price": 0
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -122.90457,
+       48.47466
+      ],
+      [
+       -122.91005,
+       48.47472
+      ],
+      [
+       -122.90994,
+       48.4782
+      ],
+      [
+       -122.90457,
+       48.47466
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 1526,
+    "PIN": "240233001000",
+    "ALTPin": "240233001",
+    "Island": "Lopez",
+    "District": "3 - Lopez",
+    "Acres": 25.18958469,
+    "TA_ID": 5404,
+    "Owner": "LANGDON B QUETIN & ROBIN M ROSS-QUETIN CO-TTEES",
+    "Address_1": "6185 BARRINGTON DR",
+    "Address_2": null,
+    "Address_3": null,
+    "City": "GOLETA",
+    "State": "CA",
+    "Zip": "93117-1760",
+    "Short_Lega": "PR SW-SW Sec 02, T 34N, R 2W",
+    "Legal_Acre": 25.189599999999999,
+    "Taxable_Ac": 25.18,
+    "Tax_Code": "0442",
+    "Tax_Area": "LOPEZ",
+    "Land_Value": 305500,
+    "Appraised_": 102710,
+    "Curruse_Va": 101540,
+    "Bldg_Value": 1170,
+    "Owner_Last": "QUETIN & ROBIN M",
+    "Use_Code": "9500",
+    "Tax_Status": null,
+    "Sale_date": null,
+    "Sale_Price": null
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -122.90596,
+       48.46738
+      ],
+      [
+       -122.91002,
+       48.4638
+      ],
+      [
+       -122.91009,
+       48.46743
+      ],
+      [
+       -122.90596,
+       48.46738
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 1629,
+    "PIN": "240242001000",
+    "ALTPin": "240242001",
+    "Island": "Lopez",
+    "District": "3 - Lopez",
+    "Acres": 40.1577153,
+    "TA_ID": 5413,
+    "Owner": "BRET A & JODI E FOWLER          ",
+    "Address_1": "58 MUD BAY RD",
+    "Address_2": null,
+    "Address_3": null,
+    "City": "LOPEZ ISLAND",
+    "State": "WA",
+    "Zip": "98261-8032",
+    "Short_Lega": "NW-SE EX CO RD Sec 02, T 34N, R 2W",
+    "Legal_Acre": 40.157699999999998,
+    "Taxable_Ac": 38.799999999999997,
+    "Tax_Code": "0442",
+    "Tax_Area": "LOPEZ",
+    "Land_Value": 474000,
+    "Appraised_": 452660,
+    "Curruse_Va": 228220,
+    "Bldg_Value": 101540,
+    "Owner_Last": "FOWLER",
+    "Use_Code": "9430",
+    "Tax_Status": null,
+    "Sale_date": null,
+    "Sale_Price": null
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -122.89653,
+       48.47091
+      ],
+      [
+       -122.8937,
+       48.46724
+      ],
+      [
+       -122.89914,
+       48.4673
+      ],
+      [
+       -122.89653,
+       48.47091
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 336476,
+    "PIN": "240543001000",
+    "ALTPin": "240543001",
+    "Island": "San Juan",
+    "District": "1 - San Juan",
+    "Acres": 3.87369085,
+    "TA_ID": 5559,
+    "Owner": "HUNT LIVING TRUST GEORGE L HUNT JR TTEE & PEGGY WILLIAMSON-HUNT TTEE",
+    "Address_1": "188 VISTA WAY",
+    "Address_2": null,
+    "Address_3": null,
+    "City": "FRIDAY HARBOR",
+    "State": "WA",
+    "Zip": "98250-8469",
+    "Short_Lega": "PR GL 1 TGW CONS ESMT    Sec 05, T 34N, R 2W",
+    "Legal_Acre": 3.8736999999999999,
+    "Taxable_Ac": 3.8700000000000001,
+    "Tax_Code": "0495",
+    "Tax_Area": "CAPE SAN JUAN",
+    "Land_Value": 335120,
+    "Appraised_": 201070,
+    "Curruse_Va": 201070,
+    "Bldg_Value": 0,
+    "Owner_Last": "HUNT LIVING TRUST",
+    "Use_Code": "9420",
+    "Tax_Status": null,
+    "Sale_date": null,
+    "Sale_Price": null
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -122.96049,
+       48.4637
+      ],
+      [
+       -122.96277,
+       48.46378
+      ],
+      [
+       -122.95997,
+       48.465
+      ],
+      [
+       -122.96049,
+       48.4637
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 336482,
+    "PIN": "240551015000",
+    "ALTPin": "240551015",
+    "Island": "San Juan",
+    "District": "1 - San Juan",
+    "Acres": 2.1105199899999998,
+    "TA_ID": 5624,
+    "Owner": "HUNT LIVING TRUST GEORGE L HUNT JR TTEE & PEGGY WILLIAMSON-HUNT TTEE",
+    "Address_1": "188 VISTA WAY",
+    "Address_2": null,
+    "Address_3": null,
+    "City": "FRIDAY HARBOR",
+    "State": "WA",
+    "Zip": "98250-8469",
+    "Short_Lega": "FIRST ADDN TO CAPE SAN JUAN LT 15 & PR GL 1 TGW CONS ESMT    Sec 05, T 34N, R 2W",
+    "Legal_Acre": 2.1105,
+    "Taxable_Ac": 2.1099999999999999,
+    "Tax_Code": "0495",
+    "Tax_Area": "CAPE SAN JUAN",
+    "Land_Value": 681210,
+    "Appraised_": 859190,
+    "Curruse_Va": 178520,
+    "Bldg_Value": 297000,
+    "Owner_Last": "HUNT LIVING TRUST",
+    "Use_Code": "9420",
+    "Tax_Status": null,
+    "Sale_date": null,
+    "Sale_Price": null
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -122.9622,
+       48.46514
+      ],
+      [
+       -122.96138,
+       48.46454
+      ],
+      [
+       -122.96257,
+       48.46386
+      ],
+      [
+       -122.9622,
+       48.46514
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 336749,
+    "PIN": "240850004000",
+    "ALTPin": "240850004",
+    "Island": "San Juan",
+    "District": "1 - San Juan",
+    "Acres": 0.78880340000000004,
+    "TA_ID": 5693,
+    "Owner": "HUNT LIVING TRUST GEORGE L HUNT JR TTEE & PEGGY WILLIAMSON-HUNT TTEE",
+    "Address_1": "188 VISTA WAY",
+    "Address_2": null,
+    "Address_3": null,
+    "City": "FRIDAY HARBOR",
+    "State": "WA",
+    "Zip": "98250-8469",
+    "Short_Lega": "SECOND ADDN TO CAPE SAN JUAN LT 4    Sec 08, T 34N, R 2W",
+    "Legal_Acre": 0.78879999999999995,
+    "Taxable_Ac": 0.79000000000000004,
+    "Tax_Code": "0495",
+    "Tax_Area": "CAPE SAN JUAN",
+    "Land_Value": 473720,
+    "Appraised_": 284230,
+    "Curruse_Va": 284230,
+    "Bldg_Value": 0,
+    "Owner_Last": "HUNT LIVING TRUST",
+    "Use_Code": "9400",
+    "Tax_Status": null,
+    "Sale_date": null,
+    "Sale_Price": null
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -122.96049,
+       48.4637
+      ],
+      [
+       -122.96169,
+       48.46315
+      ],
+      [
+       -122.96157,
+       48.46371
+      ],
+      [
+       -122.96049,
+       48.4637
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 186734,
+    "PIN": "240913001000",
+    "ALTPin": "240913001",
+    "Island": "Lopez",
+    "District": "3 - Lopez",
+    "Acres": 49.569498860000003,
+    "TA_ID": 5807,
+    "Owner": "LEONARD STEIN                   ",
+    "Address_1": "GRAND-DONZEL 41B",
+    "Address_2": "1234 VESSY",
+    "Address_3": null,
+    "City": "GENEVA",
+    "State": null,
+    "Zip": "",
+    "Short_Lega": "GL 2 GL 3 EX E300' AS MSD ON THE N LINE Sec 09, T 34N, R 2W",
+    "Legal_Acre": 49.569499999999998,
+    "Taxable_Ac": 49.57,
+    "Tax_Code": "0442",
+    "Tax_Area": "LOPEZ",
+    "Land_Value": 3500000,
+    "Appraised_": 1219400,
+    "Curruse_Va": 685750,
+    "Bldg_Value": 15150,
+    "Owner_Last": "STEIN",
+    "Use_Code": "9400",
+    "Tax_Status": null,
+    "Sale_date": null,
+    "Sale_Price": null
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -122.93736,
+       48.46013
+      ],
+      [
+       -122.93557,
+       48.45542
+      ],
+      [
+       -122.94242,
+       48.46014
+      ],
+      [
+       -122.93736,
+       48.46013
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 892,
+    "PIN": "241233001000",
+    "ALTPin": "241233001",
+    "Island": "Lopez",
+    "District": "3 - Lopez",
+    "Acres": 9.9520844200000003,
+    "TA_ID": 5999,
+    "Owner": "JEFFERY R & RUTH A HEIN         ",
+    "Address_1": "554 VISTA ROAD",
+    "Address_2": null,
+    "Address_3": null,
+    "City": "LOPEZ ISLAND",
+    "State": "WA",
+    "Zip": "98261-8730",
+    "Short_Lega": "ROUSH SHORT PLAT - LOT 1, PR IN NW-SW & SW-SW     Sec 12, T 34N, R 2W",
+    "Legal_Acre": 9.9520999999999997,
+    "Taxable_Ac": 9.8699999999999992,
+    "Tax_Code": "0442",
+    "Tax_Area": "LOPEZ",
+    "Land_Value": 216060,
+    "Appraised_": 448670,
+    "Curruse_Va": 129210,
+    "Bldg_Value": 287980,
+    "Owner_Last": "HEIN",
+    "Use_Code": "9430",
+    "Tax_Status": null,
+    "Sale_date": null,
+    "Sale_Price": null
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -122.88551,
+       48.45268
+      ],
+      [
+       -122.88821,
+       48.45141
+      ],
+      [
+       -122.88822,
+       48.45321
+      ],
+      [
+       -122.88551,
+       48.45268
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 332795,
+    "PIN": "242431001000",
+    "ALTPin": "242431001",
+    "Island": "Lopez",
+    "District": "3 - Lopez",
+    "Acres": 39.691179310000003,
+    "TA_ID": 6140,
+    "Owner": "JOHNSON BROTHERS FAMILY LP",
+    "Address_1": "15510 SNEE-OOSH RD",
+    "Address_2": null,
+    "Address_3": null,
+    "City": "LA CONNER",
+    "State": "WA",
+    "Zip": "98257-8925",
+    "Short_Lega": "PR GL 5 & W1/2 SE-SW TGW CONS ESMT     Sec 24, T 34N, R 2W",
+    "Legal_Acre": 39.691200000000002,
+    "Taxable_Ac": 39.689999999999998,
+    "Tax_Code": "0442",
+    "Tax_Area": "LOPEZ",
+    "Land_Value": 916950,
+    "Appraised_": 767720,
+    "Curruse_Va": 160470,
+    "Bldg_Value": 225190,
+    "Owner_Last": "JOHNSON BROTHERS FAMILY",
+    "Use_Code": "9420",
+    "Tax_Status": null,
+    "Sale_date": null,
+    "Sale_Price": null
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -122.88258,
+       48.4271
+      ],
+      [
+       -122.88021,
+       48.41947
+      ],
+      [
+       -122.8829,
+       48.41946
+      ],
+      [
+       -122.88258,
+       48.4271
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 332759,
+    "PIN": "242443001000",
+    "ALTPin": "242443001",
+    "Island": "Lopez",
+    "District": "3 - Lopez",
+    "Acres": 39.038775299999998,
+    "TA_ID": 6172,
+    "Owner": "FLINT BEACH OHANA LLC           ",
+    "Address_1": "5440 143RD AVE SE",
+    "Address_2": null,
+    "Address_3": null,
+    "City": "BELLEVUE",
+    "State": "WA",
+    "Zip": "98006-4378",
+    "Short_Lega": "GL 8 TGW CONS ESMT      Sec 24, T 34N, R 2W",
+    "Legal_Acre": 39.038800000000002,
+    "Taxable_Ac": 39.039999999999999,
+    "Tax_Code": "0442",
+    "Tax_Area": "LOPEZ",
+    "Land_Value": 1059210,
+    "Appraised_": 292300,
+    "Curruse_Va": 288200,
+    "Bldg_Value": 4100,
+    "Owner_Last": "FLINT BEACH OHANA LLC",
+    "Use_Code": "9520",
+    "Tax_Status": null,
+    "Sale_date": null,
+    "Sale_Price": null
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -122.87209,
+       48.42083
+      ],
+      [
+       -122.87749,
+       48.41947
+      ],
+      [
+       -122.87751,
+       48.42309
+      ],
+      [
+       -122.87209,
+       48.42083
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 192371,
+    "PIN": "242444001000",
+    "ALTPin": "242444001",
+    "Island": "Lopez",
+    "District": "3 - Lopez",
+    "Acres": 54.799433620000002,
+    "TA_ID": 6174,
+    "Owner": "FLINT BEACH OHANA LLC           ",
+    "Address_1": "5440 143RD AVE SE",
+    "Address_2": null,
+    "Address_3": null,
+    "City": "BELLEVUE",
+    "State": "WA",
+    "Zip": "98006-4378",
+    "Short_Lega": "GL 4 SEC 19 T34N R1W & GL 9 Sec 24 T34N R2W TGW CONS ESMT    Sec 19, T34N, R1W & Sec 24, T34N, R2W",
+    "Legal_Acre": 54.799399999999999,
+    "Taxable_Ac": 54.799999999999997,
+    "Tax_Code": "0442",
+    "Tax_Area": "LOPEZ",
+    "Land_Value": 1962190,
+    "Appraised_": 1704810,
+    "Curruse_Va": 171920,
+    "Bldg_Value": 845170,
+    "Owner_Last": "FLINT BEACH OHANA LLC",
+    "Use_Code": "8320",
+    "Tax_Status": null,
+    "Sale_date": null,
+    "Sale_Price": null
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -122.86113,
+       48.42309
+      ],
+      [
+       -122.86184,
+       48.41933
+      ],
+      [
+       -122.87209,
+       48.42036
+      ],
+      [
+       -122.86113,
+       48.42309
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 6440,
+    "PIN": "251233001000",
+    "ALTPin": "251233001",
+    "Island": "Lopez",
+    "District": "3 - Lopez",
+    "Acres": 20.116430340000001,
+    "TA_ID": 6641,
+    "Owner": "JON C & CAROL L AVENT           ",
+    "Address_1": "567 CENTER ROAD",
+    "Address_2": null,
+    "Address_3": null,
+    "City": "LOPEZ ISLAND",
+    "State": "WA",
+    "Zip": "98261-8493",
+    "Short_Lega": "N510 OF W1/2 SW-SW, N810 OF E1/2 SW-SW EX CO RD, TGW CONS ESMT   Sec 12, T 35N, R 2W",
+    "Legal_Acre": 20.116399999999999,
+    "Taxable_Ac": 19.73,
+    "Tax_Code": "0442",
+    "Tax_Area": "LOPEZ",
+    "Land_Value": 310000,
+    "Appraised_": 758350,
+    "Curruse_Va": 56000,
+    "Bldg_Value": 472350,
+    "Owner_Last": "AVENT",
+    "Use_Code": "9430",
+    "Tax_Status": null,
+    "Sale_date": null,
+    "Sale_Price": null
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -122.88284,
+       48.53815
+      ],
+      [
+       -122.88557,
+       48.53733
+      ],
+      [
+       -122.88832,
+       48.53955
+      ],
+      [
+       -122.88284,
+       48.53815
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 4802,
+    "PIN": "251441002000",
+    "ALTPin": "251441002",
+    "Island": "Lopez",
+    "District": "3 - Lopez",
+    "Acres": 25.13375679,
+    "TA_ID": 6847,
+    "Owner": "RICHARD R & JEANNA S CARTER     ",
+    "Address_1": "1731 CENTER ROAD",
+    "Address_2": null,
+    "Address_3": null,
+    "City": "LOPEZ ISLAND",
+    "State": "WA",
+    "Zip": "98261-8368",
+    "Short_Lega": "PR S495' NE-SE EX CO RD     Sec 14, T 35N, R 2W",
+    "Legal_Acre": 25.133800000000001,
+    "Taxable_Ac": 24.25,
+    "Tax_Code": "0442",
+    "Tax_Area": "LOPEZ",
+    "Land_Value": 300000,
+    "Appraised_": 516890,
+    "Curruse_Va": 76470,
+    "Bldg_Value": 359670,
+    "Owner_Last": "CARTER",
+    "Use_Code": "8300",
+    "Tax_Status": null,
+    "Sale_date": null,
+    "Sale_Price": null
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -122.89364,
+       48.52504
+      ],
+      [
+       -122.8882,
+       48.5264
+      ],
+      [
+       -122.88817,
+       48.52138
+      ],
+      [
+       -122.89364,
+       48.52504
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 4583,
+    "PIN": "251912002000",
+    "ALTPin": "251912002",
+    "Island": "San Juan",
+    "District": "1 - San Juan",
+    "Acres": 29.179127009999998,
+    "TA_ID": 7260,
+    "Owner": "CATHERINE M MCNUTT TTEE",
+    "Address_1": "365 LYNN ST",
+    "Address_2": null,
+    "Address_3": null,
+    "City": "SEATTLE",
+    "State": "WA",
+    "Zip": "98109-2349",
+    "Short_Lega": "GL 5 EX THAT PR LYG S OF CO RD & EX E300 OF GL5 Sec 19, T 35N, R 2W",
+    "Legal_Acre": 29.179099999999998,
+    "Taxable_Ac": 28.510000000000002,
+    "Tax_Code": "0493",
+    "Tax_Area": "SAN JUAN",
+    "Land_Value": 453860,
+    "Appraised_": 355990,
+    "Curruse_Va": 187160,
+    "Bldg_Value": 12040,
+    "Owner_Last": "MCNUTT, TTEE",
+    "Use_Code": "9400",
+    "Tax_Status": null,
+    "Sale_date": null,
+    "Sale_Price": null
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -122.98111,
+       48.52177
+      ],
+      [
+       -122.98484,
+       48.51814
+      ],
+      [
+       -122.98486,
+       48.52178
+      ],
+      [
+       -122.98111,
+       48.52177
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 317625,
+    "PIN": "251923002000",
+    "ALTPin": "251923002",
+    "Island": "San Juan",
+    "District": "1 - San Juan",
+    "Acres": 2.4932216999999999,
+    "TA_ID": 7280,
+    "Owner": "DAVID REED CAHILL TTEE",
+    "Address_1": "c/o SALLY CAHILL BROOKBANK TRUST",
+    "Address_2": "PO BOX 2688",
+    "Address_3": null,
+    "City": "FRIDAY HARBOR",
+    "State": "WA",
+    "Zip": "98250-2688",
+    "Short_Lega": "PR GL 2 TGW TDS 6.21 CHS & CONS ESMT    Sec 19, T 35N, R 2W",
+    "Legal_Acre": 2.4931999999999999,
+    "Taxable_Ac": 2.4900000000000002,
+    "Tax_Code": "0493",
+    "Tax_Area": "SAN JUAN",
+    "Land_Value": 579870,
+    "Appraised_": 1043150,
+    "Curruse_Va": 26000,
+    "Bldg_Value": 478550,
+    "Owner_Last": "BROOKBANK TRUST",
+    "Use_Code": "9420",
+    "Tax_Status": null,
+    "Sale_date": null,
+    "Sale_Price": null
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -122.99422,
+       48.51643
+      ],
+      [
+       -122.99337,
+       48.51548
+      ],
+      [
+       -122.99493,
+       48.51599
+      ],
+      [
+       -122.99422,
+       48.51643
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 4367,
+    "PIN": "251923004000",
+    "ALTPin": "251923004",
+    "Island": "San Juan",
+    "District": "1 - San Juan",
+    "Acres": 6.4822041300000004,
+    "TA_ID": 7282,
+    "Owner": "CHARLES LAIRD & JUDITH SHEPHERD",
+    "Address_1": "1802 NE RAVENNA BLVD",
+    "Address_2": null,
+    "Address_3": null,
+    "City": "SEATTLE",
+    "State": "WA",
+    "Zip": "98105-2445",
+    "Short_Lega": "PR GL 1 & GL 2 TGW CONS ESMT & BEACH ACCESS & VIEW ESMTS    Sec 19, T 35N, R 2W",
+    "Legal_Acre": 6.4821999999999997,
+    "Taxable_Ac": 6.2999999999999998,
+    "Tax_Code": "0493",
+    "Tax_Area": "SAN JUAN",
+    "Land_Value": 247560,
+    "Appraised_": 316130,
+    "Curruse_Va": 31190,
+    "Bldg_Value": 86890,
+    "Owner_Last": "LAIRD & JUDITH",
+    "Use_Code": "9420",
+    "Tax_Status": null,
+    "Sale_date": null,
+    "Sale_Price": null
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -122.99438,
+       48.51853
+      ],
+      [
+       -122.99339,
+       48.51654
+      ],
+      [
+       -122.99494,
+       48.51668
+      ],
+      [
+       -122.99438,
+       48.51853
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 317647,
+    "PIN": "252022001000",
+    "ALTPin": "252022001",
+    "Island": "San Juan",
+    "District": "1 - San Juan",
+    "Acres": 1.85324891,
+    "TA_ID": 7288,
+    "Owner": "JOHN A HOWELL & CLAIRE POWERS   ",
+    "Address_1": "5747 30TH AVE NE",
+    "Address_2": null,
+    "Address_3": null,
+    "City": "SEATTLE",
+    "State": "WA",
+    "Zip": "98105-5523",
+    "Short_Lega": "PR GL 1 SEC 20 PR GL 6 SEC 19    Sec 19 & 20, T 35N, R 2W",
+    "Legal_Acre": 1.8532,
+    "Taxable_Ac": 1.8200000000000001,
+    "Tax_Code": "0493",
+    "Tax_Area": "SAN JUAN",
+    "Land_Value": 577640,
+    "Appraised_": 579140,
+    "Curruse_Va": 41470,
+    "Bldg_Value": 21920,
+    "Owner_Last": "HOWELL & CLAIRE POWERS",
+    "Use_Code": "9400",
+    "Tax_Status": null,
+    "Sale_date": null,
+    "Sale_Price": null
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -122.97409,
+       48.52174
+      ],
+      [
+       -122.97307,
+       48.52068
+      ],
+      [
+       -122.97439,
+       48.52064
+      ],
+      [
+       -122.97409,
+       48.52174
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 317645,
+    "PIN": "252022003000",
+    "ALTPin": "252022003",
+    "Island": "San Juan",
+    "District": "1 - San Juan",
+    "Acres": 1.30869082,
+    "TA_ID": 7290,
+    "Owner": "JOHN A HOWELL & CLAIRE POWERS   ",
+    "Address_1": "5747 30TH AVE NE",
+    "Address_2": null,
+    "Address_3": null,
+    "City": "SEATTLE",
+    "State": "WA",
+    "Zip": "98105-5523",
+    "Short_Lega": "PR GL 1    Sec 20, T 35N, R 2W",
+    "Legal_Acre": 1.3087,
+    "Taxable_Ac": 1.3100000000000001,
+    "Tax_Code": "0493",
+    "Tax_Area": "SAN JUAN",
+    "Land_Value": 598280,
+    "Appraised_": 400840,
+    "Curruse_Va": 400840,
+    "Bldg_Value": 0,
+    "Owner_Last": "HOWELL & CLAIRE POWERS",
+    "Use_Code": "9400",
+    "Tax_Status": null,
+    "Sale_date": null,
+    "Sale_Price": null
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -122.97232,
+       48.52117
+      ],
+      [
+       -122.97307,
+       48.52068
+      ],
+      [
+       -122.97409,
+       48.52174
+      ],
+      [
+       -122.97232,
+       48.52117
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 4411,
+    "PIN": "252422001000",
+    "ALTPin": "252422001",
+    "Island": "Lopez",
+    "District": "3 - Lopez",
+    "Acres": 40.25289549,
+    "TA_ID": 7637,
+    "Owner": "ELIZABETH ELLIS                 ",
+    "Address_1": "19707 67TH AVE NE",
+    "Address_2": null,
+    "Address_3": null,
+    "City": "KENMORE",
+    "State": "WA",
+    "Zip": "98028-3450",
+    "Short_Lega": "NW-NW EX CO RD     Sec 24, T 35N, R 2W",
+    "Legal_Acre": 40.252899999999997,
+    "Taxable_Ac": 38.530000000000001,
+    "Tax_Code": "0442",
+    "Tax_Area": "LOPEZ",
+    "Land_Value": 360000,
+    "Appraised_": 233840,
+    "Curruse_Va": 157340,
+    "Bldg_Value": 0,
+    "Owner_Last": "ELLIS",
+    "Use_Code": "9400",
+    "Tax_Status": null,
+    "Sale_date": null,
+    "Sale_Price": null
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -122.88812,
+       48.52138
+      ],
+      [
+       -122.88266,
+       48.51779
+      ],
+      [
+       -122.88815,
+       48.51777
+      ],
+      [
+       -122.88812,
+       48.52138
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 149850,
+    "PIN": "253441001000",
+    "ALTPin": "253441001",
+    "Island": "Lopez",
+    "District": "3 - Lopez",
+    "Acres": 39.023978280000001,
+    "TA_ID": 8174,
+    "Owner": "JOHN G & JULIE A KUHLMAN",
+    "Address_1": "117 RIVER GLEN TERRACE",
+    "Address_2": "",
+    "Address_3": "",
+    "City": "KALAMA",
+    "State": "WA",
+    "Zip": "98625-9612",
+    "Short_Lega": "NE-SE     Sec 34, T 35N, R 2W",
+    "Legal_Acre": 39.024000000000001,
+    "Taxable_Ac": 39.020000000000003,
+    "Tax_Code": "0442",
+    "Tax_Area": "LOPEZ",
+    "Land_Value": 375000,
+    "Appraised_": 290680,
+    "Curruse_Va": 162500,
+    "Bldg_Value": 3180,
+    "Owner_Last": null,
+    "Use_Code": "9430",
+    "Tax_Status": null,
+    "Sale_date": 1360454400000,
+    "Sale_Price": 375000
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -122.91,
+       48.48525
+      ],
+      [
+       -122.9154,
+       48.48177
+      ],
+      [
+       -122.91542,
+       48.48532
+      ],
+      [
+       -122.91,
+       48.48525
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 1871,
+    "PIN": "253444001000",
+    "ALTPin": "253444001",
+    "Island": "Lopez",
+    "District": "3 - Lopez",
+    "Acres": 39.083450310000003,
+    "TA_ID": 8176,
+    "Owner": "LARS R & SUE M DILLING",
+    "Address_1": "PO BOX 14",
+    "Address_2": "",
+    "Address_3": "",
+    "City": "ACHILLE",
+    "State": "OK",
+    "Zip": "74720-0014",
+    "Short_Lega": "SE-SE EX CO RD     Sec 34, T 35N, R 2W",
+    "Legal_Acre": 39.083500000000001,
+    "Taxable_Ac": 38.18,
+    "Tax_Code": "0442",
+    "Tax_Area": "LOPEZ",
+    "Land_Value": 390000,
+    "Appraised_": 253500,
+    "Curruse_Va": 253500,
+    "Bldg_Value": 0,
+    "Owner_Last": null,
+    "Use_Code": "9430",
+    "Tax_Status": null,
+    "Sale_date": 1358726400000,
+    "Sale_Price": 277500
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -122.91534,
+       48.48177
+      ],
+      [
+       -122.90994,
+       48.4782
+      ],
+      [
+       -122.91538,
+       48.47822
+      ],
+      [
+       -122.91534,
+       48.48177
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 2399,
+    "PIN": "253511004000",
+    "ALTPin": "253511004",
+    "Island": "Lopez",
+    "District": "3 - Lopez",
+    "Acres": 34.215347960000003,
+    "TA_ID": 8179,
+    "Owner": "RICHARD C GERRING               ",
+    "Address_1": "PO BOX 266",
+    "Address_2": null,
+    "Address_3": null,
+    "City": "LOPEZ",
+    "State": "WA",
+    "Zip": "98261-0266",
+    "Short_Lega": "PR LT 4 - ROBERT JENISON SHORT PLAT     Sec 35, T 35N, R 2W",
+    "Legal_Acre": 34.215299999999999,
+    "Taxable_Ac": 33.479999999999997,
+    "Tax_Code": "0442",
+    "Tax_Area": "LOPEZ",
+    "Land_Value": 330000,
+    "Appraised_": 452270,
+    "Curruse_Va": 170630,
+    "Bldg_Value": 214140,
+    "Owner_Last": "GERRING",
+    "Use_Code": "9430",
+    "Tax_Status": null,
+    "Sale_date": null,
+    "Sale_Price": null
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -122.8898,
+       48.49239
+      ],
+      [
+       -122.89085,
+       48.48889
+      ],
+      [
+       -122.8964,
+       48.49069
+      ],
+      [
+       -122.8898,
+       48.49239
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 17026,
+    "PIN": "253534002000",
+    "ALTPin": "253534002",
+    "Island": "Lopez",
+    "District": "3 - Lopez",
+    "Acres": 29.20535533,
+    "TA_ID": 8213,
+    "Owner": "CHRISTINA LEIGH NELSON",
+    "Address_1": "1040 STAR CIRCLE",
+    "Address_2": null,
+    "Address_3": null,
+    "City": "HARRISONBURG",
+    "State": "VA",
+    "Zip": "22801-9693",
+    "Short_Lega": "SE-SW EX N545 OF E800 OF SE-SW & EX CO RD Sec 35, T 35N, R 2W",
+    "Legal_Acre": 29.205400000000001,
+    "Taxable_Ac": 28.199999999999999,
+    "Tax_Code": "0442",
+    "Tax_Area": "LOPEZ",
+    "Land_Value": 341500,
+    "Appraised_": 324240,
+    "Curruse_Va": 178040,
+    "Bldg_Value": 78600,
+    "Owner_Last": null,
+    "Use_Code": "9430",
+    "Tax_Status": null,
+    "Sale_date": 1312156800000,
+    "Sale_Price": 0
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -122.89908,
+       48.48001
+      ],
+      [
+       -122.90451,
+       48.47819
+      ],
+      [
+       -122.90453,
+       48.48173
+      ],
+      [
+       -122.89908,
+       48.48001
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 1894,
+    "PIN": "253542002000",
+    "ALTPin": "253542002",
+    "Island": "Lopez",
+    "District": "3 - Lopez",
+    "Acres": 20.00958572,
+    "TA_ID": 8222,
+    "Owner": "STEVEN L & SARAH J SNOWDEN      ",
+    "Address_1": "6341 SUMMERGRAPE WAY",
+    "Address_2": null,
+    "Address_3": null,
+    "City": "COLUMBIA",
+    "State": "MD",
+    "Zip": "21044-3808",
+    "Short_Lega": "MACLEOD FARM SHORT PLAT LOT 2 Sec 35, T 35N, R 2W",
+    "Legal_Acre": 20.009599999999999,
+    "Taxable_Ac": 19.550000000000001,
+    "Tax_Code": "0442",
+    "Tax_Area": "LOPEZ",
+    "Land_Value": 291000,
+    "Appraised_": 332650,
+    "Curruse_Va": 111480,
+    "Bldg_Value": 89420,
+    "Owner_Last": "SNOWDEN",
+    "Use_Code": "9430",
+    "Tax_Status": null,
+    "Sale_date": null,
+    "Sale_Price": null
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -122.89365,
+       48.48178
+      ],
+      [
+       -122.89909,
+       48.48176
+      ],
+      [
+       -122.89909,
+       48.48358
+      ],
+      [
+       -122.89365,
+       48.48178
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 13451,
+    "PIN": "260411004000",
+    "ALTPin": "260411004",
+    "Island": "Orcas",
+    "District": "2 - Orcas",
+    "Acres": 45.989143589999998,
+    "TA_ID": 8445,
+    "Owner": "BARBARA HUFFMAN",
+    "Address_1": "46 PLUM TREE  LN",
+    "Address_2": null,
+    "Address_3": null,
+    "City": "EASTSOUND",
+    "State": "WA",
+    "Zip": "98245-9323",
+    "Short_Lega": "PR GL-1 & PR SE-NE, EX CO RD; TGW CONS ESMT    Sec 04, T 36N, R 2W",
+    "Legal_Acre": 45.989100000000001,
+    "Taxable_Ac": 45.100000000000001,
+    "Tax_Code": "0374",
+    "Tax_Area": "ORCAS/CEMETERY",
+    "Land_Value": 401840,
+    "Appraised_": 497210,
+    "Curruse_Va": 121580,
+    "Bldg_Value": 270330,
+    "Owner_Last": null,
+    "Use_Code": "9420",
+    "Tax_Status": null,
+    "Sale_date": 1298505600000,
+    "Sale_Price": 1050000
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -122.94469,
+       48.64522
+      ],
+      [
+       -122.94477,
+       48.6399
+      ],
+      [
+       -122.95023,
+       48.64041
+      ],
+      [
+       -122.94469,
+       48.64522
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 13495,
+    "PIN": "260521001000",
+    "ALTPin": "260521001",
+    "Island": "Orcas",
+    "District": "2 - Orcas",
+    "Acres": 25.08106652,
+    "TA_ID": 8564,
+    "Owner": "WILDROSE ORCHARDS LLC",
+    "Address_1": "200 NE PACIFIC ST",
+    "Address_2": "#102",
+    "Address_3": "",
+    "City": "SEATTLE",
+    "State": "WA",
+    "Zip": "98105-6856",
+    "Short_Lega": "PR GL 2, PR GL 3, PR GL 6 EX CO RD 6    Sec 05, T 36N, R 2W",
+    "Legal_Acre": 25.081099999999999,
+    "Taxable_Ac": 24.34,
+    "Tax_Code": "0374",
+    "Tax_Area": "ORCAS/CEMETERY",
+    "Land_Value": 487210,
+    "Appraised_": 1258900,
+    "Curruse_Va": 179140,
+    "Bldg_Value": 863970,
+    "Owner_Last": null,
+    "Use_Code": "1100",
+    "Tax_Status": null,
+    "Sale_date": 1353283200000,
+    "Sale_Price": 0
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -122.97773,
+       48.64038
+      ],
+      [
+       -122.98126,
+       48.64213
+      ],
+      [
+       -122.97858,
+       48.64544
+      ],
+      [
+       -122.97773,
+       48.64038
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 11283,
+    "PIN": "261723001000",
+    "ALTPin": "261723001",
+    "Island": "Orcas",
+    "District": "2 - Orcas",
+    "Acres": 20.266296669999999,
+    "TA_ID": 9360,
+    "Owner": "ORCAS VISION PRESERVE LLC",
+    "Address_1": "1001 4TH AVE STE 4200",
+    "Address_2": "",
+    "Address_3": "",
+    "City": "SEATTLE",
+    "State": "WA",
+    "Zip": "98154-1154",
+    "Short_Lega": "PR E/12 SW-NW & PR GL 2    Sec 17, T 36N, R 2W",
+    "Legal_Acre": 20.266300000000001,
+    "Taxable_Ac": 20.120000000000001,
+    "Tax_Code": "0374",
+    "Tax_Area": "ORCAS/CEMETERY",
+    "Land_Value": 405620,
+    "Appraised_": 170860,
+    "Curruse_Va": 154140,
+    "Bldg_Value": 16720,
+    "Owner_Last": null,
+    "Use_Code": "9400",
+    "Tax_Status": null,
+    "Sale_date": 1348099200000,
+    "Sale_Price": 8300000
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -122.98309,
+       48.60911
+      ],
+      [
+       -122.98585,
+       48.60911
+      ],
+      [
+       -122.9858,
+       48.61275
+      ],
+      [
+       -122.98309,
+       48.60911
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 290724,
+    "PIN": "261724001000",
+    "ALTPin": "261724001",
+    "Island": "Orcas",
+    "District": "2 - Orcas",
+    "Acres": 21.047024409999999,
+    "TA_ID": 9361,
+    "Owner": "ORCAS VISION PRESERVE LLC",
+    "Address_1": "1001 4TH AVE STE 4200",
+    "Address_2": "",
+    "Address_3": "",
+    "City": "SEATTLE",
+    "State": "WA",
+    "Zip": "98154-1154",
+    "Short_Lega": "PR GL 2 TGW TDS     Sec 17, T 36N, R 2W",
+    "Legal_Acre": 21.047000000000001,
+    "Taxable_Ac": 21.050000000000001,
+    "Tax_Code": "0374",
+    "Tax_Area": "ORCAS/CEMETERY",
+    "Land_Value": 2808310,
+    "Appraised_": 4176970,
+    "Curruse_Va": 560270,
+    "Bldg_Value": 2282770,
+    "Owner_Last": null,
+    "Use_Code": "9400",
+    "Tax_Status": null,
+    "Sale_date": 1348099200000,
+    "Sale_Price": 8300000
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -122.97851,
+       48.61222
+      ],
+      [
+       -122.98309,
+       48.60911
+      ],
+      [
+       -122.98305,
+       48.61273
+      ],
+      [
+       -122.97851,
+       48.61222
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 298725,
+    "PIN": "261731001000",
+    "ALTPin": "261731001",
+    "Island": "Orcas",
+    "District": "2 - Orcas",
+    "Acres": 21.52093181,
+    "TA_ID": 9362,
+    "Owner": "ORCAS VISION PRESERVE LLC",
+    "Address_1": "1001 4TH AVE STE 4200",
+    "Address_2": "",
+    "Address_3": "",
+    "City": "SEATTLE",
+    "State": "WA",
+    "Zip": "98154-1154",
+    "Short_Lega": "PR GL 3 TGW TDS    Sec 17, T 36N, R 2W",
+    "Legal_Acre": 21.520900000000001,
+    "Taxable_Ac": 21.52,
+    "Tax_Code": "0374",
+    "Tax_Area": "ORCAS/CEMETERY",
+    "Land_Value": 1568220,
+    "Appraised_": 744660,
+    "Curruse_Va": 558000,
+    "Bldg_Value": 86870,
+    "Owner_Last": null,
+    "Use_Code": "9400",
+    "Tax_Status": null,
+    "Sale_date": 1348099200000,
+    "Sale_Price": 8300000
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -122.98314,
+       48.60911
+      ],
+      [
+       -122.97919,
+       48.608
+      ],
+      [
+       -122.98041,
+       48.60547
+      ],
+      [
+       -122.98314,
+       48.60911
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 11034,
+    "PIN": "261732001000",
+    "ALTPin": "261732001",
+    "Island": "Orcas",
+    "District": "2 - Orcas",
+    "Acres": 31.43079981,
+    "TA_ID": 9367,
+    "Owner": "ORCAS VISION PRESERVE LLC",
+    "Address_1": "1001 4TH AVE STE 4200",
+    "Address_2": "",
+    "Address_3": "",
+    "City": "SEATTLE",
+    "State": "WA",
+    "Zip": "98154-1154",
+    "Short_Lega": "PR NW-SW     Sec 17, T 36N, R 2W",
+    "Legal_Acre": 31.4313,
+    "Taxable_Ac": 31.030000000000001,
+    "Tax_Code": "0374",
+    "Tax_Area": "ORCAS/CEMETERY",
+    "Land_Value": 479480,
+    "Appraised_": 429510,
+    "Curruse_Va": 145500,
+    "Bldg_Value": 187430,
+    "Owner_Last": null,
+    "Use_Code": "9400",
+    "Tax_Status": null,
+    "Sale_date": 1348099200000,
+    "Sale_Price": 8300000
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -122.98314,
+       48.60911
+      ],
+      [
+       -122.98813,
+       48.60544
+      ],
+      [
+       -122.98818,
+       48.6091
+      ],
+      [
+       -122.98314,
+       48.60911
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 10827,
+    "PIN": "261733013000",
+    "ALTPin": "261733013",
+    "Island": "Orcas",
+    "District": "2 - Orcas",
+    "Acres": 6.9650678700000004,
+    "TA_ID": 9381,
+    "Owner": "ORCAS VISION PRESERVE LLC",
+    "Address_1": "1001 4TH AVE STE 4200",
+    "Address_2": "",
+    "Address_3": "",
+    "City": "SEATTLE",
+    "State": "WA",
+    "Zip": "98154-1154",
+    "Short_Lega": "PR N334.5' GL 5     Sec 17, T 36N, R 2W",
+    "Legal_Acre": 6.9650999999999996,
+    "Taxable_Ac": 6.9699999999999998,
+    "Tax_Code": "0374",
+    "Tax_Area": "ORCAS/CEMETERY",
+    "Land_Value": 204630,
+    "Appraised_": 77760,
+    "Curruse_Va": 77760,
+    "Bldg_Value": 0,
+    "Owner_Last": null,
+    "Use_Code": "9400",
+    "Tax_Status": null,
+    "Sale_date": 1348099200000,
+    "Sale_Price": 8300000
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -122.98433,
+       48.60545
+      ],
+      [
+       -122.98802,
+       48.60452
+      ],
+      [
+       -122.98813,
+       48.60544
+      ],
+      [
+       -122.98433,
+       48.60545
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 310445,
+    "PIN": "261734001000",
+    "ALTPin": "261734001",
+    "Island": "Orcas",
+    "District": "2 - Orcas",
+    "Acres": 39.197896970000002,
+    "TA_ID": 9383,
+    "Owner": "ORCAS VISION PRESERVE LLC",
+    "Address_1": "1001 4TH AVE STE 4200",
+    "Address_2": "",
+    "Address_3": "",
+    "City": "SEATTLE",
+    "State": "WA",
+    "Zip": "98154-1154",
+    "Short_Lega": "PR GL 4 (LEGAL ACREAGE TO MEANDER LINE) Sec 17, T 36N, R 2W",
+    "Legal_Acre": 39.197899999999997,
+    "Taxable_Ac": 38.939999999999998,
+    "Tax_Code": "0374",
+    "Tax_Area": "ORCAS/CEMETERY",
+    "Land_Value": 2113590,
+    "Appraised_": 803160,
+    "Curruse_Va": 803160,
+    "Bldg_Value": 0,
+    "Owner_Last": null,
+    "Use_Code": "9400",
+    "Tax_Status": null,
+    "Sale_date": 1348099200000,
+    "Sale_Price": 8300000
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -122.98041,
+       48.60547
+      ],
+      [
+       -122.97616,
+       48.60299
+      ],
+      [
+       -122.98309,
+       48.60189
+      ],
+      [
+       -122.98041,
+       48.60547
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 242671,
+    "PIN": "262622001000",
+    "ALTPin": "262622001",
+    "Island": "Shaw",
+    "District": "3 - Lopez",
+    "Acres": 13.602672289999999,
+    "TA_ID": 9925,
+    "Owner": "CHRISTOPHER M CARLETTI TTEE UNDER THE SHAW ISLAND TR",
+    "Address_1": "c/o WATERMARK EST MGMT SERV ",
+    "Address_2": "10230 NE POINTS DR  SUITE 200",
+    "Address_3": null,
+    "City": "KIRKLAND",
+    "State": "WA",
+    "Zip": "98033-7897",
+    "Short_Lega": "PR GL 1 TGW CONS ESMT & SUBJ TO DOCK ESMT     Sec 26, T 36N, R 2W",
+    "Legal_Acre": 13.6027,
+    "Taxable_Ac": 13.6,
+    "Tax_Code": "0101",
+    "Tax_Area": "SHAW",
+    "Land_Value": 860000,
+    "Appraised_": 2005470,
+    "Curruse_Va": 200100,
+    "Bldg_Value": 1380370,
+    "Owner_Last": "CARLETTI, TTEE",
+    "Use_Code": "9420",
+    "Tax_Status": null,
+    "Sale_date": null,
+    "Sale_Price": null
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -122.92159,
+       48.58705
+      ],
+      [
+       -122.9177,
+       48.58358
+      ],
+      [
+       -122.92057,
+       48.58362
+      ],
+      [
+       -122.92159,
+       48.58705
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 242635,
+    "PIN": "262622002000",
+    "ALTPin": "262622002",
+    "Island": "Shaw",
+    "District": "3 - Lopez",
+    "Acres": 10.582980839999999,
+    "TA_ID": 9926,
+    "Owner": "CHRISTOPHER M CARLETTI TTEE UNDER THE SHAW ISLAND TR",
+    "Address_1": "c/o WATERMARK EST MGMT SERV ",
+    "Address_2": "10230 NE POINTS DR  SUITE 200",
+    "Address_3": null,
+    "City": "KIRKLAND",
+    "State": "WA",
+    "Zip": "98033-7897",
+    "Short_Lega": "PR GL 1 TGW CONS ESMT     Sec 26, T 36N, R 2W",
+    "Legal_Acre": 10.583,
+    "Taxable_Ac": 10.58,
+    "Tax_Code": "0101",
+    "Tax_Area": "SHAW",
+    "Land_Value": 765000,
+    "Appraised_": 1178590,
+    "Curruse_Va": 156400,
+    "Bldg_Value": 597190,
+    "Owner_Last": "CARLETTI, TTEE",
+    "Use_Code": "9420",
+    "Tax_Status": null,
+    "Sale_date": null,
+    "Sale_Price": null
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -122.92107,
+       48.58587
+      ],
+      [
+       -122.92057,
+       48.58362
+      ],
+      [
+       -122.92316,
+       48.58365
+      ],
+      [
+       -122.92107,
+       48.58587
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 9390,
+    "PIN": "262623001000",
+    "ALTPin": "262623001",
+    "Island": "Shaw",
+    "District": "3 - Lopez",
+    "Acres": 23.591520679999999,
+    "TA_ID": 9928,
+    "Owner": "CHRISTOPHER M CARLETTI TTEE UNDER THE SHAW ISLAND TR",
+    "Address_1": "c/o WATERMARK EST MGMT SERV ",
+    "Address_2": "10230 NE POINTS DR  SUITE 200",
+    "Address_3": null,
+    "City": "KIRKLAND",
+    "State": "WA",
+    "Zip": "98033-7897",
+    "Short_Lega": "ELY PR SW-NW TGW CONSERVATION ESMT     Sec 26, T 36N, R 2W",
+    "Legal_Acre": 23.5915,
+    "Taxable_Ac": 23.59,
+    "Tax_Code": "0101",
+    "Tax_Area": "SHAW",
+    "Land_Value": 98000,
+    "Appraised_": 45080,
+    "Curruse_Va": 45080,
+    "Bldg_Value": 0,
+    "Owner_Last": "CARLETTI, TTEE",
+    "Use_Code": "9420",
+    "Tax_Status": null,
+    "Sale_date": null,
+    "Sale_Price": null
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -122.9177,
+       48.58358
+      ],
+      [
+       -122.91773,
+       48.57997
+      ],
+      [
+       -122.92184,
+       48.58001
+      ],
+      [
+       -122.9177,
+       48.58358
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 9394,
+    "PIN": "262623002000",
+    "ALTPin": "262623002",
+    "Island": "Shaw",
+    "District": "3 - Lopez",
+    "Acres": 16.41910584,
+    "TA_ID": 9929,
+    "Owner": "CHRISTOPHER M CARLETTI TTEE UNDER THE SHAW ISLAND TR",
+    "Address_1": "c/o WATERMARK EST MGMT SERV ",
+    "Address_2": "10230 NE POINTS DR  SUITE 200",
+    "Address_3": null,
+    "City": "KIRKLAND",
+    "State": "WA",
+    "Zip": "98033-7897",
+    "Short_Lega": "WLY PR SW-NW CONSERVATION ESMT     Sec 26, T 36N, R 2W",
+    "Legal_Acre": 16.4191,
+    "Taxable_Ac": 16.420000000000002,
+    "Tax_Code": "0101",
+    "Tax_Area": "SHAW",
+    "Land_Value": 92500,
+    "Appraised_": 42550,
+    "Curruse_Va": 42550,
+    "Bldg_Value": 0,
+    "Owner_Last": "CARLETTI, TTEE",
+    "Use_Code": "9420",
+    "Tax_Status": null,
+    "Sale_date": null,
+    "Sale_Price": null
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -122.92057,
+       48.58362
+      ],
+      [
+       -122.92319,
+       48.58003
+      ],
+      [
+       -122.92315,
+       48.58365
+      ],
+      [
+       -122.92057,
+       48.58362
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 242538,
+    "PIN": "262624001000",
+    "ALTPin": "262624001",
+    "Island": "Shaw",
+    "District": "3 - Lopez",
+    "Acres": 34.497208720000003,
+    "TA_ID": 9930,
+    "Owner": "CHRISTOPHER M CARLETTI TTEE UNDER THE SHAW ISLAND TR",
+    "Address_1": "c/o WATERMARK EST MGMT SERV ",
+    "Address_2": "10230 NE POINTS DR  SUITE 200",
+    "Address_3": null,
+    "City": "KIRKLAND",
+    "State": "WA",
+    "Zip": "98033-7897",
+    "Short_Lega": "GL 2 EX E300.01' TGW CONS ESMT & DOCK ESMT    Sec 26, T 36N, R 2W",
+    "Legal_Acre": 34.497199999999999,
+    "Taxable_Ac": 34.5,
+    "Tax_Code": "0101",
+    "Tax_Area": "SHAW",
+    "Land_Value": 1137500,
+    "Appraised_": 523250,
+    "Curruse_Va": 523250,
+    "Bldg_Value": 0,
+    "Owner_Last": "CARLETTI, TTEE",
+    "Use_Code": "9420",
+    "Tax_Status": null,
+    "Sale_date": null,
+    "Sale_Price": null
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -122.9164,
+       48.58466
+      ],
+      [
+       -122.91228,
+       48.5799
+      ],
+      [
+       -122.9165,
+       48.57995
+      ],
+      [
+       -122.9164,
+       48.58466
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 242648,
+    "PIN": "262624002000",
+    "ALTPin": "262624002",
+    "Island": "Shaw",
+    "District": "3 - Lopez",
+    "Acres": 17.03137795,
+    "TA_ID": 9931,
+    "Owner": "CHRISTOPHER M CARLETTI TTEE UNDER THE SHAW ISLAND TR",
+    "Address_1": "c/o WATERMARK EST MGMT SERV ",
+    "Address_2": "10230 NE POINTS DR  SUITE 200",
+    "Address_3": null,
+    "City": "KIRKLAND",
+    "State": "WA",
+    "Zip": "98033-7897",
+    "Short_Lega": "PR GL 1 & PR GL 2, TGW CONS ESMT & DOCK ESMT     Sec 26, T 36N, R 2W",
+    "Legal_Acre": 17.031400000000001,
+    "Taxable_Ac": 17.030000000000001,
+    "Tax_Code": "0101",
+    "Tax_Area": "SHAW",
+    "Land_Value": 765000,
+    "Appraised_": 351900,
+    "Curruse_Va": 351900,
+    "Bldg_Value": 0,
+    "Owner_Last": "CARLETTI, TTEE",
+    "Use_Code": "9420",
+    "Tax_Status": null,
+    "Sale_date": null,
+    "Sale_Price": null
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -122.91946,
+       48.58643
+      ],
+      [
+       -122.91645,
+       48.58465
+      ],
+      [
+       -122.9165,
+       48.57995
+      ],
+      [
+       -122.91946,
+       48.58643
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 9090,
+    "PIN": "262631001000",
+    "ALTPin": "262631001",
+    "Island": "Shaw",
+    "District": "3 - Lopez",
+    "Acres": 7.3027053500000001,
+    "TA_ID": 9932,
+    "Owner": "CHRISTOPHER M CARLETTI TTEE UNDER THE SHAW ISLAND TR",
+    "Address_1": "c/o WATERMARK EST MGMT SERV ",
+    "Address_2": "10230 NE POINTS DR  SUITE 200",
+    "Address_3": null,
+    "City": "KIRKLAND",
+    "State": "WA",
+    "Zip": "98033-7897",
+    "Short_Lega": "LT 12 TGW CONSERVATION ESMT     Sec 26, T 36N, R 2W",
+    "Legal_Acre": 7.3026999999999997,
+    "Taxable_Ac": 7.2999999999999998,
+    "Tax_Code": "0101",
+    "Tax_Area": "SHAW",
+    "Land_Value": 39000,
+    "Appraised_": 17940,
+    "Curruse_Va": 17940,
+    "Bldg_Value": 0,
+    "Owner_Last": "CARLETTI, TTEE",
+    "Use_Code": "9420",
+    "Tax_Status": null,
+    "Sale_date": null,
+    "Sale_Price": null
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -122.9123,
+       48.57809
+      ],
+      [
+       -122.91232,
+       48.57628
+      ],
+      [
+       -122.91483,
+       48.57631
+      ],
+      [
+       -122.9123,
+       48.57809
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 9065,
+    "PIN": "262631002000",
+    "ALTPin": "262631002",
+    "Island": "Shaw",
+    "District": "3 - Lopez",
+    "Acres": 28.034881609999999,
+    "TA_ID": 9933,
+    "Owner": "CHRISTOPHER M CARLETTI TTEE UNDER THE SHAW ISLAND TR",
+    "Address_1": "c/o WATERMARK EST MGMT SERV ",
+    "Address_2": "10230 NE POINTS DR  SUITE 200",
+    "Address_3": null,
+    "City": "KIRKLAND",
+    "State": "WA",
+    "Zip": "98033-7897",
+    "Short_Lega": "SLY PR GL7 & ELY PR GL8 TGW CONSERVATION ESMT    Sec 26, T 36N, R 2W",
+    "Legal_Acre": 28.0349,
+    "Taxable_Ac": 28.030000000000001,
+    "Tax_Code": "0101",
+    "Tax_Area": "SHAW",
+    "Land_Value": 53600,
+    "Appraised_": 24660,
+    "Curruse_Va": 24660,
+    "Bldg_Value": 0,
+    "Owner_Last": "CARLETTI, TTEE",
+    "Use_Code": "9420",
+    "Tax_Status": null,
+    "Sale_date": null,
+    "Sale_Price": null
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -122.91279,
+       48.57859
+      ],
+      [
+       -122.91766,
+       48.57313
+      ],
+      [
+       -122.91775,
+       48.57865
+      ],
+      [
+       -122.91279,
+       48.57859
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 9152,
+    "PIN": "262631003000",
+    "ALTPin": "262631003",
+    "Island": "Shaw",
+    "District": "3 - Lopez",
+    "Acres": 14.263028690000001,
+    "TA_ID": 9934,
+    "Owner": "CHRISTOPHER M CARLETTI TTEE UNDER THE SHAW ISLAND TR",
+    "Address_1": "c/o WATERMARK EST MGMT SERV ",
+    "Address_2": "10230 NE POINTS DR  SUITE 200",
+    "Address_3": null,
+    "City": "KIRKLAND",
+    "State": "WA",
+    "Zip": "98033-7897",
+    "Short_Lega": "NLY PR GL7 TGW CONSERVATION ESMT     Sec 26, T 36N, R 2W",
+    "Legal_Acre": 14.263,
+    "Taxable_Ac": 14.26,
+    "Tax_Code": "0101",
+    "Tax_Area": "SHAW",
+    "Land_Value": 87500,
+    "Appraised_": 40250,
+    "Curruse_Va": 40250,
+    "Bldg_Value": 0,
+    "Owner_Last": "CARLETTI, TTEE",
+    "Use_Code": "9420",
+    "Tax_Status": null,
+    "Sale_date": null,
+    "Sale_Price": null
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -122.9165,
+       48.57995
+      ],
+      [
+       -122.91229,
+       48.57915
+      ],
+      [
+       -122.91775,
+       48.57865
+      ],
+      [
+       -122.9165,
+       48.57995
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 9162,
+    "PIN": "262632002000",
+    "ALTPin": "262632002",
+    "Island": "Shaw",
+    "District": "3 - Lopez",
+    "Acres": 7.1188301599999999,
+    "TA_ID": 9936,
+    "Owner": "CHRISTOPHER M CARLETTI TTEE UNDER THE SHAW ISLAND TR",
+    "Address_1": "c/o WATERMARK EST MGMT SERV ",
+    "Address_2": "10230 NE POINTS DR  SUITE 200",
+    "Address_3": null,
+    "City": "KIRKLAND",
+    "State": "WA",
+    "Zip": "98033-7897",
+    "Short_Lega": "WLY PR NW-SW TGW CONSERVATION ESMT & DOCK ESMT    Sec 26, T 36N, R 2W",
+    "Legal_Acre": 7.1188000000000002,
+    "Taxable_Ac": 7.1200000000000001,
+    "Tax_Code": "0101",
+    "Tax_Area": "SHAW",
+    "Land_Value": 73500,
+    "Appraised_": 33810,
+    "Curruse_Va": 33810,
+    "Bldg_Value": 0,
+    "Owner_Last": "CARLETTI, TTEE",
+    "Use_Code": "9420",
+    "Tax_Status": null,
+    "Sale_date": null,
+    "Sale_Price": null
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -122.92184,
+       48.58001
+      ],
+      [
+       -122.92322,
+       48.57641
+      ],
+      [
+       -122.92319,
+       48.58003
+      ],
+      [
+       -122.92184,
+       48.58001
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 9160,
+    "PIN": "262632003000",
+    "ALTPin": "262632003",
+    "Island": "Shaw",
+    "District": "3 - Lopez",
+    "Acres": 27.893390270000001,
+    "TA_ID": 9937,
+    "Owner": "CHRISTOPHER M CARLETTI TTEE UNDER THE SHAW ISLAND TR",
+    "Address_1": "c/o WATERMARK EST MGMT SERV ",
+    "Address_2": "10230 NE POINTS DR  SUITE 200",
+    "Address_3": null,
+    "City": "KIRKLAND",
+    "State": "WA",
+    "Zip": "98033-7897",
+    "Short_Lega": "PR NW-SW TGW CONSERVATION ESMT     Sec 26, T 36N, R 2W",
+    "Legal_Acre": 27.8934,
+    "Taxable_Ac": 27.890000000000001,
+    "Tax_Code": "0101",
+    "Tax_Area": "SHAW",
+    "Land_Value": 102500,
+    "Appraised_": 47150,
+    "Curruse_Va": 47150,
+    "Bldg_Value": 0,
+    "Owner_Last": "CARLETTI, TTEE",
+    "Use_Code": "9420",
+    "Tax_Status": null,
+    "Sale_date": null,
+    "Sale_Price": null
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -122.91773,
+       48.57997
+      ],
+      [
+       -122.92286,
+       48.57641
+      ],
+      [
+       -122.92184,
+       48.58001
+      ],
+      [
+       -122.91773,
+       48.57997
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 9041,
+    "PIN": "262632004000",
+    "ALTPin": "262632004",
+    "Island": "Shaw",
+    "District": "3 - Lopez",
+    "Acres": 5.0017471100000002,
+    "TA_ID": 9938,
+    "Owner": "CHRISTOPHER M CARLETTI TTEE UNDER THE SHAW ISLAND TR",
+    "Address_1": "c/o WATERMARK EST MGMT SERV ",
+    "Address_2": "10230 NE POINTS DR  SUITE 200",
+    "Address_3": null,
+    "City": "KIRKLAND",
+    "State": "WA",
+    "Zip": "98033-7897",
+    "Short_Lega": "PR NW-SW; TGW CONS ESMT     Sec 26, T 36N, R 2W",
+    "Legal_Acre": 5.0016999999999996,
+    "Taxable_Ac": 5,
+    "Tax_Code": "0101",
+    "Tax_Area": "SHAW",
+    "Land_Value": 35000,
+    "Appraised_": 16100,
+    "Curruse_Va": 16100,
+    "Bldg_Value": 0,
+    "Owner_Last": "CARLETTI, TTEE",
+    "Use_Code": "9420",
+    "Tax_Status": null,
+    "Sale_date": null,
+    "Sale_Price": null
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -122.91776,
+       48.57779
+      ],
+      [
+       -122.91777,
+       48.57635
+      ],
+      [
+       -122.9205,
+       48.57638
+      ],
+      [
+       -122.91776,
+       48.57779
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 8943,
+    "PIN": "262633001000",
+    "ALTPin": "262633001",
+    "Island": "Shaw",
+    "District": "3 - Lopez",
+    "Acres": 20.150359439999999,
+    "TA_ID": 9939,
+    "Owner": "CHRISTOPHER M CARLETTI TTEE UNDER THE SHAW ISLAND TR",
+    "Address_1": "c/o WATERMARK EST MGMT SERV ",
+    "Address_2": "10230 NE POINTS DR  SUITE 200",
+    "Address_3": null,
+    "City": "KIRKLAND",
+    "State": "WA",
+    "Zip": "98033-7897",
+    "Short_Lega": "N660' OF W1320' OF GL8 TGW CONS ESMT     Sec 26, T 36N, R 2W",
+    "Legal_Acre": 20.150400000000001,
+    "Taxable_Ac": 20.149999999999999,
+    "Tax_Code": "0101",
+    "Tax_Area": "SHAW",
+    "Land_Value": 94500,
+    "Appraised_": 43470,
+    "Curruse_Va": 43470,
+    "Bldg_Value": 0,
+    "Owner_Last": "CARLETTI, TTEE",
+    "Use_Code": "9420",
+    "Tax_Status": null,
+    "Sale_date": null,
+    "Sale_Price": null
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -122.92286,
+       48.57641
+      ],
+      [
+       -122.91771,
+       48.57454
+      ],
+      [
+       -122.92324,
+       48.5746
+      ],
+      [
+       -122.92286,
+       48.57641
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 8826,
+    "PIN": "262633002000",
+    "ALTPin": "262633002",
+    "Island": "Shaw",
+    "District": "3 - Lopez",
+    "Acres": 20.2827533,
+    "TA_ID": 9940,
+    "Owner": "CHRISTOPHER M CARLETTI TTEE UNDER THE SHAW ISLAND TR",
+    "Address_1": "c/o WATERMARK EST MGMT SERV ",
+    "Address_2": "10230 NE POINTS DR  SUITE 200",
+    "Address_3": null,
+    "City": "KIRKLAND",
+    "State": "WA",
+    "Zip": "98033-7897",
+    "Short_Lega": "SWLY PR GL8 TGW CONSERVATION ESMT     Sec 26, T 36N, R 2W",
+    "Legal_Acre": 20.282800000000002,
+    "Taxable_Ac": 20.280000000000001,
+    "Tax_Code": "0101",
+    "Tax_Area": "SHAW",
+    "Land_Value": 93500,
+    "Appraised_": 43010,
+    "Curruse_Va": 43010,
+    "Bldg_Value": 0,
+    "Owner_Last": "CARLETTI, TTEE",
+    "Use_Code": "9420",
+    "Tax_Status": null,
+    "Sale_date": null,
+    "Sale_Price": null
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -122.91771,
+       48.57454
+      ],
+      [
+       -122.92326,
+       48.57279
+      ],
+      [
+       -122.92324,
+       48.5746
+      ],
+      [
+       -122.91771,
+       48.57454
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 242576,
+    "PIN": "262641001000",
+    "ALTPin": "262641001",
+    "Island": "Shaw",
+    "District": "3 - Lopez",
+    "Acres": 18.737992049999999,
+    "TA_ID": 9942,
+    "Owner": "LOPP LOMA PARK LLC",
+    "Address_1": "8031 10TH AVE NW",
+    "Address_2": "",
+    "Address_3": "",
+    "City": "SEATTLE",
+    "State": "WA",
+    "Zip": "98117-4122",
+    "Short_Lega": "GL 10     Sec 26, T 36N, R 2W",
+    "Legal_Acre": 18.738,
+    "Taxable_Ac": 18.739999999999998,
+    "Tax_Code": "0101",
+    "Tax_Area": "SHAW",
+    "Land_Value": 495000,
+    "Appraised_": 376890,
+    "Curruse_Va": 66300,
+    "Bldg_Value": 10590,
+    "Owner_Last": null,
+    "Use_Code": "9400",
+    "Tax_Status": null,
+    "Sale_date": 1361836800000,
+    "Sale_Price": 0
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -122.90335,
+       48.57964
+      ],
+      [
+       -122.90687,
+       48.57622
+      ],
+      [
+       -122.90683,
+       48.57983
+      ],
+      [
+       -122.90335,
+       48.57964
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 242679,
+    "PIN": "262711001000",
+    "ALTPin": "262711001",
+    "Island": "Shaw",
+    "District": "3 - Lopez",
+    "Acres": 5.1892064099999997,
+    "TA_ID": 9950,
+    "Owner": "CHRISTOPHER M CARLETTI TTEE UNDER THE SHAW ISLAND TR",
+    "Address_1": "c/o WATERMARK EST MGMT SERV ",
+    "Address_2": "10230 NE POINTS DR  SUITE 200",
+    "Address_3": null,
+    "City": "KIRKLAND",
+    "State": "WA",
+    "Zip": "98033-7897",
+    "Short_Lega": "E627' GL 1 TGW CONS ESMT & DOCK ESMT    Sec 27, T 36N, R 2W",
+    "Legal_Acre": 5.1891999999999996,
+    "Taxable_Ac": 5.1900000000000004,
+    "Tax_Code": "0101",
+    "Tax_Area": "SHAW",
+    "Land_Value": 785000,
+    "Appraised_": 361100,
+    "Curruse_Va": 361100,
+    "Bldg_Value": 0,
+    "Owner_Last": "CARLETTI, TTEE",
+    "Use_Code": "9420",
+    "Tax_Status": null,
+    "Sale_date": null,
+    "Sale_Price": null
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -122.92318,
+       48.58505
+      ],
+      [
+       -122.92316,
+       48.58365
+      ],
+      [
+       -122.92575,
+       48.58365
+      ],
+      [
+       -122.92318,
+       48.58505
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 8946,
+    "PIN": "262744003000",
+    "ALTPin": "262744003",
+    "Island": "Shaw",
+    "District": "3 - Lopez",
+    "Acres": 5.0801077599999998,
+    "TA_ID": 10001,
+    "Owner": "CHRISTOPHER M CARLETTI TTEE UNDER THE SHAW ISLAND TR",
+    "Address_1": "c/o WATERMARK EST MGMT SERV ",
+    "Address_2": "10230 NE POINTS DR  SUITE 200",
+    "Address_3": null,
+    "City": "KIRKLAND",
+    "State": "WA",
+    "Zip": "98033-7897",
+    "Short_Lega": "PR SE-SE     Sec 27, T 36N, R 2W",
+    "Legal_Acre": 5.0800999999999998,
+    "Taxable_Ac": 5.0800000000000001,
+    "Tax_Code": "0101",
+    "Tax_Area": "SHAW",
+    "Land_Value": 205000,
+    "Appraised_": 94300,
+    "Curruse_Va": 94300,
+    "Bldg_Value": 0,
+    "Owner_Last": "CARLETTI, TTEE",
+    "Use_Code": "9420",
+    "Tax_Status": null,
+    "Sale_date": null,
+    "Sale_Price": null
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -122.92487,
+       48.57641
+      ],
+      [
+       -122.92488,
+       48.57489
+      ],
+      [
+       -122.92685,
+       48.57489
+      ],
+      [
+       -122.92487,
+       48.57641
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 8945,
+    "PIN": "262744008000",
+    "ALTPin": "262744008",
+    "Island": "Shaw",
+    "District": "3 - Lopez",
+    "Acres": 5.0757240299999999,
+    "TA_ID": 10006,
+    "Owner": "CHRISTOPHER M CARLETTI TTEE UNDER THE SHAW ISLAND TR",
+    "Address_1": "c/o WATERMARK EST MGMT SERV ",
+    "Address_2": "10230 NE POINTS DR  SUITE 200",
+    "Address_3": null,
+    "City": "KIRKLAND",
+    "State": "WA",
+    "Zip": "98033-7897",
+    "Short_Lega": "PR SE-SE     Sec 27, T 36N, R 2W",
+    "Legal_Acre": 5.0757000000000003,
+    "Taxable_Ac": 5.0700000000000003,
+    "Tax_Code": "0101",
+    "Tax_Area": "SHAW",
+    "Land_Value": 160000,
+    "Appraised_": 73600,
+    "Curruse_Va": 73600,
+    "Bldg_Value": 0,
+    "Owner_Last": "CARLETTI, TTEE",
+    "Use_Code": "9420",
+    "Tax_Status": null,
+    "Sale_date": null,
+    "Sale_Price": null
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -122.92322,
+       48.57641
+      ],
+      [
+       -122.92324,
+       48.57489
+      ],
+      [
+       -122.92488,
+       48.57489
+      ],
+      [
+       -122.92322,
+       48.57641
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 9194,
+    "PIN": "262842001000",
+    "ALTPin": "262842001",
+    "Island": "Shaw",
+    "District": "3 - Lopez",
+    "Acres": 40.749903789999998,
+    "TA_ID": 10069,
+    "Owner": "MARY LOU CLARK TTEE OF FAMILY & LIVING TRUSTS",
+    "Address_1": "PO BOX 424",
+    "Address_2": null,
+    "Address_3": null,
+    "City": "SHAW ISLAND",
+    "State": "WA",
+    "Zip": "98286-0424",
+    "Short_Lega": "PR SE EX CO RD TGW BLDG SITE RESTRICTION   Sec 28, T 36N, R 2W",
+    "Legal_Acre": 40.749899999999997,
+    "Taxable_Ac": 40.020000000000003,
+    "Tax_Code": "0101",
+    "Tax_Area": "SHAW",
+    "Land_Value": 274180,
+    "Appraised_": 296680,
+    "Curruse_Va": 124040,
+    "Bldg_Value": 74890,
+    "Owner_Last": "CLARK, TTEE OF FAMILY",
+    "Use_Code": "8800",
+    "Tax_Status": null,
+    "Sale_date": null,
+    "Sale_Price": null
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -122.94503,
+       48.57511
+      ],
+      [
+       -122.95045,
+       48.57323
+      ],
+      [
+       -122.95169,
+       48.57654
+      ],
+      [
+       -122.94503,
+       48.57511
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 242043,
+    "PIN": "263241001000",
+    "ALTPin": "263241001",
+    "Island": "Shaw",
+    "District": "3 - Lopez",
+    "Acres": 327.67334689,
+    "TA_ID": 10234,
+    "Owner": "ELLIS PROPERTIES LLC            ",
+    "Address_1": "PO BOX 31655",
+    "Address_2": "WALLINGFORD STATION",
+    "Address_3": null,
+    "City": "SEATTLE",
+    "State": "WA",
+    "Zip": "98103-1655",
+    "Short_Lega": "GLS 5, 6, 10, & 12, SW-NW, NW-SW, PR SW-SW, PR NW-NW, PR NE-NE, PR SE-SE SEC 29, TGW CONS ESMT      Sec 32, T 36N, R 2W",
+    "Legal_Acre": 327.67340000000002,
+    "Taxable_Ac": 323.10000000000002,
+    "Tax_Code": "0101",
+    "Tax_Area": "SHAW",
+    "Land_Value": 2200030,
+    "Appraised_": 825440,
+    "Curruse_Va": 200030,
+    "Bldg_Value": 425720,
+    "Owner_Last": "ELLIS PROPERTIES LLC",
+    "Use_Code": "9420",
+    "Tax_Status": null,
+    "Sale_date": null,
+    "Sale_Price": null
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -122.96139,
+       48.5666
+      ],
+      [
+       -122.9796,
+       48.56561
+      ],
+      [
+       -122.97215,
+       48.57651
+      ],
+      [
+       -122.96139,
+       48.5666
+      ]
+     ],
+     [
+      [
+       -122.97105,
+       48.56236
+      ],
+      [
+       -122.97079,
+       48.5614
+      ],
+      [
+       -122.97051,
+       48.56228
+      ],
+      [
+       -122.97105,
+       48.56236
+      ]
+     ],
+     [
+      [
+       -122.96941,
+       48.56025
+      ],
+      [
+       -122.96851,
+       48.56045
+      ],
+      [
+       -122.96914,
+       48.56072
+      ],
+      [
+       -122.96941,
+       48.56025
+      ]
+     ],
+     [
+      [
+       -122.97427,
+       48.55848
+      ],
+      [
+       -122.97285,
+       48.55839
+      ],
+      [
+       -122.97442,
+       48.55839
+      ],
+      [
+       -122.97427,
+       48.55848
+      ]
+     ],
+     [
+      [
+       -122.97486,
+       48.55861
+      ],
+      [
+       -122.9746,
+       48.55839
+      ],
+      [
+       -122.97488,
+       48.55839
+      ],
+      [
+       -122.97486,
+       48.55861
+      ]
+     ],
+     [
+      [
+       -122.97444,
+       48.55839
+      ],
+      [
+       -122.97443,
+       48.55839
+      ],
+      [
+       -122.97446,
+       48.55839
+      ],
+      [
+       -122.97444,
+       48.55839
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 8738,
+    "PIN": "263350004000",
+    "ALTPin": "263350004",
+    "Island": "Shaw",
+    "District": "3 - Lopez",
+    "Acres": 27.01816212,
+    "TA_ID": 10273,
+    "Owner": "CHOWDRY SI LLC",
+    "Address_1": "1700 LINCOLN ST STE 2550",
+    "Address_2": null,
+    "Address_3": null,
+    "City": "DENVER",
+    "State": "CO",
+    "Zip": "80203-4502",
+    "Short_Lega": "PR OLD GRAHAM PL LT 4; CONSERVATION EASEMENT    Sec 33, T 36N, R 2W",
+    "Legal_Acre": 27.0182,
+    "Taxable_Ac": 26.969999999999999,
+    "Tax_Code": "0101",
+    "Tax_Area": "SHAW",
+    "Land_Value": 200000,
+    "Appraised_": 151000,
+    "Curruse_Va": 51000,
+    "Bldg_Value": 0,
+    "Owner_Last": "CHOWDRY SI, LLC",
+    "Use_Code": "9420",
+    "Tax_Status": null,
+    "Sale_date": null,
+    "Sale_Price": null
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -122.94379,
+       48.57282
+      ],
+      [
+       -122.94783,
+       48.56798
+      ],
+      [
+       -122.94778,
+       48.57162
+      ],
+      [
+       -122.94379,
+       48.57282
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 16989,
+    "PIN": "270633001000",
+    "ALTPin": "270633001",
+    "Island": "Waldron",
+    "District": "2 - Orcas",
+    "Acres": 4.4321835900000002,
+    "TA_ID": 10474,
+    "Owner": "POINT HAMMOND FARM LLC",
+    "Address_1": "434 MCGILVRA BLVD EAST",
+    "Address_2": null,
+    "Address_3": null,
+    "City": "SEATTLE",
+    "State": "WA",
+    "Zip": "98112-5046",
+    "Short_Lega": "GL 1    Sec 06, T 37N, R 2W",
+    "Legal_Acre": 4.4321999999999999,
+    "Taxable_Ac": 4.4299999999999997,
+    "Tax_Code": "0211",
+    "Tax_Area": "WALDRON",
+    "Land_Value": 385870,
+    "Appraised_": 108040,
+    "Curruse_Va": 108040,
+    "Bldg_Value": 0,
+    "Owner_Last": "POINT HAMMOND FARM, LLC",
+    "Use_Code": "9400",
+    "Tax_Status": null,
+    "Sale_date": null,
+    "Sale_Price": null
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -123.00828,
+       48.71939
+      ],
+      [
+       -123.00966,
+       48.71869
+      ],
+      [
+       -123.00965,
+       48.72081
+      ],
+      [
+       -123.00828,
+       48.71939
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 16936,
+    "PIN": "270723001000",
+    "ALTPin": "270723001",
+    "Island": "Waldron",
+    "District": "2 - Orcas",
+    "Acres": 0.48535344000000002,
+    "TA_ID": 10475,
+    "Owner": "POINT HAMMOND FARM LLC",
+    "Address_1": "434 MCGILVRA BLVD EAST",
+    "Address_2": null,
+    "Address_3": null,
+    "City": "SEATTLE",
+    "State": "WA",
+    "Zip": "98112-5046",
+    "Short_Lega": "S300' GL 2     Sec 07, T 37N, R 2W",
+    "Legal_Acre": 0.4854,
+    "Taxable_Ac": 0.48999999999999999,
+    "Tax_Code": "0211",
+    "Tax_Area": "WALDRON",
+    "Land_Value": 324210,
+    "Appraised_": 90780,
+    "Curruse_Va": 90780,
+    "Bldg_Value": 0,
+    "Owner_Last": "POINT HAMMOND FARM, LLC",
+    "Use_Code": "9400",
+    "Tax_Status": null,
+    "Sale_date": null,
+    "Sale_Price": null
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -123.00938,
+       48.71172
+      ],
+      [
+       -123.00968,
+       48.71136
+      ],
+      [
+       -123.00968,
+       48.71218
+      ],
+      [
+       -123.00938,
+       48.71172
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 308356,
+    "PIN": "271034003000",
+    "ALTPin": "271034003",
+    "Island": "Orcas",
+    "District": "2 - Orcas",
+    "Acres": 15.760908779999999,
+    "TA_ID": 10509,
+    "Owner": "ANNE MOUNT HAY TTEE",
+    "Address_1": "P O BOX 123",
+    "Address_2": null,
+    "Address_3": null,
+    "City": "EASTSOUND",
+    "State": "WA",
+    "Zip": "98245-0123",
+    "Short_Lega": "N1/2 S1/2 GL 5 & PR SE-SW TGW TDS & CONS ESMT     Sec 10, T 37N, R 2W",
+    "Legal_Acre": 15.760899999999999,
+    "Taxable_Ac": 15.65,
+    "Tax_Code": "0374",
+    "Tax_Area": "ORCAS/CEMETERY",
+    "Land_Value": 705620,
+    "Appraised_": 1055030,
+    "Curruse_Va": 255290,
+    "Bldg_Value": 483870,
+    "Owner_Last": "HAY; TRUSTEE",
+    "Use_Code": "9420",
+    "Tax_Status": null,
+    "Sale_date": null,
+    "Sale_Price": null
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -122.93884,
+       48.70481
+      ],
+      [
+       -122.93336,
+       48.70391
+      ],
+      [
+       -122.94213,
+       48.70391
+      ],
+      [
+       -122.93884,
+       48.70481
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 14662,
+    "PIN": "272444002000",
+    "ALTPin": "272444002",
+    "Island": "Orcas",
+    "District": "2 - Orcas",
+    "Acres": 6.0863468699999999,
+    "TA_ID": 12321,
+    "Owner": "JAMES W & KATHLEEN YOUNGREN     ",
+    "Address_1": "1649 OLGA RD",
+    "Address_2": null,
+    "Address_3": null,
+    "City": "EASTSOUND",
+    "State": "WA",
+    "Zip": "98245-9463",
+    "Short_Lega": "PRS GLS  3 & 4 SEC 19, PRS GLS 3 & 4 SEC 24 TGW TDS    Sec 19 & 24, T 37N, R 2W",
+    "Legal_Acre": 6.0862999999999996,
+    "Taxable_Ac": 5.5899999999999999,
+    "Tax_Code": "0374",
+    "Tax_Area": "ORCAS/CEMETERY",
+    "Land_Value": 410250,
+    "Appraised_": 165430,
+    "Curruse_Va": 65480,
+    "Bldg_Value": 98940,
+    "Owner_Last": "YOUNGREN",
+    "Use_Code": "9400",
+    "Tax_Status": null,
+    "Sale_date": null,
+    "Sale_Price": null
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -122.87848,
+       48.67846
+      ],
+      [
+       -122.87865,
+       48.67703
+      ],
+      [
+       -122.88222,
+       48.67762
+      ],
+      [
+       -122.87848,
+       48.67846
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 13673,
+    "PIN": "273234001000",
+    "ALTPin": "273234001",
+    "Island": "Orcas",
+    "District": "2 - Orcas",
+    "Acres": 56.971879829999999,
+    "TA_ID": 12703,
+    "Owner": "LINDA J HENRY & PAMELA J LOEW   ",
+    "Address_1": "c/o DAVIDSON TRUST CO",
+    "Address_2": "701 5TH AVE STE#4050",
+    "Address_3": null,
+    "City": "SEATTLE",
+    "State": "WA",
+    "Zip": "98104-7071",
+    "Short_Lega": "PR SE-SW, PR SW-SE, EX CO RD     Sec 32, T 37N, R 2W",
+    "Legal_Acre": 56.971899999999998,
+    "Taxable_Ac": 56.700000000000003,
+    "Tax_Code": "0374",
+    "Tax_Area": "ORCAS/CEMETERY",
+    "Land_Value": 700900,
+    "Appraised_": 1028760,
+    "Curruse_Va": 282480,
+    "Bldg_Value": 591760,
+    "Owner_Last": "HENRY & PAMELA J LOEW",
+    "Use_Code": "9400",
+    "Tax_Status": null,
+    "Sale_date": null,
+    "Sale_Price": null
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -122.97555,
+       48.64572
+      ],
+      [
+       -122.98126,
+       48.64213
+      ],
+      [
+       -122.9829,
+       48.64806
+      ],
+      [
+       -122.97555,
+       48.64572
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 334026,
+    "PIN": "340123002000",
+    "ALTPin": "340123002",
+    "Island": "San Juan",
+    "District": "1 - San Juan",
+    "Acres": 62.931168399999997,
+    "TA_ID": 12893,
+    "Owner": "FREDERICK R & MARY S AYRE       ",
+    "Address_1": "5400 128TH AVE SE",
+    "Address_2": null,
+    "Address_3": null,
+    "City": "BELLEVUE",
+    "State": "WA",
+    "Zip": "98006-2954",
+    "Short_Lega": "PRS SW-NE & SE-NE SEC 1 PRS SW-NW & GL 3 SEC 2    Sec 01 & 02, T 34N, R 3W",
+    "Legal_Acre": 62.931199999999997,
+    "Taxable_Ac": 62.93,
+    "Tax_Code": "0498",
+    "Tax_Area": "SAN JUAN - SOUTH",
+    "Land_Value": 1317710,
+    "Appraised_": 2440640,
+    "Curruse_Va": 668900,
+    "Bldg_Value": 1444990,
+    "Owner_Last": "AYRE",
+    "Use_Code": "9400",
+    "Tax_Status": null,
+    "Sale_date": null,
+    "Sale_Price": null
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -123.00854,
+       48.4723
+      ],
+      [
+       -123.02355,
+       48.47097
+      ],
+      [
+       -123.02355,
+       48.47314
+      ],
+      [
+       -123.00854,
+       48.4723
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 334002,
+    "PIN": "340213001000",
+    "ALTPin": "340213001",
+    "Island": "San Juan",
+    "District": "1 - San Juan",
+    "Acres": 19.307752180000001,
+    "TA_ID": 12903,
+    "Owner": "FREDERICK R & MARY S AYRE       ",
+    "Address_1": "5400 128TH AVE SE",
+    "Address_2": null,
+    "Address_3": null,
+    "City": "BELLEVUE",
+    "State": "WA",
+    "Zip": "98006-2954",
+    "Short_Lega": "S691.63' OF W1211.76' SW-NE Sec 02, T 34N, R 3W",
+    "Legal_Acre": 19.3735,
+    "Taxable_Ac": 19.309999999999999,
+    "Tax_Code": "0498",
+    "Tax_Area": "SAN JUAN - SOUTH",
+    "Land_Value": 257780,
+    "Appraised_": 174000,
+    "Curruse_Va": 174000,
+    "Bldg_Value": 0,
+    "Owner_Last": "AYRE",
+    "Use_Code": "9400",
+    "Tax_Status": null,
+    "Sale_date": null,
+    "Sale_Price": null
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -123.0259,
+       48.47285
+      ],
+      [
+       -123.02355,
+       48.47097
+      ],
+      [
+       -123.02857,
+       48.47094
+      ],
+      [
+       -123.0259,
+       48.47285
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 1836,
+    "PIN": "340311001000",
+    "ALTPin": "340311001",
+    "Island": "San Juan",
+    "District": "1 - San Juan",
+    "Acres": 9.9999406799999999,
+    "TA_ID": 12961,
+    "Owner": "DONALD A & DEBRA L RISHEL       ",
+    "Address_1": "PO BOX 2765",
+    "Address_2": null,
+    "Address_3": null,
+    "City": "FRIDAY HARBOR",
+    "State": "WA",
+    "Zip": "98250-2765",
+    "Short_Lega": "E1/2 S1137.3 OF W766 OF GL 1 TGW BLDG SITE RESTRICTION     Sec 03, T 34N, R 3W",
+    "Legal_Acre": 9.9999000000000002,
+    "Taxable_Ac": 10,
+    "Tax_Code": "0498",
+    "Tax_Area": "SAN JUAN - SOUTH",
+    "Land_Value": 278500,
+    "Appraised_": 237560,
+    "Curruse_Va": 95520,
+    "Bldg_Value": 0,
+    "Owner_Last": "RISHEL",
+    "Use_Code": "9100",
+    "Tax_Status": null,
+    "Sale_date": null,
+    "Sale_Price": null
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -123.04174,
+       48.47623
+      ],
+      [
+       -123.04332,
+       48.47454
+      ],
+      [
+       -123.04332,
+       48.47766
+      ],
+      [
+       -123.04174,
+       48.47623
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 1843,
+    "PIN": "340311002000",
+    "ALTPin": "340311002",
+    "Island": "San Juan",
+    "District": "1 - San Juan",
+    "Acres": 20.285920090000001,
+    "TA_ID": 12962,
+    "Owner": "JAMES N DESERMEAUX & CHRISTINE FLEMING DESERMEAUX ",
+    "Address_1": "3962 CATTLE PT RD",
+    "Address_2": null,
+    "Address_3": null,
+    "City": "FRIDAY HARBOR",
+    "State": "WA",
+    "Zip": "98250-8442",
+    "Short_Lega": "GL-1, EX S1137.33 OF W766 Sec 03, T 34N, R 3W",
+    "Legal_Acre": 20.285900000000002,
+    "Taxable_Ac": 20.27,
+    "Tax_Code": "0498",
+    "Tax_Area": "SAN JUAN - SOUTH",
+    "Land_Value": 361040,
+    "Appraised_": 285010,
+    "Curruse_Va": 234680,
+    "Bldg_Value": 50330,
+    "Owner_Last": "DESERMEAUX, AS TO A",
+    "Use_Code": "9430",
+    "Tax_Status": null,
+    "Sale_date": null,
+    "Sale_Price": null
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -123.03945,
+       48.47517
+      ],
+      [
+       -123.04489,
+       48.47818
+      ],
+      [
+       -123.03944,
+       48.47817
+      ],
+      [
+       -123.03945,
+       48.47517
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 1837,
+    "PIN": "340311003000",
+    "ALTPin": "340311003",
+    "Island": "San Juan",
+    "District": "1 - San Juan",
+    "Acres": 9.9999389300000008,
+    "TA_ID": 12963,
+    "Owner": "DONALD A & DEBRA L RISHEL       ",
+    "Address_1": "PO BOX 2765",
+    "Address_2": null,
+    "Address_3": null,
+    "City": "FRIDAY HARBOR",
+    "State": "WA",
+    "Zip": "98250-2765",
+    "Short_Lega": "W1/2 S1137.3 OF W766 OF GL 1 TGW BLDG SITE RESTRICTION     Sec 03, T 34N, R 3W",
+    "Legal_Acre": 9.9999000000000002,
+    "Taxable_Ac": 10,
+    "Tax_Code": "0498",
+    "Tax_Area": "SAN JUAN - SOUTH",
+    "Land_Value": 277880,
+    "Appraised_": 269170,
+    "Curruse_Va": 36960,
+    "Bldg_Value": 7130,
+    "Owner_Last": "RISHEL",
+    "Use_Code": "9100",
+    "Tax_Status": null,
+    "Sale_date": null,
+    "Sale_Price": null
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -123.04332,
+       48.47471
+      ],
+      [
+       -123.0449,
+       48.47454
+      ],
+      [
+       -123.0449,
+       48.47766
+      ],
+      [
+       -123.04332,
+       48.47471
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 173282,
+    "PIN": "340323002000",
+    "ALTPin": "340323002",
+    "Island": "San Juan",
+    "District": "1 - San Juan",
+    "Acres": 45.462165429999999,
+    "TA_ID": 12974,
+    "Owner": "WARREN ROAD ASSOCIATES          ",
+    "Address_1": "NEUKOM",
+    "Address_2": "99 UNION ST UNIT 1703",
+    "Address_3": null,
+    "City": "SEATTLE",
+    "State": "WA",
+    "Zip": "98101-5004",
+    "Short_Lega": "PRS GL 2, GL 4, GL 5 - LOT A PER BLM AFN 2013-0603004 TGW CONS ESMT    Sec 03, T 34N, R 3W",
+    "Legal_Acre": 45.462200000000003,
+    "Taxable_Ac": 45.229999999999997,
+    "Tax_Code": "0498",
+    "Tax_Area": "SAN JUAN - SOUTH",
+    "Land_Value": 1041430,
+    "Appraised_": 560210,
+    "Curruse_Va": 120300,
+    "Bldg_Value": 36160,
+    "Owner_Last": "WARREN ROAD ASSOCIATES",
+    "Use_Code": "9420",
+    "Tax_Status": null,
+    "Sale_date": null,
+    "Sale_Price": null
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -123.05853,
+       48.47695
+      ],
+      [
+       -123.06015,
+       48.47154
+      ],
+      [
+       -123.065,
+       48.47329
+      ],
+      [
+       -123.05853,
+       48.47695
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 173257,
+    "PIN": "340323006000",
+    "ALTPin": "340323006",
+    "Island": "San Juan",
+    "District": "1 - San Juan",
+    "Acres": 41.94911175,
+    "TA_ID": 12978,
+    "Owner": "WARREN ROAD ASSOCIATES          ",
+    "Address_1": "NEUKOM",
+    "Address_2": "99 UNION ST UNIT 1703",
+    "Address_3": null,
+    "City": "SEATTLE",
+    "State": "WA",
+    "Zip": "98101-5004",
+    "Short_Lega": "PRS GL 4 & GL 5 - LOT B PER BLM AFN 2013-0603004 TGW CONS ESMT    Sec 03, T 34N, R 3W",
+    "Legal_Acre": 41.949100000000001,
+    "Taxable_Ac": 41.719999999999999,
+    "Tax_Code": "0498",
+    "Tax_Area": "SAN JUAN - SOUTH",
+    "Land_Value": 1041140,
+    "Appraised_": 1226290,
+    "Curruse_Va": 110250,
+    "Bldg_Value": 712290,
+    "Owner_Last": "WARREN ROAD ASSOCIATES",
+    "Use_Code": "9420",
+    "Tax_Status": null,
+    "Sale_date": null,
+    "Sale_Price": null
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -123.0559,
+       48.47382
+      ],
+      [
+       -123.06045,
+       48.47109
+      ],
+      [
+       -123.05853,
+       48.47818
+      ],
+      [
+       -123.0559,
+       48.47382
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 357652,
+    "PIN": "340331001000",
+    "ALTPin": "340331001",
+    "Island": "San Juan",
+    "District": "1 - San Juan",
+    "Acres": 38.628278909999999,
+    "TA_ID": 12980,
+    "Owner": "WARREN ROAD ASSOCIATES LIMITED PARTNERSHIP",
+    "Address_1": "925 FOURTH AVE #2900",
+    "Address_2": "",
+    "Address_3": "",
+    "City": "SEATTLE",
+    "State": "WA",
+    "Zip": "98104-1158",
+    "Short_Lega": "PRS GL 3, GL 5, GL 6, SE-SW - LOT C PER BLM AFN 2013-0603004 TGW PR CONS ESMT    Sec 03, T 34N, R 3W",
+    "Legal_Acre": 38.628300000000003,
+    "Taxable_Ac": 38.219999999999999,
+    "Tax_Code": "0498",
+    "Tax_Area": "SAN JUAN - SOUTH",
+    "Land_Value": 1401120,
+    "Appraised_": 38890,
+    "Curruse_Va": 38890,
+    "Bldg_Value": 0,
+    "Owner_Last": null,
+    "Use_Code": "8300",
+    "Tax_Status": null,
+    "Sale_date": 1380067200000,
+    "Sale_Price": 0
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -123.05342,
+       48.47224
+      ],
+      [
+       -123.05682,
+       48.47129
+      ],
+      [
+       -123.05581,
+       48.47818
+      ],
+      [
+       -123.05342,
+       48.47224
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 173201,
+    "PIN": "340342001000",
+    "ALTPin": "340342001",
+    "Island": "San Juan",
+    "District": "1 - San Juan",
+    "Acres": 135.54925431000001,
+    "TA_ID": 12983,
+    "Owner": "ROBERT W & EVELYN H DORAN",
+    "Address_1": "111 WARREN ST",
+    "Address_2": "",
+    "Address_3": "",
+    "City": "BROOKLINE",
+    "State": "MA",
+    "Zip": "02445-5930",
+    "Short_Lega": "PRS GLS 2, 6, & SE-NW TGW TDS ABUTTING PRS GL 6 TGW CONS ESMT     Sec 03, T34N, R3W",
+    "Legal_Acre": 135.54929999999999,
+    "Taxable_Ac": 134.53,
+    "Tax_Code": "0498",
+    "Tax_Area": "SAN JUAN - SOUTH",
+    "Land_Value": 1850000,
+    "Appraised_": 1711720,
+    "Curruse_Va": 427470,
+    "Bldg_Value": 868560,
+    "Owner_Last": null,
+    "Use_Code": "9420",
+    "Tax_Status": null,
+    "Sale_date": 1391558400000,
+    "Sale_Price": 0
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -123.04509,
+       48.4709
+      ],
+      [
+       -123.05091,
+       48.46686
+      ],
+      [
+       -123.05103,
+       48.47818
+      ],
+      [
+       -123.04509,
+       48.4709
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 173183,
+    "PIN": "340344004000",
+    "ALTPin": "340344004",
+    "Island": "San Juan",
+    "District": "1 - San Juan",
+    "Acres": 10.804075360000001,
+    "TA_ID": 12991,
+    "Owner": "SAN JUAN PRESERVATION TRUST",
+    "Address_1": "PO BOX 327",
+    "Address_2": null,
+    "Address_3": null,
+    "City": "LOPEZ ISLAND",
+    "State": "WA",
+    "Zip": "98261-0327",
+    "Short_Lega": "PR GL 8 & GL 1, SEC 10 TGW CONS ESMT, SUBJ TO TENANCY AGREEMENT Sec 03, T 34N, R 3W",
+    "Legal_Acre": 10.8041,
+    "Taxable_Ac": 10.800000000000001,
+    "Tax_Code": "0498",
+    "Tax_Area": "SAN JUAN - SOUTH",
+    "Land_Value": 897760,
+    "Appraised_": 606230,
+    "Curruse_Va": 228030,
+    "Bldg_Value": 23370,
+    "Owner_Last": "SAN JUAN PRESERVATION TRST",
+    "Use_Code": "9420",
+    "Tax_Status": null,
+    "Sale_date": null,
+    "Sale_Price": null
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -123.0415,
+       48.46499
+      ],
+      [
+       -123.04187,
+       48.46213
+      ],
+      [
+       -123.04335,
+       48.46398
+      ],
+      [
+       -123.0415,
+       48.46499
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 6056,
+    "PIN": "351532001000",
+    "ALTPin": "351532001",
+    "Island": "San Juan",
+    "District": "1 - San Juan",
+    "Acres": 20.077714180000001,
+    "TA_ID": 15847,
+    "Owner": "PHYLLIS TAPPAN",
+    "Address_1": "PO BOX 1082",
+    "Address_2": "",
+    "Address_3": "",
+    "City": "ANACORTES",
+    "State": "WA",
+    "Zip": "98221-1082",
+    "Short_Lega": "PR NW-SW     Sec 15, T 35N, R 3W",
+    "Legal_Acre": 20.0777,
+    "Taxable_Ac": 19.77,
+    "Tax_Code": "0493",
+    "Tax_Area": "SAN JUAN",
+    "Land_Value": 193650,
+    "Appraised_": 247680,
+    "Curruse_Va": 135550,
+    "Bldg_Value": 0,
+    "Owner_Last": null,
+    "Use_Code": "9430",
+    "Tax_Status": null,
+    "Sale_date": 1352332800000,
+    "Sale_Price": 0
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -123.0558,
+       48.52544
+      ],
+      [
+       -123.05857,
+       48.52539
+      ],
+      [
+       -123.05856,
+       48.52896
+      ],
+      [
+       -123.0558,
+       48.52544
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 5253,
+    "PIN": "351732007000",
+    "ALTPin": "351732007",
+    "Island": "San Juan",
+    "District": "1 - San Juan",
+    "Acres": 5.1701192300000001,
+    "TA_ID": 16000,
+    "Owner": "ADAM J & JULIA KASPER           ",
+    "Address_1": "PO BOX 3345",
+    "Address_2": null,
+    "Address_3": null,
+    "City": "FRIDAY HARBOR",
+    "State": "WA",
+    "Zip": "98250-3345",
+    "Short_Lega": "W1/2 SW-NW-SW EX CO RD & PR SW-SW, EX CO RD    Sec 17, T 35N, R 3W",
+    "Legal_Acre": 5.1700999999999997,
+    "Taxable_Ac": 5.0599999999999996,
+    "Tax_Code": "0493",
+    "Tax_Area": "SAN JUAN",
+    "Land_Value": 119700,
+    "Appraised_": 72720,
+    "Curruse_Va": 72720,
+    "Bldg_Value": 0,
+    "Owner_Last": "KASPER",
+    "Use_Code": "9400",
+    "Tax_Status": null,
+    "Sale_date": null,
+    "Sale_Price": null
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -123.10339,
+       48.52733
+      ],
+      [
+       -123.10337,
+       48.52552
+      ],
+      [
+       -123.10477,
+       48.52569
+      ],
+      [
+       -123.10339,
+       48.52733
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 5463,
+    "PIN": "351841001000",
+    "ALTPin": "351841001",
+    "Island": "San Juan",
+    "District": "1 - San Juan",
+    "Acres": 15.42251276,
+    "TA_ID": 16060,
+    "Owner": "ADAM J & JULIA KASPER           ",
+    "Address_1": "PO BOX 3345",
+    "Address_2": null,
+    "Address_3": null,
+    "City": "FRIDAY HARBOR",
+    "State": "WA",
+    "Zip": "98250-3345",
+    "Short_Lega": "PR NE-SE Sec 18, T 35N, R 3W",
+    "Legal_Acre": 15.422499999999999,
+    "Taxable_Ac": 15.42,
+    "Tax_Code": "0493",
+    "Tax_Area": "SAN JUAN",
+    "Land_Value": 175800,
+    "Appraised_": 567440,
+    "Curruse_Va": 48180,
+    "Bldg_Value": 422770,
+    "Owner_Last": "KASPER",
+    "Use_Code": "9400",
+    "Tax_Status": null,
+    "Sale_date": null,
+    "Sale_Price": null
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -123.10577,
+       48.52898
+      ],
+      [
+       -123.10478,
+       48.52601
+      ],
+      [
+       -123.10745,
+       48.52601
+      ],
+      [
+       -123.10577,
+       48.52898
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 317130,
+    "PIN": "352314004000",
+    "ALTPin": "352314004",
+    "Island": "San Juan",
+    "District": "1 - San Juan",
+    "Acres": 2.4610613099999998,
+    "TA_ID": 16304,
+    "Owner": "MICHAEL B & ELISABETH A WILKS   ",
+    "Address_1": "169 MILL ST",
+    "Address_2": null,
+    "Address_3": null,
+    "City": "FRIDAY HARBOR",
+    "State": "WA",
+    "Zip": "98250-9545",
+    "Short_Lega": "PR GLS 2 & 3 SEC 23, PR GL 5 SEC 24, EX CO RDS TGW TDS 12.33 CHS     Sec 23, T 35N, R 3W",
+    "Legal_Acre": 2.4611000000000001,
+    "Taxable_Ac": 2.0899999999999999,
+    "Tax_Code": "0493",
+    "Tax_Area": "SAN JUAN",
+    "Land_Value": 788350,
+    "Appraised_": 408320,
+    "Curruse_Va": 331370,
+    "Bldg_Value": 76950,
+    "Owner_Last": "WILKS",
+    "Use_Code": "9403",
+    "Tax_Status": null,
+    "Sale_date": null,
+    "Sale_Price": null
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -123.01875,
+       48.51508
+      ],
+      [
+       -123.01707,
+       48.51407
+      ],
+      [
+       -123.01962,
+       48.5146
+      ],
+      [
+       -123.01875,
+       48.51508
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 3383,
+    "PIN": "352612006000",
+    "ALTPin": "352612006",
+    "Island": "San Juan",
+    "District": "1 - San Juan",
+    "Acres": 1.23314229,
+    "TA_ID": 16484,
+    "Owner": "SAN JUAN GOLF & COUNTRY CLUB    ",
+    "Address_1": "PO BOX 246",
+    "Address_2": null,
+    "Address_3": null,
+    "City": "FRIDAY HARBOR",
+    "State": "WA",
+    "Zip": "98250-0246",
+    "Short_Lega": "PR NW-NE (PARCEL \"G\") Sec 26, T 35N, R 3W",
+    "Legal_Acre": 1.2331000000000001,
+    "Taxable_Ac": 1.23,
+    "Tax_Code": "0498",
+    "Tax_Area": "SAN JUAN - SOUTH",
+    "Land_Value": 102600,
+    "Appraised_": 65620,
+    "Curruse_Va": 30780,
+    "Bldg_Value": 34840,
+    "Owner_Last": "SAN JUAN GOLF & COUNTRY CLUB",
+    "Use_Code": "9400",
+    "Tax_Status": null,
+    "Sale_date": null,
+    "Sale_Price": null
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -123.02513,
+       48.50375
+      ],
+      [
+       -123.02513,
+       48.50357
+      ],
+      [
+       -123.02854,
+       48.50357
+      ],
+      [
+       -123.02513,
+       48.50375
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 3370,
+    "PIN": "352613001000",
+    "ALTPin": "352613001",
+    "Island": "San Juan",
+    "District": "1 - San Juan",
+    "Acres": 4.6332392200000001,
+    "TA_ID": 16485,
+    "Owner": "SAN JUAN GOLF & COUNTRY CLUB    ",
+    "Address_1": "PO BOX 246",
+    "Address_2": null,
+    "Address_3": null,
+    "City": "FRIDAY HARBOR",
+    "State": "WA",
+    "Zip": "98250-0246",
+    "Short_Lega": "PR NW-NE, PR SW-NE (PARCEL \"D\")      Sec 26, T 35N, R 3W",
+    "Legal_Acre": 4.6332000000000004,
+    "Taxable_Ac": 3.9700000000000002,
+    "Tax_Code": "0498",
+    "Tax_Area": "SAN JUAN - SOUTH",
+    "Land_Value": 194310,
+    "Appraised_": 329050,
+    "Curruse_Va": 31040,
+    "Bldg_Value": 207160,
+    "Owner_Last": "SAN JUAN GOLF & COUNTRY CLUB",
+    "Use_Code": "1100",
+    "Tax_Status": null,
+    "Sale_date": null,
+    "Sale_Price": null
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -123.02308,
+       48.50374
+      ],
+      [
+       -123.02308,
+       48.5011
+      ],
+      [
+       -123.02398,
+       48.5011
+      ],
+      [
+       -123.02308,
+       48.50374
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 222830,
+    "PIN": "352613002000",
+    "ALTPin": "352613002",
+    "Island": "San Juan",
+    "District": "1 - San Juan",
+    "Acres": 50.168424039999998,
+    "TA_ID": 16488,
+    "Owner": "SAN JUAN GOLF & COUNTRY CLUB    ",
+    "Address_1": "PO BOX 246",
+    "Address_2": null,
+    "Address_3": null,
+    "City": "FRIDAY HARBOR",
+    "State": "WA",
+    "Zip": "98250-0246",
+    "Short_Lega": "PR NW-NE PR SW-NE PR SE-NW PR NE-SW PR NW-SE EX CO RD Sec 26, T 35N, R 3W",
+    "Legal_Acre": 50.168399999999998,
+    "Taxable_Ac": 50.009999999999998,
+    "Tax_Code": "0498",
+    "Tax_Area": "SAN JUAN - SOUTH",
+    "Land_Value": 641250,
+    "Appraised_": 1183430,
+    "Curruse_Va": 192380,
+    "Bldg_Value": 991050,
+    "Owner_Last": "SAN JUAN GOLF & COUNTRY CLUB",
+    "Use_Code": "9400",
+    "Tax_Status": null,
+    "Sale_date": null,
+    "Sale_Price": null
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -123.02391,
+       48.50357
+      ],
+      [
+       -123.03262,
+       48.49701
+      ],
+      [
+       -123.03085,
+       48.5028
+      ],
+      [
+       -123.02391,
+       48.50357
+      ]
+     ],
+     [
+      [
+       -123.02572,
+       48.50254
+      ],
+      [
+       -123.02818,
+       48.50217
+      ],
+      [
+       -123.02825,
+       48.49973
+      ],
+      [
+       -123.02572,
+       48.50254
+      ]
+     ],
+     [
+      [
+       -123.03008,
+       48.49992
+      ],
+      [
+       -123.02962,
+       48.50225
+      ],
+      [
+       -123.03197,
+       48.49948
+      ],
+      [
+       -123.03008,
+       48.49992
+      ]
+     ],
+     [
+      [
+       -123.02906,
+       48.49992
+      ],
+      [
+       -123.02935,
+       48.49847
+      ],
+      [
+       -123.02859,
+       48.49858
+      ],
+      [
+       -123.02906,
+       48.49992
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 3268,
+    "PIN": "352613003000",
+    "ALTPin": "352613003",
+    "Island": "San Juan",
+    "District": "1 - San Juan",
+    "Acres": 8.6570820899999994,
+    "TA_ID": 16489,
+    "Owner": "SAN JUAN GOLF & COUNTRY CLUB    ",
+    "Address_1": "PO BOX 246",
+    "Address_2": null,
+    "Address_3": null,
+    "City": "FRIDAY HARBOR",
+    "State": "WA",
+    "Zip": "98250-0246",
+    "Short_Lega": "PRS SW-NE & NE-SE (PARCEL \"B\") Sec 26, T 35N, R 3W",
+    "Legal_Acre": 8.6570999999999998,
+    "Taxable_Ac": 8.6600000000000001,
+    "Tax_Code": "0498",
+    "Tax_Area": "SAN JUAN - SOUTH",
+    "Land_Value": 176990,
+    "Appraised_": 53100,
+    "Curruse_Va": 53100,
+    "Bldg_Value": 0,
+    "Owner_Last": "SAN JUAN GOLF & COUNTRY CLUB",
+    "Use_Code": "9400",
+    "Tax_Status": null,
+    "Sale_date": null,
+    "Sale_Price": null
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -123.02681,
+       48.5014
+      ],
+      [
+       -123.02825,
+       48.49973
+      ],
+      [
+       -123.02572,
+       48.50254
+      ],
+      [
+       -123.02681,
+       48.5014
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 222798,
+    "PIN": "352613004000",
+    "ALTPin": "352613004",
+    "Island": "San Juan",
+    "District": "1 - San Juan",
+    "Acres": 8.95969309,
+    "TA_ID": 16490,
+    "Owner": "SAN JUAN GOLF & COUNTRY CLUB    ",
+    "Address_1": "PO BOX 246",
+    "Address_2": null,
+    "Address_3": null,
+    "City": "FRIDAY HARBOR",
+    "State": "WA",
+    "Zip": "98250-0246",
+    "Short_Lega": "PR NE-NW (PARCEL E) Sec 26, T 35N, R 3W",
+    "Legal_Acre": 8.9596999999999998,
+    "Taxable_Ac": 8.9600000000000009,
+    "Tax_Code": "0498",
+    "Tax_Area": "SAN JUAN - SOUTH",
+    "Land_Value": 180180,
+    "Appraised_": 63720,
+    "Curruse_Va": 54050,
+    "Bldg_Value": 9670,
+    "Owner_Last": "SAN JUAN GOLF & COUNTRY CLUB",
+    "Use_Code": "9400",
+    "Tax_Status": null,
+    "Sale_date": null,
+    "Sale_Price": null
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -123.02854,
+       48.50357
+      ],
+      [
+       -123.02513,
+       48.50312
+      ],
+      [
+       -123.03173,
+       48.5035
+      ],
+      [
+       -123.02854,
+       48.50357
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 265522,
+    "PIN": "352621006000",
+    "ALTPin": "352621006",
+    "Island": "San Juan",
+    "District": "1 - San Juan",
+    "Acres": 6.5519857200000002,
+    "TA_ID": 16503,
+    "Owner": "SAN JUAN GOLF & COUNTRY CLUB    ",
+    "Address_1": "PO BOX 246",
+    "Address_2": null,
+    "Address_3": null,
+    "City": "FRIDAY HARBOR",
+    "State": "WA",
+    "Zip": "98250-0246",
+    "Short_Lega": "PRS NE-NW & SE-NW     Sec 26, T 35N, R 3W",
+    "Legal_Acre": 6.5519999999999996,
+    "Taxable_Ac": 6.5499999999999998,
+    "Tax_Code": "0498",
+    "Tax_Area": "SAN JUAN - SOUTH",
+    "Land_Value": 161170,
+    "Appraised_": 48350,
+    "Curruse_Va": 48350,
+    "Bldg_Value": 0,
+    "Owner_Last": "SAN JUAN GOLF & COUNTRY CLUB",
+    "Use_Code": "9400",
+    "Tax_Status": null,
+    "Sale_date": 1336435200000,
+    "Sale_Price": 0
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -123.03347,
+       48.50344
+      ],
+      [
+       -123.03396,
+       48.50491
+      ],
+      [
+       -123.03174,
+       48.50491
+      ],
+      [
+       -123.03347,
+       48.50344
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 23879,
+    "PIN": "352621007000",
+    "ALTPin": "352621007",
+    "Island": "San Juan",
+    "District": "1 - San Juan",
+    "Acres": 8.6956339099999997,
+    "TA_ID": 16506,
+    "Owner": "SAN JUAN GOLF & COUNTRY CLUB    ",
+    "Address_1": "PO BOX 246",
+    "Address_2": null,
+    "Address_3": null,
+    "City": "FRIDAY HARBOR",
+    "State": "WA",
+    "Zip": "98250-0246",
+    "Short_Lega": "PR NE-NW (PARCEL F-2) Sec 26, T 35N, R 3W",
+    "Legal_Acre": 8.6956000000000007,
+    "Taxable_Ac": 8.6999999999999993,
+    "Tax_Code": "0498",
+    "Tax_Area": "SAN JUAN - SOUTH",
+    "Land_Value": 213750,
+    "Appraised_": 64130,
+    "Curruse_Va": 64130,
+    "Bldg_Value": 0,
+    "Owner_Last": "SAN JUAN GOLF & COUNTRY CLUB",
+    "Use_Code": "9400",
+    "Tax_Status": null,
+    "Sale_date": null,
+    "Sale_Price": null
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -123.03064,
+       48.50491
+      ],
+      [
+       -123.02854,
+       48.50357
+      ],
+      [
+       -123.03173,
+       48.50357
+      ],
+      [
+       -123.03064,
+       48.50491
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 3255,
+    "PIN": "352624001000",
+    "ALTPin": "352624001",
+    "Island": "San Juan",
+    "District": "1 - San Juan",
+    "Acres": 6.3031003300000004,
+    "TA_ID": 16527,
+    "Owner": "SAN JUAN GOLF & COUNTRY CLUB    ",
+    "Address_1": "PO BOX 246",
+    "Address_2": null,
+    "Address_3": null,
+    "City": "FRIDAY HARBOR",
+    "State": "WA",
+    "Zip": "98250-0246",
+    "Short_Lega": "PRS NE-SW & SE-NW (PARCEL \"A\") Sec 26, T 35N, R 3W",
+    "Legal_Acre": 6.3030999999999997,
+    "Taxable_Ac": 6.2999999999999998,
+    "Tax_Code": "0498",
+    "Tax_Area": "SAN JUAN - SOUTH",
+    "Land_Value": 158180,
+    "Appraised_": 47450,
+    "Curruse_Va": 47450,
+    "Bldg_Value": 0,
+    "Owner_Last": "SAN JUAN GOLF & COUNTRY CLUB",
+    "Use_Code": "9400",
+    "Tax_Status": null,
+    "Sale_date": null,
+    "Sale_Price": null
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -123.02962,
+       48.50225
+      ],
+      [
+       -123.03048,
+       48.49858
+      ],
+      [
+       -123.03197,
+       48.49948
+      ],
+      [
+       -123.02962,
+       48.50225
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 3087,
+    "PIN": "352631008000",
+    "ALTPin": "352631008",
+    "Island": "San Juan",
+    "District": "1 - San Juan",
+    "Acres": 1.2930400900000001,
+    "TA_ID": 16535,
+    "Owner": "SAN JUAN GOLF & COUNTRY CLUB    ",
+    "Address_1": "PO BOX 246",
+    "Address_2": null,
+    "Address_3": null,
+    "City": "FRIDAY HARBOR",
+    "State": "WA",
+    "Zip": "98250-0246",
+    "Short_Lega": "PRS NE-SW & SE-NW (PARCEL \"C\") Sec 26, T 35N, R 3W",
+    "Legal_Acre": 1.2929999999999999,
+    "Taxable_Ac": 1.29,
+    "Tax_Code": "0498",
+    "Tax_Area": "SAN JUAN - SOUTH",
+    "Land_Value": 89780,
+    "Appraised_": 26930,
+    "Curruse_Va": 26930,
+    "Bldg_Value": 0,
+    "Owner_Last": "SAN JUAN GOLF & COUNTRY CLUB",
+    "Use_Code": "9400",
+    "Tax_Status": null,
+    "Sale_date": null,
+    "Sale_Price": null
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -123.02906,
+       48.49992
+      ],
+      [
+       -123.02859,
+       48.49858
+      ],
+      [
+       -123.02935,
+       48.49847
+      ],
+      [
+       -123.02906,
+       48.49992
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 2890,
+    "PIN": "352933001000",
+    "ALTPin": "352933001",
+    "Island": "San Juan",
+    "District": "1 - San Juan",
+    "Acres": 40.31141847,
+    "TA_ID": 16893,
+    "Owner": "KILSBURROW LLC",
+    "Address_1": "PO BOX 1789",
+    "Address_2": null,
+    "Address_3": null,
+    "City": "FRIDAY HARBOR",
+    "State": "WA",
+    "Zip": "98250-1789",
+    "Short_Lega": "SW-SW     Sec 29, T 35N, R 3W",
+    "Legal_Acre": 40.311399999999999,
+    "Taxable_Ac": 40.310000000000002,
+    "Tax_Code": "0498",
+    "Tax_Area": "SAN JUAN - SOUTH",
+    "Land_Value": 444600,
+    "Appraised_": 232730,
+    "Curruse_Va": 147230,
+    "Bldg_Value": 0,
+    "Owner_Last": null,
+    "Use_Code": "9400",
+    "Tax_Status": null,
+    "Sale_date": 1251244800000,
+    "Sale_Price": 0
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -123.10208,
+       48.49653
+      ],
+      [
+       -123.09936,
+       48.4929
+      ],
+      [
+       -123.10486,
+       48.49294
+      ],
+      [
+       -123.10208,
+       48.49653
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 318978,
+    "PIN": "353111004000",
+    "ALTPin": "353111004",
+    "Island": "San Juan",
+    "District": "1 - San Juan",
+    "Acres": 1.2068639000000001,
+    "TA_ID": 17088,
+    "Owner": "MARY M & DANIEL W FERM & NORA FERM & RACHEL FERM",
+    "Address_1": "5062 NEW SWEDEN AVE NE",
+    "Address_2": null,
+    "Address_3": null,
+    "City": "BAINBRIDGE ISLAND",
+    "State": "WA",
+    "Zip": "98110-3118",
+    "Short_Lega": "PR GL 3 EX W744.6 & EX E475 TGW RD EASEMENT     Sec 31, T 35N, R 3W",
+    "Legal_Acre": 1.2069000000000001,
+    "Taxable_Ac": 1.21,
+    "Tax_Code": "0493",
+    "Tax_Area": "SAN JUAN",
+    "Land_Value": 487700,
+    "Appraised_": 317010,
+    "Curruse_Va": 317010,
+    "Bldg_Value": 0,
+    "Owner_Last": null,
+    "Use_Code": "9400",
+    "Tax_Status": null,
+    "Sale_date": 1292457600000,
+    "Sale_Price": 0
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -123.1068,
+       48.49232
+      ],
+      [
+       -123.10714,
+       48.49089
+      ],
+      [
+       -123.10721,
+       48.49237
+      ],
+      [
+       -123.1068,
+       48.49232
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 318984,
+    "PIN": "353111005000",
+    "ALTPin": "353111005",
+    "Island": "San Juan",
+    "District": "1 - San Juan",
+    "Acres": 7.0228899599999997,
+    "TA_ID": 17089,
+    "Owner": "MARY FERM & DANIEL FERM ET AL",
+    "Address_1": "5062 NEW SWEDEN RD NE",
+    "Address_2": null,
+    "Address_3": null,
+    "City": "BAINBRIDGE ISLAND",
+    "State": "WA",
+    "Zip": "98110-3118",
+    "Short_Lega": "PR GL 3      Sec 31, T 35N, R 3W",
+    "Legal_Acre": 7.0228999999999999,
+    "Taxable_Ac": 7.0199999999999996,
+    "Tax_Code": "0493",
+    "Tax_Area": "SAN JUAN",
+    "Land_Value": 1232610,
+    "Appraised_": 997540,
+    "Curruse_Va": 586650,
+    "Bldg_Value": 80810,
+    "Owner_Last": null,
+    "Use_Code": "9400",
+    "Tax_Status": null,
+    "Sale_date": 1377129600000,
+    "Sale_Price": 0
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -123.10721,
+       48.49232
+      ],
+      [
+       -123.10733,
+       48.49042
+      ],
+      [
+       -123.10952,
+       48.49156
+      ],
+      [
+       -123.10721,
+       48.49232
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 2626,
+    "PIN": "353111006000",
+    "ALTPin": "353111006",
+    "Island": "San Juan",
+    "District": "1 - San Juan",
+    "Acres": 5.4110152300000003,
+    "TA_ID": 17090,
+    "Owner": "MARY M & DANIEL W FERM & NORA FERM & RACHEL FERM",
+    "Address_1": "5062 NEW SWEDEN AVE NE",
+    "Address_2": null,
+    "Address_3": null,
+    "City": "BAINBRIDGE ISLAND",
+    "State": "WA",
+    "Zip": "98110-3118",
+    "Short_Lega": "E1125.4' OF N207.7' OF GL 3 EX E30'     Sec 31, T 35N, R 3W",
+    "Legal_Acre": 5.4109999999999996,
+    "Taxable_Ac": 5.3799999999999999,
+    "Tax_Code": "0493",
+    "Tax_Area": "SAN JUAN",
+    "Land_Value": 181550,
+    "Appraised_": 118010,
+    "Curruse_Va": 118010,
+    "Bldg_Value": 0,
+    "Owner_Last": null,
+    "Use_Code": "9400",
+    "Tax_Status": null,
+    "Sale_date": 1292457600000,
+    "Sale_Price": 0
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -123.10881,
+       48.49295
+      ],
+      [
+       -123.10487,
+       48.49237
+      ],
+      [
+       -123.10951,
+       48.49237
+      ],
+      [
+       -123.10881,
+       48.49295
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 172379,
+    "PIN": "353211001000",
+    "ALTPin": "353211001",
+    "Island": "San Juan",
+    "District": "1 - San Juan",
+    "Acres": 90.443337880000001,
+    "TA_ID": 17097,
+    "Owner": "KANAKA BAY LLC",
+    "Address_1": "1030 39TH AVE E",
+    "Address_2": "",
+    "Address_3": "",
+    "City": "SEATTLE",
+    "State": "WA",
+    "Zip": "98112-5028",
+    "Short_Lega": "PRS SW-NE, SE-NE, GL 5 & 6; PRS GL 1, SW-NW SEC 33 TGW TDS ADJ PR GL 1 Sec 32, T 35N, R 3W",
+    "Legal_Acre": 90.443299999999994,
+    "Taxable_Ac": 90.439999999999998,
+    "Tax_Code": "0498",
+    "Tax_Area": "SAN JUAN - SOUTH",
+    "Land_Value": 3617830,
+    "Appraised_": 2657170,
+    "Curruse_Va": 358460,
+    "Bldg_Value": 1438260,
+    "Owner_Last": null,
+    "Use_Code": "9400",
+    "Tax_Status": null,
+    "Sale_date": 1355961600000,
+    "Sale_Price": 0
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -123.08568,
+       48.48916
+      ],
+      [
+       -123.08176,
+       48.48372
+      ],
+      [
+       -123.09121,
+       48.48296
+      ],
+      [
+       -123.08568,
+       48.48916
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 2595,
+    "PIN": "353211003000",
+    "ALTPin": "353211003",
+    "Island": "San Juan",
+    "District": "1 - San Juan",
+    "Acres": 40.511810369999999,
+    "TA_ID": 17099,
+    "Owner": "PILE POINT LLC",
+    "Address_1": "434 MCGILVRA BLVD EAST",
+    "Address_2": null,
+    "Address_3": null,
+    "City": "SEATTLE",
+    "State": "WA",
+    "Zip": "98112-5046",
+    "Short_Lega": "W1/2 NE-NE,E1/2 NW-NE, TGW CONS ESMT Sec 32, T 35N, R 3W",
+    "Legal_Acre": 40.511800000000001,
+    "Taxable_Ac": 40.509999999999998,
+    "Tax_Code": "0498",
+    "Tax_Area": "SAN JUAN - SOUTH",
+    "Land_Value": 226040,
+    "Appraised_": 51990,
+    "Curruse_Va": 51990,
+    "Bldg_Value": 0,
+    "Owner_Last": "PILE POINT L.L C.",
+    "Use_Code": "9420",
+    "Tax_Status": null,
+    "Sale_date": null,
+    "Sale_Price": null
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -123.08843,
+       48.49284
+      ],
+      [
+       -123.08568,
+       48.48916
+      ],
+      [
+       -123.09115,
+       48.48919
+      ],
+      [
+       -123.08843,
+       48.49284
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 172324,
+    "PIN": "353222001000",
+    "ALTPin": "353222001",
+    "Island": "San Juan",
+    "District": "1 - San Juan",
+    "Acres": 37.134145500000002,
+    "TA_ID": 17104,
+    "Owner": "KILSBURROW LLC",
+    "Address_1": "PO BOX 1789",
+    "Address_2": null,
+    "Address_3": null,
+    "City": "FRIDAY HARBOR",
+    "State": "WA",
+    "Zip": "98250-1789",
+    "Short_Lega": "PR GL 1 & PR GL 2 TGW TDS TGW CONSERVATION EASEMENT     Sec 32, T 35N, R 3W",
+    "Legal_Acre": 37.134099999999997,
+    "Taxable_Ac": 37.130000000000003,
+    "Tax_Code": "0498",
+    "Tax_Area": "SAN JUAN - SOUTH",
+    "Land_Value": 1538700,
+    "Appraised_": 820100,
+    "Curruse_Va": 574900,
+    "Bldg_Value": 108700,
+    "Owner_Last": null,
+    "Use_Code": "9420",
+    "Tax_Status": null,
+    "Sale_date": 1292544000000,
+    "Sale_Price": 0
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -123.09936,
+       48.4929
+      ],
+      [
+       -123.09939,
+       48.48712
+      ],
+      [
+       -123.1049,
+       48.49028
+      ],
+      [
+       -123.09936,
+       48.4929
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 172327,
+    "PIN": "353222002000",
+    "ALTPin": "353222002",
+    "Island": "San Juan",
+    "District": "1 - San Juan",
+    "Acres": 7.6600574100000003,
+    "TA_ID": 17105,
+    "Owner": "LAURA MACGINITIE DEREVENSKY",
+    "Address_1": "59 WEST CORBETT RD",
+    "Address_2": null,
+    "Address_3": null,
+    "City": "MONTGOMERY",
+    "State": "NY",
+    "Zip": "12549-1923",
+    "Short_Lega": "PR GL 1 & PR GL 2 TGW TDS TGW CONS ESMT Sec 32, T 35N, R 3W",
+    "Legal_Acre": 7.6600999999999999,
+    "Taxable_Ac": 7.6600000000000001,
+    "Tax_Code": "0498",
+    "Tax_Area": "SAN JUAN - SOUTH",
+    "Land_Value": 841140,
+    "Appraised_": 646050,
+    "Curruse_Va": 379020,
+    "Bldg_Value": 88520,
+    "Owner_Last": "DEREVENSKY",
+    "Use_Code": "9420",
+    "Tax_Status": null,
+    "Sale_date": 1292544000000,
+    "Sale_Price": 0
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -123.10166,
+       48.48869
+      ],
+      [
+       -123.10323,
+       48.49061
+      ],
+      [
+       -123.10039,
+       48.48978
+      ],
+      [
+       -123.10166,
+       48.48869
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 172330,
+    "PIN": "353224001000",
+    "ALTPin": "353224001",
+    "Island": "San Juan",
+    "District": "1 - San Juan",
+    "Acres": 5.5997100099999999,
+    "TA_ID": 17106,
+    "Owner": "PILE POINT LLC",
+    "Address_1": "434 MCGILVRA BLVD EAST",
+    "Address_2": null,
+    "Address_3": null,
+    "City": "SEATTLE",
+    "State": "WA",
+    "Zip": "98112-5046",
+    "Short_Lega": "PR GL 3, TGW CONS ESMT Sec 32, T 35N, R 3W",
+    "Legal_Acre": 5.5997000000000003,
+    "Taxable_Ac": 5.5999999999999996,
+    "Tax_Code": "0498",
+    "Tax_Area": "SAN JUAN - SOUTH",
+    "Land_Value": 299720,
+    "Appraised_": 287490,
+    "Curruse_Va": 9610,
+    "Bldg_Value": 0,
+    "Owner_Last": "PILE POINT L.L C.",
+    "Use_Code": "9420",
+    "Tax_Status": null,
+    "Sale_date": null,
+    "Sale_Price": null
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -123.09603,
+       48.48922
+      ],
+      [
+       -123.0967,
+       48.48648
+      ],
+      [
+       -123.0981,
+       48.48653
+      ],
+      [
+       -123.09603,
+       48.48922
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 172332,
+    "PIN": "353224002000",
+    "ALTPin": "353224002",
+    "Island": "San Juan",
+    "District": "1 - San Juan",
+    "Acres": 4.4769650900000002,
+    "TA_ID": 17107,
+    "Owner": "PILE POINT LLC",
+    "Address_1": "434 MCGILVRA BLVD EAST",
+    "Address_2": null,
+    "Address_3": null,
+    "City": "SEATTLE",
+    "State": "WA",
+    "Zip": "98112-5046",
+    "Short_Lega": "PR GL 3, TGW CONS ESMT Sec 32, T 35N, R 3W",
+    "Legal_Acre": 4.4770000000000003,
+    "Taxable_Ac": 4.4800000000000004,
+    "Tax_Code": "0498",
+    "Tax_Area": "SAN JUAN - SOUTH",
+    "Land_Value": 293630,
+    "Appraised_": 284810,
+    "Curruse_Va": 6930,
+    "Bldg_Value": 0,
+    "Owner_Last": "PILE POINT L.L C.",
+    "Use_Code": "9420",
+    "Tax_Status": null,
+    "Sale_date": null,
+    "Sale_Price": null
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -123.09788,
+       48.48924
+      ],
+      [
+       -123.09939,
+       48.48712
+      ],
+      [
+       -123.09938,
+       48.48925
+      ],
+      [
+       -123.09788,
+       48.48924
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 172331,
+    "PIN": "353224003000",
+    "ALTPin": "353224003",
+    "Island": "San Juan",
+    "District": "1 - San Juan",
+    "Acres": 5.33411714,
+    "TA_ID": 17108,
+    "Owner": "PILE POINT LLC",
+    "Address_1": "434 MCGILVRA BLVD EAST",
+    "Address_2": null,
+    "Address_3": null,
+    "City": "SEATTLE",
+    "State": "WA",
+    "Zip": "98112-5046",
+    "Short_Lega": "PR GL 3, TGW CONS ESMT Sec 32, T 35N, R 3W",
+    "Legal_Acre": 5.3341000000000003,
+    "Taxable_Ac": 5.3300000000000001,
+    "Tax_Code": "0498",
+    "Tax_Area": "SAN JUAN - SOUTH",
+    "Land_Value": 298370,
+    "Appraised_": 286900,
+    "Curruse_Va": 9020,
+    "Bldg_Value": 0,
+    "Owner_Last": "PILE POINT L.L C.",
+    "Use_Code": "9420",
+    "Tax_Status": null,
+    "Sale_date": null,
+    "Sale_Price": null
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -123.09634,
+       48.48922
+      ],
+      [
+       -123.09883,
+       48.48711
+      ],
+      [
+       -123.09788,
+       48.48924
+      ],
+      [
+       -123.09634,
+       48.48922
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 172342,
+    "PIN": "353231001000",
+    "ALTPin": "353231001",
+    "Island": "San Juan",
+    "District": "1 - San Juan",
+    "Acres": 72.442847790000002,
+    "TA_ID": 17109,
+    "Owner": "PILE POINT LLC",
+    "Address_1": "434 MCGILVRA BLVD EAST",
+    "Address_2": null,
+    "Address_3": null,
+    "City": "SEATTLE",
+    "State": "WA",
+    "Zip": "98112-5046",
+    "Short_Lega": "PR SW-NE, PR GL3, GL4, PR GL5, TGW CONS ESMT Sec 32, T 35N, R 3W",
+    "Legal_Acre": 72.442800000000005,
+    "Taxable_Ac": 72.439999999999998,
+    "Tax_Code": "0498",
+    "Tax_Area": "SAN JUAN - SOUTH",
+    "Land_Value": 2821390,
+    "Appraised_": 3342150,
+    "Curruse_Va": 73720,
+    "Bldg_Value": 767550,
+    "Owner_Last": "PILE POINT L.L C.",
+    "Use_Code": "9420",
+    "Tax_Status": null,
+    "Sale_date": null,
+    "Sale_Price": null
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -123.09387,
+       48.48921
+      ],
+      [
+       -123.09373,
+       48.48173
+      ],
+      [
+       -123.09751,
+       48.48549
+      ],
+      [
+       -123.09387,
+       48.48921
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 173319,
+    "PIN": "353322001000",
+    "ALTPin": "353322001",
+    "Island": "San Juan",
+    "District": "1 - San Juan",
+    "Acres": 54.608331620000001,
+    "TA_ID": 17116,
+    "Owner": "KANAKA BAY LLC",
+    "Address_1": "1030 39TH AVE E",
+    "Address_2": "",
+    "Address_3": "",
+    "City": "SEATTLE",
+    "State": "WA",
+    "Zip": "98112-5028",
+    "Short_Lega": "PR LT 1 PR LT 3 SW-NW S1/2 OF S1/2 NW-NW EX RDS & EX PLATTED P     Sec 33, T 35N, R 3W",
+    "Legal_Acre": 54.6083,
+    "Taxable_Ac": 54.609999999999999,
+    "Tax_Code": "0498",
+    "Tax_Area": "SAN JUAN - SOUTH",
+    "Land_Value": 1359450,
+    "Appraised_": 176730,
+    "Curruse_Va": 176730,
+    "Bldg_Value": 0,
+    "Owner_Last": null,
+    "Use_Code": "9400",
+    "Tax_Status": null,
+    "Sale_date": 1355961600000,
+    "Sale_Price": 0
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -123.08144,
+       48.49006
+      ],
+      [
+       -123.07389,
+       48.48886
+      ],
+      [
+       -123.08232,
+       48.48602
+      ],
+      [
+       -123.08144,
+       48.49006
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 170339,
+    "PIN": "353350014000",
+    "ALTPin": "353350014",
+    "Island": "San Juan",
+    "District": "1 - San Juan",
+    "Acres": 0.34570615999999998,
+    "TA_ID": 17144,
+    "Owner": "LUCY J HADAC & RAPHAEL R HADAC & JOHN W HADAC & STEPHEN T HADAC",
+    "Address_1": "5536 28TH AVE NE",
+    "Address_2": "",
+    "Address_3": "",
+    "City": "SEATTLE",
+    "State": "WA",
+    "Zip": "98105-5516",
+    "Short_Lega": "KANAKA BAY PARK - LOT 14 Sec 33, T 35N, R 3W",
+    "Legal_Acre": 0.34570000000000001,
+    "Taxable_Ac": 0.34999999999999998,
+    "Tax_Code": "0498",
+    "Tax_Area": "SAN JUAN - SOUTH",
+    "Land_Value": 401850,
+    "Appraised_": 219410,
+    "Curruse_Va": 219410,
+    "Bldg_Value": 0,
+    "Owner_Last": null,
+    "Use_Code": "9400",
+    "Tax_Status": null,
+    "Sale_date": 1311724800000,
+    "Sale_Price": 0
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -123.0757,
+       48.48314
+      ],
+      [
+       -123.07536,
+       48.48298
+      ],
+      [
+       -123.07644,
+       48.48302
+      ],
+      [
+       -123.0757,
+       48.48314
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 170337,
+    "PIN": "353350015000",
+    "ALTPin": "353350015",
+    "Island": "San Juan",
+    "District": "1 - San Juan",
+    "Acres": 4.2468188299999996,
+    "TA_ID": 17145,
+    "Owner": "LUCY J HADAC & RAPHAEL R HADAC & JOHN W HADAC & STEPHEN T HADAC",
+    "Address_1": "5536 28TH AVE NE",
+    "Address_2": "",
+    "Address_3": "",
+    "City": "SEATTLE",
+    "State": "WA",
+    "Zip": "98105-5516",
+    "Short_Lega": "KANAKA BAY PARK LT 15 Sec 33, T 35N, R 3W",
+    "Legal_Acre": 4.2468000000000004,
+    "Taxable_Ac": 4.25,
+    "Tax_Code": "0498",
+    "Tax_Area": "SAN JUAN - SOUTH",
+    "Land_Value": 726760,
+    "Appraised_": 659380,
+    "Curruse_Va": 208330,
+    "Bldg_Value": 105840,
+    "Owner_Last": null,
+    "Use_Code": "9400",
+    "Tax_Status": null,
+    "Sale_date": 1311724800000,
+    "Sale_Price": 0
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -123.07491,
+       48.48294
+      ],
+      [
+       -123.07444,
+       48.48211
+      ],
+      [
+       -123.07616,
+       48.48116
+      ],
+      [
+       -123.07491,
+       48.48294
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 2056,
+    "PIN": "353350017000",
+    "ALTPin": "353350017",
+    "Island": "San Juan",
+    "District": "1 - San Juan",
+    "Acres": 0.69467732999999998,
+    "TA_ID": 17147,
+    "Owner": "LUCY J HADAC & RAPHAEL R HADAC & JOHN W HADAC & STEPHEN T HADAC",
+    "Address_1": "5536 28TH AVE NE",
+    "Address_2": "",
+    "Address_3": "",
+    "City": "SEATTLE",
+    "State": "WA",
+    "Zip": "98105-5516",
+    "Short_Lega": "KANAKA BAY PARK LT 17 Sec 33, T 35N, R 3W",
+    "Legal_Acre": 0.69469999999999998,
+    "Taxable_Ac": 0.68999999999999995,
+    "Tax_Code": "0498",
+    "Tax_Area": "SAN JUAN - SOUTH",
+    "Land_Value": 376200,
+    "Appraised_": 205410,
+    "Curruse_Va": 205410,
+    "Bldg_Value": 0,
+    "Owner_Last": null,
+    "Use_Code": "9400",
+    "Tax_Status": null,
+    "Sale_date": 1311724800000,
+    "Sale_Price": 0
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -123.07621,
+       48.48361
+      ],
+      [
+       -123.07647,
+       48.48317
+      ],
+      [
+       -123.07704,
+       48.48336
+      ],
+      [
+       -123.07621,
+       48.48361
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 2074,
+    "PIN": "353350018000",
+    "ALTPin": "353350018",
+    "Island": "San Juan",
+    "District": "1 - San Juan",
+    "Acres": 1.3461042999999999,
+    "TA_ID": 17148,
+    "Owner": "LUCY J HADAC ET AL              ",
+    "Address_1": "5536 - 28TH AVE NE",
+    "Address_2": null,
+    "Address_3": null,
+    "City": "SEATTLE",
+    "State": "WA",
+    "Zip": "98105-5516",
+    "Short_Lega": "KANAKA BAY PARK LT 18 Sec 33, T 35N, R 3W",
+    "Legal_Acre": 1.3461000000000001,
+    "Taxable_Ac": 1.3500000000000001,
+    "Tax_Code": "0498",
+    "Tax_Area": "SAN JUAN - SOUTH",
+    "Land_Value": 342000,
+    "Appraised_": 186730,
+    "Curruse_Va": 186730,
+    "Bldg_Value": 0,
+    "Owner_Last": "HADAC ET AL",
+    "Use_Code": "9400",
+    "Tax_Status": null,
+    "Sale_date": null,
+    "Sale_Price": null
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -123.07717,
+       48.48327
+      ],
+      [
+       -123.07777,
+       48.48372
+      ],
+      [
+       -123.07665,
+       48.48409
+      ],
+      [
+       -123.07717,
+       48.48327
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 2147,
+    "PIN": "353431001000",
+    "ALTPin": "353431001",
+    "Island": "San Juan",
+    "District": "1 - San Juan",
+    "Acres": 120.65681638,
+    "TA_ID": 17191,
+    "Owner": "ROBERT & EVELYN DORAN           ",
+    "Address_1": "111 WARREN STREET",
+    "Address_2": null,
+    "Address_3": null,
+    "City": "BROOKLINE",
+    "State": "MA",
+    "Zip": "02445-5930",
+    "Short_Lega": "E1/2 SW, SW-SE EX CO RD, TGW CONS ESMT Sec 34, T 35N, R 3W",
+    "Legal_Acre": 120.6568,
+    "Taxable_Ac": 118.68000000000001,
+    "Tax_Code": "0498",
+    "Tax_Area": "SAN JUAN - SOUTH",
+    "Land_Value": 1239750,
+    "Appraised_": 331420,
+    "Curruse_Va": 240110,
+    "Bldg_Value": 91310,
+    "Owner_Last": "DORAN",
+    "Use_Code": "9400",
+    "Tax_Status": null,
+    "Sale_date": null,
+    "Sale_Price": null
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -123.0449,
+       48.47939
+      ],
+      [
+       -123.05581,
+       48.47818
+      ],
+      [
+       -123.05579,
+       48.48544
+      ],
+      [
+       -123.0449,
+       48.47939
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 175299,
+    "PIN": "353511001000",
+    "ALTPin": "353511001",
+    "Island": "San Juan",
+    "District": "1 - San Juan",
+    "Acres": 11.001375830000001,
+    "TA_ID": 17306,
+    "Owner": "PAUL H CHADWICK                 ",
+    "Address_1": "PO BOX 3051",
+    "Address_2": null,
+    "Address_3": null,
+    "City": "FRIDAY HARBOR",
+    "State": "WA",
+    "Zip": "98250-3051",
+    "Short_Lega": "PR GL 1 Sec 35, T 35N, R 3W",
+    "Legal_Acre": 11.0014,
+    "Taxable_Ac": 11,
+    "Tax_Code": "0498",
+    "Tax_Area": "SAN JUAN - SOUTH",
+    "Land_Value": 855000,
+    "Appraised_": 900570,
+    "Curruse_Va": 135430,
+    "Bldg_Value": 183740,
+    "Owner_Last": "CHADWICK",
+    "Use_Code": "9408",
+    "Tax_Status": null,
+    "Sale_date": null,
+    "Sale_Price": null
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -123.01857,
+       48.49175
+      ],
+      [
+       -123.02298,
+       48.49023
+      ],
+      [
+       -123.0206,
+       48.4924
+      ],
+      [
+       -123.01857,
+       48.49175
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 333972,
+    "PIN": "353511004000",
+    "ALTPin": "353511004",
+    "Island": "San Juan",
+    "District": "1 - San Juan",
+    "Acres": 11.2987482,
+    "TA_ID": 17309,
+    "Owner": "CHADWICK SAN JUAN L P",
+    "Address_1": "PO BOX 3051",
+    "Address_2": null,
+    "Address_3": null,
+    "City": "FRIDAY HARBOR",
+    "State": "WA",
+    "Zip": "98250-3051",
+    "Short_Lega": "PR GL 1 & PR SE-NE    Sec 35, T 35N, R 3W",
+    "Legal_Acre": 11.2987,
+    "Taxable_Ac": 11.199999999999999,
+    "Tax_Code": "0498",
+    "Tax_Area": "SAN JUAN - SOUTH",
+    "Land_Value": 709650,
+    "Appraised_": 351280,
+    "Curruse_Va": 351280,
+    "Bldg_Value": 0,
+    "Owner_Last": "CHADWICK SAN JUAN L.P.",
+    "Use_Code": "9400",
+    "Tax_Status": null,
+    "Sale_date": null,
+    "Sale_Price": null
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -123.01764,
+       48.48932
+      ],
+      [
+       -123.02136,
+       48.49112
+      ],
+      [
+       -123.01857,
+       48.49175
+      ],
+      [
+       -123.01764,
+       48.48932
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 55938,
+    "PIN": "353511005000",
+    "ALTPin": "353511005",
+    "Island": "San Juan",
+    "District": "1 - San Juan",
+    "Acres": 2.0487001999999999,
+    "TA_ID": 17310,
+    "Owner": "PAUL H CHADWICK                 ",
+    "Address_1": "PO BOX 3051",
+    "Address_2": null,
+    "Address_3": null,
+    "City": "FRIDAY HARBOR",
+    "State": "WA",
+    "Zip": "98250-3051",
+    "Short_Lega": "PR GL 1 SEC 35; PR GL 4 SEC 26; TGW UND 1/2 INT COMM AREA (11007) PER TESTAMENTARY DIVISION Sec 35, T 35N, R 3W",
+    "Legal_Acre": 2.0487000000000002,
+    "Taxable_Ac": 2.0499999999999998,
+    "Tax_Code": "0498",
+    "Tax_Area": "SAN JUAN - SOUTH",
+    "Land_Value": 418950,
+    "Appraised_": 245090,
+    "Curruse_Va": 245090,
+    "Bldg_Value": 0,
+    "Owner_Last": "CHADWICK",
+    "Use_Code": "9400",
+    "Tax_Status": null,
+    "Sale_date": null,
+    "Sale_Price": null
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -123.02089,
+       48.49229
+      ],
+      [
+       -123.02298,
+       48.49153
+      ],
+      [
+       -123.02281,
+       48.49216
+      ],
+      [
+       -123.02089,
+       48.49229
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 55940,
+    "PIN": "353511006000",
+    "ALTPin": "353511006",
+    "Island": "San Juan",
+    "District": "1 - San Juan",
+    "Acres": 2.0675087900000002,
+    "TA_ID": 17311,
+    "Owner": "THEORA E MOENCH                 ",
+    "Address_1": "157 madison ave n",
+    "Address_2": "",
+    "Address_3": null,
+    "City": "BAINBRIDGE ISLAND",
+    "State": "WA",
+    "Zip": "98110-1813",
+    "Short_Lega": "PR GL 1 SEC 35; PR GL 4 SEC 26; TGW UND 1/2 INT COMM AREA (11007) PER TESTAMENTARY DIVISION Sec 35, T 35N, R 3W",
+    "Legal_Acre": 2.0674999999999999,
+    "Taxable_Ac": 2.0699999999999998,
+    "Tax_Code": "0498",
+    "Tax_Area": "SAN JUAN - SOUTH",
+    "Land_Value": 418950,
+    "Appraised_": 245090,
+    "Curruse_Va": 245090,
+    "Bldg_Value": 0,
+    "Owner_Last": "MOENCH",
+    "Use_Code": "9400",
+    "Tax_Status": null,
+    "Sale_date": null,
+    "Sale_Price": null
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -123.02131,
+       48.49274
+      ],
+      [
+       -123.02311,
+       48.49149
+      ],
+      [
+       -123.02311,
+       48.4927
+      ],
+      [
+       -123.02131,
+       48.49274
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 293316,
+    "PIN": "360644001000",
+    "ALTPin": "360644001",
+    "Island": "Spieden",
+    "District": "1 - San Juan",
+    "Acres": 509.39545328999998,
+    "TA_ID": 17456,
+    "Owner": "UNDER THE RADAR INC",
+    "Address_1": "PO BOX 1389",
+    "Address_2": null,
+    "Address_3": null,
+    "City": "EASTSOUND",
+    "State": "WA",
+    "Zip": "98245-1389",
+    "Short_Lega": "PRS SEC 6,7 T36N R3W; PRS SEC 1,2,12 T36N R4W   SPIEDEN ISLAND     Sec 6,7 T36N R3W; Sec 1,2,12, T36N, R4W",
+    "Legal_Acre": 509.39550000000003,
+    "Taxable_Ac": 509.39999999999998,
+    "Tax_Code": "0491",
+    "Tax_Area": "JOHNS-SPIEDEN",
+    "Land_Value": 21364910,
+    "Appraised_": 8569290,
+    "Curruse_Va": 3402630,
+    "Bldg_Value": 2705230,
+    "Owner_Last": "UNDER THE RADAR, INC.",
+    "Use_Code": "9400",
+    "Tax_Status": null,
+    "Sale_date": null,
+    "Sale_Price": null
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -123.15717,
+       48.64917
+      ],
+      [
+       -123.10627,
+       48.63349
+      ],
+      [
+       -123.16415,
+       48.64795
+      ],
+      [
+       -123.15717,
+       48.64917
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 318785,
+    "PIN": "363422001000",
+    "ALTPin": "363422001",
+    "Island": "San Juan",
+    "District": "1 - San Juan",
+    "Acres": 33.58351158,
+    "TA_ID": 18404,
+    "Owner": "CAROLYN C & ROGER M DEROOS      ",
+    "Address_1": "PO BOX 3058",
+    "Address_2": null,
+    "Address_3": null,
+    "City": "FRIDAY HARBOR",
+    "State": "WA",
+    "Zip": "98250-3305",
+    "Short_Lega": "PR GL 1 TGW CONS ESMT Sec 34, T 36N, R 3W",
+    "Legal_Acre": 33.583500000000001,
+    "Taxable_Ac": 33.579999999999998,
+    "Tax_Code": "0493",
+    "Tax_Area": "SAN JUAN",
+    "Land_Value": 680230,
+    "Appraised_": 709820,
+    "Curruse_Va": 191900,
+    "Bldg_Value": 172010,
+    "Owner_Last": "DEROOS",
+    "Use_Code": "9400",
+    "Tax_Status": null,
+    "Sale_date": null,
+    "Sale_Price": null
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -123.05767,
+       48.57924
+      ],
+      [
+       -123.05414,
+       48.5762
+      ],
+      [
+       -123.06127,
+       48.57617
+      ],
+      [
+       -123.05767,
+       48.57924
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 329216,
+    "PIN": "370144001000",
+    "ALTPin": "370144001",
+    "Island": "Waldron",
+    "District": "2 - Orcas",
+    "Acres": 15.605291920000001,
+    "TA_ID": 18448,
+    "Owner": "POINT HAMMOND FARM LLC",
+    "Address_1": "434 MCGILVRA BLVD EAST",
+    "Address_2": null,
+    "Address_3": null,
+    "City": "SEATTLE",
+    "State": "WA",
+    "Zip": "98112-5046",
+    "Short_Lega": "E1/2 GL 3 TGW CONS ESMT     Sec 01, T 37N, R 3W",
+    "Legal_Acre": 15.6053,
+    "Taxable_Ac": 15.609999999999999,
+    "Tax_Code": "0211",
+    "Tax_Area": "WALDRON",
+    "Land_Value": 261800,
+    "Appraised_": 73300,
+    "Curruse_Va": 73300,
+    "Bldg_Value": 0,
+    "Owner_Last": "POINT HAMMOND FARM, LLC",
+    "Use_Code": "9420",
+    "Tax_Status": null,
+    "Sale_date": null,
+    "Sale_Price": null
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -123.01108,
+       48.72275
+      ],
+      [
+       -123.00966,
+       48.71869
+      ],
+      [
+       -123.01228,
+       48.71866
+      ],
+      [
+       -123.01108,
+       48.72275
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 16992,
+    "PIN": "370144002000",
+    "ALTPin": "370144002",
+    "Island": "Waldron",
+    "District": "2 - Orcas",
+    "Acres": 13.218939929999999,
+    "TA_ID": 18449,
+    "Owner": "POINT HAMMOND FARM LLC",
+    "Address_1": "434 MCGILVRA BLVD EAST",
+    "Address_2": null,
+    "Address_3": null,
+    "City": "SEATTLE",
+    "State": "WA",
+    "Zip": "98112-5046",
+    "Short_Lega": "W1/2 GL 3 TGW CONS ESMT     Sec 01, T 37N, R 3W",
+    "Legal_Acre": 13.2189,
+    "Taxable_Ac": 13.220000000000001,
+    "Tax_Code": "0211",
+    "Tax_Area": "WALDRON",
+    "Land_Value": 265530,
+    "Appraised_": 74350,
+    "Curruse_Va": 74350,
+    "Bldg_Value": 0,
+    "Owner_Last": "POINT HAMMOND FARM, LLC",
+    "Use_Code": "9420",
+    "Tax_Status": null,
+    "Sale_date": null,
+    "Sale_Price": null
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -123.01228,
+       48.71866
+      ],
+      [
+       -123.01489,
+       48.72104
+      ],
+      [
+       -123.01227,
+       48.72127
+      ],
+      [
+       -123.01228,
+       48.71866
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 16655,
+    "PIN": "371134001000",
+    "ALTPin": "371134001",
+    "Island": "Waldron",
+    "District": "2 - Orcas",
+    "Acres": 39.174002870000002,
+    "TA_ID": 18479,
+    "Owner": "MICHAEL J SCOTT & NADINE J SCOTT",
+    "Address_1": "BOX 25738 - LAKE CITY STATION",
+    "Address_2": null,
+    "Address_3": null,
+    "City": "SEATTLE",
+    "State": "WA",
+    "Zip": "99816-1238",
+    "Short_Lega": "GL 2 EX CO RD     Sec 11, T 37N, R 3W",
+    "Legal_Acre": 39.173999999999999,
+    "Taxable_Ac": 38.25,
+    "Tax_Code": "0211",
+    "Tax_Area": "WALDRON",
+    "Land_Value": 355140,
+    "Appraised_": 223740,
+    "Curruse_Va": 223740,
+    "Bldg_Value": 0,
+    "Owner_Last": "SCOTT",
+    "Use_Code": "9400",
+    "Tax_Status": null,
+    "Sale_date": null,
+    "Sale_Price": null
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -123.04216,
+       48.70459
+      ],
+      [
+       -123.04756,
+       48.70765
+      ],
+      [
+       -123.04209,
+       48.70812
+      ],
+      [
+       -123.04216,
+       48.70459
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 329179,
+    "PIN": "371211001000",
+    "ALTPin": "371211001",
+    "Island": "Waldron",
+    "District": "2 - Orcas",
+    "Acres": 68.407512789999998,
+    "TA_ID": 18499,
+    "Owner": "POINT HAMMOND FARM LLC",
+    "Address_1": "434 MCGILVRA BLVD EAST",
+    "Address_2": null,
+    "Address_3": null,
+    "City": "SEATTLE",
+    "State": "WA",
+    "Zip": "98112-5046",
+    "Short_Lega": "NE-NE SE-NE EX S300' & GL 1 SEC 12 & PR GL 2 SEC 7    Sec 07 & 12, T 37N, R 3W",
+    "Legal_Acre": 68.407499999999999,
+    "Taxable_Ac": 68.409999999999997,
+    "Tax_Code": "0211",
+    "Tax_Area": "WALDRON",
+    "Land_Value": 1371730,
+    "Appraised_": 563370,
+    "Curruse_Va": 192650,
+    "Bldg_Value": 69240,
+    "Owner_Last": "POINT HAMMOND FARM, LLC",
+    "Use_Code": "9420",
+    "Tax_Status": null,
+    "Sale_date": null,
+    "Sale_Price": null
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -123.01228,
+       48.71866
+      ],
+      [
+       -123.00948,
+       48.71218
+      ],
+      [
+       -123.01499,
+       48.71224
+      ],
+      [
+       -123.01228,
+       48.71866
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 16986,
+    "PIN": "371212001000",
+    "ALTPin": "371212001",
+    "Island": "Waldron",
+    "District": "2 - Orcas",
+    "Acres": 37.986138580000002,
+    "TA_ID": 18500,
+    "Owner": "POINT HAMMOND FARM LLC",
+    "Address_1": "434 MCGILVRA BLVD EAST",
+    "Address_2": null,
+    "Address_3": null,
+    "City": "SEATTLE",
+    "State": "WA",
+    "Zip": "98112-5046",
+    "Short_Lega": "NW-NE     Sec 12, T 37N, R 3W",
+    "Legal_Acre": 37.9861,
+    "Taxable_Ac": 37.990000000000002,
+    "Tax_Code": "0211",
+    "Tax_Area": "WALDRON",
+    "Land_Value": 249970,
+    "Appraised_": 69990,
+    "Curruse_Va": 69990,
+    "Bldg_Value": 0,
+    "Owner_Last": "POINT HAMMOND FARM, LLC",
+    "Use_Code": "9420",
+    "Tax_Status": null,
+    "Sale_date": null,
+    "Sale_Price": null
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -123.01752,
+       48.71859
+      ],
+      [
+       -123.01495,
+       48.71502
+      ],
+      [
+       -123.02023,
+       48.71501
+      ],
+      [
+       -123.01752,
+       48.71859
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 16941,
+    "PIN": "371214001000",
+    "ALTPin": "371214001",
+    "Island": "Waldron",
+    "District": "2 - Orcas",
+    "Acres": 8.8454779800000001,
+    "TA_ID": 18503,
+    "Owner": "POINT HAMMOND FARM LLC",
+    "Address_1": "434 MCGILVRA BLVD EAST",
+    "Address_2": null,
+    "Address_3": null,
+    "City": "SEATTLE",
+    "State": "WA",
+    "Zip": "98112-5046",
+    "Short_Lega": "S 300 E1/2 NE     Sec 12, T 37N, R 3W",
+    "Legal_Acre": 8.8454999999999995,
+    "Taxable_Ac": 8.8499999999999996,
+    "Tax_Code": "0211",
+    "Tax_Area": "WALDRON",
+    "Land_Value": 119480,
+    "Appraised_": 33450,
+    "Curruse_Va": 33450,
+    "Bldg_Value": 0,
+    "Owner_Last": "POINT HAMMOND FARM, LLC",
+    "Use_Code": "9420",
+    "Tax_Status": null,
+    "Sale_date": null,
+    "Sale_Price": null
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -123.00968,
+       48.71218
+      ],
+      [
+       -123.00968,
+       48.71136
+      ],
+      [
+       -123.015,
+       48.71142
+      ],
+      [
+       -123.00968,
+       48.71218
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 329198,
+    "PIN": "371221002000",
+    "ALTPin": "371221002",
+    "Island": "Waldron",
+    "District": "2 - Orcas",
+    "Acres": 12.611501609999999,
+    "TA_ID": 18505,
+    "Owner": "COOK HISTORICAL LLC             ",
+    "Address_1": "c/o JON COOK",
+    "Address_2": "1025 VIA REGINA",
+    "Address_3": "",
+    "City": "SANTA BARBARA",
+    "State": "CA",
+    "Zip": "93111-1339",
+    "Short_Lega": "N1/2 OF S1/2 OF W1/2 GL 2; N1/2 OF W1/2 GL2 TGW TDS TGW C/E    Sec 12, T 37N, R 3W",
+    "Legal_Acre": 12.611499999999999,
+    "Taxable_Ac": 12.609999999999999,
+    "Tax_Code": "0211",
+    "Tax_Area": "WALDRON",
+    "Land_Value": 462520,
+    "Appraised_": 362990,
+    "Curruse_Va": 150980,
+    "Bldg_Value": 157550,
+    "Owner_Last": "COOK HISTORICAL LLC",
+    "Use_Code": "9420",
+    "Tax_Status": null,
+    "Sale_date": null,
+    "Sale_Price": null
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -123.02295,
+       48.71839
+      ],
+      [
+       -123.023,
+       48.7159
+      ],
+      [
+       -123.02563,
+       48.71592
+      ],
+      [
+       -123.02295,
+       48.71839
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 16982,
+    "PIN": "371222004000",
+    "ALTPin": "371222004",
+    "Island": "Waldron",
+    "District": "2 - Orcas",
+    "Acres": 5.1623387699999999,
+    "TA_ID": 18509,
+    "Owner": "COOK HISTORICAL LLC             ",
+    "Address_1": "c/o JON COOK",
+    "Address_2": "1025 VIA REGINA",
+    "Address_3": "",
+    "City": "SANTA BARBARA",
+    "State": "CA",
+    "Zip": "93111-1339",
+    "Short_Lega": "PR GL 1 & PR SW-NW TGW CONS ESMT     Sec 12, T 37N, R 3W",
+    "Legal_Acre": 5.1623000000000001,
+    "Taxable_Ac": 5.1600000000000001,
+    "Tax_Code": "0211",
+    "Tax_Area": "WALDRON",
+    "Land_Value": 287530,
+    "Appraised_": 254290,
+    "Curruse_Va": 32760,
+    "Bldg_Value": 22530,
+    "Owner_Last": "COOK HISTORICAL LLC",
+    "Use_Code": "9420",
+    "Tax_Status": null,
+    "Sale_date": null,
+    "Sale_Price": null
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -123.02564,
+       48.7151
+      ],
+      [
+       -123.02659,
+       48.71454
+      ],
+      [
+       -123.02559,
+       48.71749
+      ],
+      [
+       -123.02564,
+       48.7151
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 16436,
+    "PIN": "371412002000",
+    "ALTPin": "371412002",
+    "Island": "Waldron",
+    "District": "2 - Orcas",
+    "Acres": 19.901982879999998,
+    "TA_ID": 18644,
+    "Owner": "SIRI A THORSON & MARILLA BLENTHEN WALKER & JENNIFER PITTIS",
+    "Address_1": "GENERAL DELIVERY",
+    "Address_2": null,
+    "Address_3": null,
+    "City": "WALDRON",
+    "State": "WA",
+    "Zip": "98297-9999",
+    "Short_Lega": "W1/2 NW-NE EX CO RD CONSERVATION EASE-SJ PRES TST    Sec 14, T 37N, R 3W",
+    "Legal_Acre": 19.902000000000001,
+    "Taxable_Ac": 19.649999999999999,
+    "Tax_Code": "0211",
+    "Tax_Area": "WALDRON",
+    "Land_Value": 125760,
+    "Appraised_": 47140,
+    "Curruse_Va": 40240,
+    "Bldg_Value": 6900,
+    "Owner_Last": "THORSON, MARILLA",
+    "Use_Code": "9420",
+    "Tax_Status": null,
+    "Sale_date": null,
+    "Sale_Price": null
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -123.04216,
+       48.70454
+      ],
+      [
+       -123.03948,
+       48.70089
+      ],
+      [
+       -123.04221,
+       48.70093
+      ],
+      [
+       -123.04216,
+       48.70454
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 178725,
+    "PIN": "451114001000",
+    "ALTPin": "451114001",
+    "Island": "San Juan",
+    "District": "1 - San Juan",
+    "Acres": 16.793429540000002,
+    "TA_ID": 18993,
+    "Owner": "JAMES L & WENDY FRANCIS TTEE",
+    "Address_1": "543 SMUGGLERS COVE ROAD",
+    "Address_2": null,
+    "Address_3": null,
+    "City": "FRIDAY HARBOR",
+    "State": "WA",
+    "Zip": "98250-8533",
+    "Short_Lega": "PR SE-NE PR SW-NE TGW CONS ESMT Sec 11, T 35N, R 4W",
+    "Legal_Acre": 16.793399999999998,
+    "Taxable_Ac": 16.789999999999999,
+    "Tax_Code": "0493",
+    "Tax_Area": "SAN JUAN",
+    "Land_Value": 120620,
+    "Appraised_": 103260,
+    "Curruse_Va": 31400,
+    "Bldg_Value": 0,
+    "Owner_Last": "FRANCIS, TTEE",
+    "Use_Code": "9420",
+    "Tax_Status": null,
+    "Sale_date": null,
+    "Sale_Price": null
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -123.15303,
+       48.54451
+      ],
+      [
+       -123.15347,
+       48.54703
+      ],
+      [
+       -123.14803,
+       48.54703
+      ],
+      [
+       -123.15303,
+       48.54451
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 7196,
+    "PIN": "451233001000",
+    "ALTPin": "451233001",
+    "Island": "San Juan",
+    "District": "1 - San Juan",
+    "Acres": 39.309033650000003,
+    "TA_ID": 19090,
+    "Owner": "ROBERT F LALLY JR & CHARLOTTE LALLY",
+    "Address_1": "22 SANCTUARY LN",
+    "Address_2": null,
+    "Address_3": null,
+    "City": "FRIDAY HARBOR",
+    "State": "WA",
+    "Zip": "98250-8572",
+    "Short_Lega": "SW-SW, TGW CONS ESMT Sec 12, T 35N, R 4W",
+    "Legal_Acre": 39.308999999999997,
+    "Taxable_Ac": 39.310000000000002,
+    "Tax_Code": "0493",
+    "Tax_Area": "SAN JUAN",
+    "Land_Value": 344130,
+    "Appraised_": 146740,
+    "Curruse_Va": 55750,
+    "Bldg_Value": 40270,
+    "Owner_Last": "LALLY, JR &",
+    "Use_Code": "9420",
+    "Tax_Status": null,
+    "Sale_date": null,
+    "Sale_Price": null
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -123.14399,
+       48.53983
+      ],
+      [
+       -123.14264,
+       48.53623
+      ],
+      [
+       -123.148,
+       48.53624
+      ],
+      [
+       -123.14399,
+       48.53983
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 56338,
+    "PIN": "451233003000",
+    "ALTPin": "451233003",
+    "Island": "San Juan",
+    "District": "1 - San Juan",
+    "Acres": 10.99699785,
+    "TA_ID": 19094,
+    "Owner": "ROBERT F LALLY JR & CHARLOTTE LALLY",
+    "Address_1": "22 SANCTUARY LN",
+    "Address_2": null,
+    "Address_3": null,
+    "City": "FRIDAY HARBOR",
+    "State": "WA",
+    "Zip": "98250-8572",
+    "Short_Lega": "PR NW-SW (SFTPO PR TO 451233001) Sec 12, T 35N, R 4W",
+    "Legal_Acre": 10.997,
+    "Taxable_Ac": 11,
+    "Tax_Code": "0493",
+    "Tax_Area": "SAN JUAN",
+    "Land_Value": 390550,
+    "Appraised_": 496040,
+    "Curruse_Va": 5940,
+    "Bldg_Value": 130790,
+    "Owner_Last": "LALLY, JR &",
+    "Use_Code": "1107",
+    "Tax_Status": null,
+    "Sale_date": null,
+    "Sale_Price": null
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -123.14262,
+       48.53983
+      ],
+      [
+       -123.14435,
+       48.54057
+      ],
+      [
+       -123.14284,
+       48.54279
+      ],
+      [
+       -123.14262,
+       48.53983
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 354445,
+    "PIN": "452411001000",
+    "ALTPin": "452411001",
+    "Island": "San Juan",
+    "District": "1 - San Juan",
+    "Acres": 31.666728089999999,
+    "TA_ID": 19255,
+    "Owner": "JAMES L & MARY B GUARD          ",
+    "Address_1": "453 ROCKLEDGE RD",
+    "Address_2": null,
+    "Address_3": null,
+    "City": "FRIDAY HARBOR",
+    "State": "WA",
+    "Zip": "98250-5613",
+    "Short_Lega": "PR NE-NE     Sec 24, T 35N, R 4W",
+    "Legal_Acre": 31.666699999999999,
+    "Taxable_Ac": 31.670000000000002,
+    "Tax_Code": "0493",
+    "Tax_Area": "SAN JUAN",
+    "Land_Value": 467520,
+    "Appraised_": 661770,
+    "Curruse_Va": 32580,
+    "Bldg_Value": 367630,
+    "Owner_Last": "GUARD",
+    "Use_Code": "8800",
+    "Tax_Status": null,
+    "Sale_date": 1378425600000,
+    "Sale_Price": 0
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -123.12639,
+       48.51901
+      ],
+      [
+       -123.13181,
+       48.51906
+      ],
+      [
+       -123.13182,
+       48.52188
+      ],
+      [
+       -123.12639,
+       48.51901
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 293250,
+    "PIN": "460111001000",
+    "ALTPin": "460111001",
+    "Island": "Cactus Islands (GL 1)",
+    "District": "1 - San Juan",
+    "Acres": 23.727746329999999,
+    "TA_ID": 19358,
+    "Owner": "MICHAEL J SCOTT & NADINE D SCOTT & ANOLA M SCOTT",
+    "Address_1": "PO BOX 25738",
+    "Address_2": null,
+    "Address_3": null,
+    "City": "SEATTLE",
+    "State": "WA",
+    "Zip": "98125-1238",
+    "Short_Lega": "GL 1 - CACTUS ISLANDS     Sec 01, T 36N, R 4W",
+    "Legal_Acre": 23.727699999999999,
+    "Taxable_Ac": 23.73,
+    "Tax_Code": "0491",
+    "Tax_Area": "JOHNS-SPIEDEN",
+    "Land_Value": 2644800,
+    "Appraised_": 1226200,
+    "Curruse_Va": 1216610,
+    "Bldg_Value": 9590,
+    "Owner_Last": null,
+    "Use_Code": "9400",
+    "Tax_Status": null,
+    "Sale_date": null,
+    "Sale_Price": null
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -123.13021,
+       48.6507
+      ],
+      [
+       -123.12642,
+       48.64784
+      ],
+      [
+       -123.13307,
+       48.64908
+      ],
+      [
+       -123.13021,
+       48.6507
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 328068,
+    "PIN": "462234004000",
+    "ALTPin": "462234004",
+    "Island": "Henry",
+    "District": "1 - San Juan",
+    "Acres": 27.715615240000002,
+    "TA_ID": 19905,
+    "Owner": "HENRY ISLAND ENCLAVE LLC        ",
+    "Address_1": "c/o CHRISTOPHER SMITH",
+    "Address_2": "6529 37TH AVE NW",
+    "Address_3": null,
+    "City": "SEATTLE",
+    "State": "WA",
+    "Zip": "98117-6012",
+    "Short_Lega": "NELSON BAY SOUTH SHORT PLAT - MODIFIED LOT 4; PR GLS 4 & 5 TGW JOINT USE DOCK TGW CONS ESMT TGW TDS     Sec 22, T 36N, R 4W",
+    "Legal_Acre": 27.715599999999998,
+    "Taxable_Ac": 27.719999999999999,
+    "Tax_Code": "0492",
+    "Tax_Area": "SAN JUAN ISLANDS",
+    "Land_Value": 356100,
+    "Appraised_": 227910,
+    "Curruse_Va": 101080,
+    "Bldg_Value": 14370,
+    "Owner_Last": "HENRY ISLAND ENCLAVE LLC",
+    "Use_Code": "9400",
+    "Tax_Status": null,
+    "Sale_date": null,
+    "Sale_Price": null
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -123.18699,
+       48.59843
+      ],
+      [
+       -123.18139,
+       48.59546
+      ],
+      [
+       -123.18971,
+       48.59851
+      ],
+      [
+       -123.18699,
+       48.59843
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 8757,
+    "PIN": "463634002000",
+    "ALTPin": "463634002",
+    "Island": "San Juan",
+    "District": "1 - San Juan",
+    "Acres": 9.8380305299999993,
+    "TA_ID": 20748,
+    "Owner": "KENNETH ARZARIAN & D WAHL       ",
+    "Address_1": "2898 WEST VALLEY RD",
+    "Address_2": null,
+    "Address_3": null,
+    "City": "FRIDAY HARBOR",
+    "State": "WA",
+    "Zip": "98250-8178",
+    "Short_Lega": "TROUTBECK FARM S.P. - LT 1 TGW BLDG SITE RESTRICTION    Sec 36, T 36N, R 4W",
+    "Legal_Acre": 9.8379999999999992,
+    "Taxable_Ac": 9.4299999999999997,
+    "Tax_Code": "0493",
+    "Tax_Area": "SAN JUAN",
+    "Land_Value": 162740,
+    "Appraised_": 373470,
+    "Curruse_Va": 63200,
+    "Bldg_Value": 237810,
+    "Owner_Last": "ARZARIAN & D WAHL",
+    "Use_Code": "9430",
+    "Tax_Status": null,
+    "Sale_date": null,
+    "Sale_Price": null
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -123.13987,
+       48.56929
+      ],
+      [
+       -123.13727,
+       48.56777
+      ],
+      [
+       -123.14084,
+       48.56776
+      ],
+      [
+       -123.13987,
+       48.56929
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 289972,
+    "PIN": "472041001000",
+    "ALTPin": "472041001",
+    "Island": "Stuart",
+    "District": "1 - San Juan",
+    "Acres": 51.367993419999998,
+    "TA_ID": 20758,
+    "Owner": "RALPH ERICKSEN FARMS INC",
+    "Address_1": "c/o LISA S SAWTELL",
+    "Address_2": "11838 11TH AVE NW",
+    "Address_3": null,
+    "City": "SEATTLE",
+    "State": "WA",
+    "Zip": "98177-4610",
+    "Short_Lega": "PR GL 1 EX CO RD    Sec 20, T 37N, R 4W",
+    "Legal_Acre": 51.368000000000002,
+    "Taxable_Ac": 50.990000000000002,
+    "Tax_Code": "0497",
+    "Tax_Area": "STUART",
+    "Land_Value": 575790,
+    "Appraised_": 293420,
+    "Curruse_Va": 227140,
+    "Bldg_Value": 27490,
+    "Owner_Last": "ERICKSEN FARMS, INC.",
+    "Use_Code": "8800",
+    "Tax_Status": null,
+    "Sale_date": null,
+    "Sale_Price": null
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -123.21572,
+       48.69
+      ],
+      [
+       -123.21517,
+       48.68544
+      ],
+      [
+       -123.22058,
+       48.68483
+      ],
+      [
+       -123.21572,
+       48.69
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 289967,
+    "PIN": "472131001000",
+    "ALTPin": "472131001",
+    "Island": "Stuart",
+    "District": "1 - San Juan",
+    "Acres": 80.917872529999997,
+    "TA_ID": 20763,
+    "Owner": "RALPH ERICKSEN FARMS INC",
+    "Address_1": "c/o LISA S SAWTELL",
+    "Address_2": "11838 11TH AVE NW",
+    "Address_3": null,
+    "City": "SEATTLE",
+    "State": "WA",
+    "Zip": "98177-4610",
+    "Short_Lega": "PR GL 2 & GL 3 EX CO RD     Sec 21, T 37N, R 4W",
+    "Legal_Acre": 80.917900000000003,
+    "Taxable_Ac": 80.859999999999999,
+    "Tax_Code": "0497",
+    "Tax_Area": "STUART",
+    "Land_Value": 1317890,
+    "Appraised_": 556520,
+    "Curruse_Va": 554940,
+    "Bldg_Value": 0,
+    "Owner_Last": "ERICKSEN FARMS, INC.",
+    "Use_Code": "8800",
+    "Tax_Status": null,
+    "Sale_date": null,
+    "Sale_Price": null
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -123.21502,
+       48.68986
+      ],
+      [
+       -123.20292,
+       48.68591
+      ],
+      [
+       -123.21344,
+       48.68483
+      ],
+      [
+       -123.21502,
+       48.68986
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 290425,
+    "PIN": "472133001000",
+    "ALTPin": "472133001",
+    "Island": "Stuart",
+    "District": "1 - San Juan",
+    "Acres": 101.7697368,
+    "TA_ID": 20771,
+    "Owner": "RALPH ERICKSEN FARMS INC",
+    "Address_1": "c/o LISA S SAWTELL",
+    "Address_2": "11838 11TH AVE NW",
+    "Address_3": null,
+    "City": "SEATTLE",
+    "State": "WA",
+    "Zip": "98177-4610",
+    "Short_Lega": "GL 4 SEC 21, PR SE-SE SEC 20, NW-NW SEC 28, LOT 1 PLAT OF GL 4     SEC 20, 21, 28 Sec 21, T 37N, R 4W",
+    "Legal_Acre": 101.7697,
+    "Taxable_Ac": 100.84,
+    "Tax_Code": "0497",
+    "Tax_Area": "STUART",
+    "Land_Value": 773410,
+    "Appraised_": 603440,
+    "Curruse_Va": 350520,
+    "Bldg_Value": 172090,
+    "Owner_Last": "ERICKSEN FARMS, INC.",
+    "Use_Code": "8800",
+    "Tax_Status": null,
+    "Sale_date": null,
+    "Sale_Price": null
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -123.20758,
+       48.68053
+      ],
+      [
+       -123.2151,
+       48.6776
+      ],
+      [
+       -123.21799,
+       48.68483
+      ],
+      [
+       -123.20758,
+       48.68053
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 7350,
+    "PIN": "451114004000",
+    "ALTPin": "451114004",
+    "Island": "San Juan",
+    "District": "1 - San Juan",
+    "Acres": 23.161038699999999,
+    "TA_ID": 24124,
+    "Owner": "JAMES LAWRENCE FRANCIS TTEE",
+    "Address_1": "543 SMUGGLERS COVE ROAD",
+    "Address_2": null,
+    "Address_3": null,
+    "City": "FRIDAY HARBOR",
+    "State": "WA",
+    "Zip": "98250-8533",
+    "Short_Lega": "PR SE-NE TGW CONS ESMT Sec 11, T 35N, R 4W",
+    "Legal_Acre": 23.161000000000001,
+    "Taxable_Ac": 23.16,
+    "Tax_Code": "0493",
+    "Tax_Area": "SAN JUAN",
+    "Land_Value": 166340,
+    "Appraised_": 132700,
+    "Curruse_Va": 60840,
+    "Bldg_Value": 0,
+    "Owner_Last": "FRANCIS, TTEE",
+    "Use_Code": "9420",
+    "Tax_Status": null,
+    "Sale_date": null,
+    "Sale_Price": null
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -123.14804,
+       48.54522
+      ],
+      [
+       -123.153,
+       48.54432
+      ],
+      [
+       -123.14803,
+       48.54703
+      ],
+      [
+       -123.14804,
+       48.54522
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 328251,
+    "PIN": "462233013000",
+    "ALTPin": "462233013",
+    "Island": "Henry",
+    "District": "1 - San Juan",
+    "Acres": 8.1942041400000001,
+    "TA_ID": 24293,
+    "Owner": "HENRY ISLAND ENCLAVE LLC        ",
+    "Address_1": "c/o CHRISTOPHER SMITH",
+    "Address_2": "6529 37TH AVE NW",
+    "Address_3": null,
+    "City": "SEATTLE",
+    "State": "WA",
+    "Zip": "98117-6012",
+    "Short_Lega": "PR GL 3 SEC 21 PRS GL 4 & GL 5 SEC 22 TGW USE OF JOINT DOCK     Sec 21 & 22, T 36N, R 4W",
+    "Legal_Acre": 8.1942000000000004,
+    "Taxable_Ac": 8.1899999999999995,
+    "Tax_Code": "0492",
+    "Tax_Area": "SAN JUAN ISLANDS",
+    "Land_Value": 183890,
+    "Appraised_": 37580,
+    "Curruse_Va": 36980,
+    "Bldg_Value": 0,
+    "Owner_Last": "HENRY ISLAND ENCLAVE LLC",
+    "Use_Code": "9500",
+    "Tax_Status": null,
+    "Sale_date": null,
+    "Sale_Price": null
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -123.18869,
+       48.599
+      ],
+      [
+       -123.1881,
+       48.59686
+      ],
+      [
+       -123.19213,
+       48.5991
+      ],
+      [
+       -123.18869,
+       48.599
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 135394,
+    "PIN": "261733015000",
+    "ALTPin": "261733015",
+    "Island": "Orcas",
+    "District": "2 - Orcas",
+    "Acres": 2.2714653500000002,
+    "TA_ID": 24392,
+    "Owner": "ORCAS VISION PRESERVE LLC",
+    "Address_1": "1001 4TH AVE STE 4200",
+    "Address_2": "",
+    "Address_3": "",
+    "City": "SEATTLE",
+    "State": "WA",
+    "Zip": "98154-1154",
+    "Short_Lega": "N334.5 of E295.8 GL 5 Sec 17, T 36N, R 2W",
+    "Legal_Acre": 2.2715000000000001,
+    "Taxable_Ac": 2.27,
+    "Tax_Code": "0374",
+    "Tax_Area": "ORCAS/CEMETERY",
+    "Land_Value": 108160,
+    "Appraised_": 41100,
+    "Curruse_Va": 41100,
+    "Bldg_Value": 0,
+    "Owner_Last": null,
+    "Use_Code": "9400",
+    "Tax_Status": null,
+    "Sale_date": 1348099200000,
+    "Sale_Price": 8300000
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -122.98311,
+       48.60546
+      ],
+      [
+       -122.98432,
+       48.60454
+      ],
+      [
+       -122.98433,
+       48.60545
+      ],
+      [
+       -122.98311,
+       48.60546
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 354845,
+    "PIN": "340214001000",
+    "ALTPin": "340214001",
+    "Island": "San Juan",
+    "District": "1 - San Juan",
+    "Acres": 16.285203320000001,
+    "TA_ID": 24664,
+    "Owner": "FREDERICK R & MARY S AYRE       ",
+    "Address_1": "5400 128TH AVE SE",
+    "Address_2": null,
+    "Address_3": null,
+    "City": "BELLEVUE",
+    "State": "WA",
+    "Zip": "98006-2954",
+    "Short_Lega": "PRS SW-NE & SE-NE SEC 1 PRS SW-NW & GL 3 SEC 2    Sec 01 & 02, T 34N, R 3W",
+    "Legal_Acre": 16.2852,
+    "Taxable_Ac": 16.289999999999999,
+    "Tax_Code": "0498",
+    "Tax_Area": "SAN JUAN - SOUTH",
+    "Land_Value": 570000,
+    "Appraised_": 384750,
+    "Curruse_Va": 384750,
+    "Bldg_Value": 0,
+    "Owner_Last": "AYRE",
+    "Use_Code": "9400",
+    "Tax_Status": null,
+    "Sale_date": null,
+    "Sale_Price": null
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -123.01292,
+       48.47369
+      ],
+      [
+       -123.0091,
+       48.4731
+      ],
+      [
+       -123.02355,
+       48.47314
+      ],
+      [
+       -123.01292,
+       48.47369
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 195964,
+    "PIN": "140631005000",
+    "ALTPin": "140631005",
+    "Island": "Lopez",
+    "District": "3 - Lopez",
+    "Acres": 54.527566120000003,
+    "TA_ID": 24751,
+    "Owner": "BILL ASSOCIATES                 ",
+    "Address_1": "c/o SUSAN BILL",
+    "Address_2": "744 RICHARDSON RD",
+    "Address_3": null,
+    "City": "LOPEZ ISLAND",
+    "State": "WA",
+    "Zip": "98261-8026",
+    "Short_Lega": "PR GLS 5, 6, 7, & 8 TGW CONS ESMT           Sec 06, T 34N, R 1W",
+    "Legal_Acre": 54.5276,
+    "Taxable_Ac": 54.530000000000001,
+    "Tax_Code": "0442",
+    "Tax_Area": "LOPEZ",
+    "Land_Value": 1645000,
+    "Appraised_": 1509580,
+    "Curruse_Va": 187850,
+    "Bldg_Value": 1730,
+    "Owner_Last": "BILL ASSOCIATES",
+    "Use_Code": "9520",
+    "Tax_Status": null,
+    "Sale_date": null,
+    "Sale_Price": null
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -122.85564,
+       48.46797
+      ],
+      [
+       -122.85755,
+       48.4648
+      ],
+      [
+       -122.86366,
+       48.46699
+      ],
+      [
+       -122.85564,
+       48.46797
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 247922,
+    "PIN": "253414002000",
+    "ALTPin": "253414002",
+    "Island": "Lopez",
+    "District": "3 - Lopez",
+    "Acres": 40.446589070000002,
+    "TA_ID": 24794,
+    "Owner": "RANDALL B & STEPHANIE B REEVES",
+    "Address_1": "PO BOX 326",
+    "Address_2": "",
+    "Address_3": "",
+    "City": "MEDINA",
+    "State": "WA",
+    "Zip": "98039-0326",
+    "Short_Lega": "SE-NE     Sec 34, T 35N, R 2W",
+    "Legal_Acre": 40.446599999999997,
+    "Taxable_Ac": 40.450000000000003,
+    "Tax_Code": "0442",
+    "Tax_Area": "LOPEZ",
+    "Land_Value": 360000,
+    "Appraised_": 299450,
+    "Curruse_Va": 112450,
+    "Bldg_Value": 0,
+    "Owner_Last": null,
+    "Use_Code": "9100",
+    "Tax_Status": null,
+    "Sale_date": 1367798400000,
+    "Sale_Price": 375000
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -122.91004,
+       48.48892
+      ],
+      [
+       -122.91542,
+       48.48532
+      ],
+      [
+       -122.91545,
+       48.489
+      ],
+      [
+       -122.91004,
+       48.48892
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "attributes": {
+    "OID": 287922,
+    "PIN": "261723002000",
+    "ALTPin": "261723002",
+    "Island": "Orcas",
+    "District": "2 - Orcas",
+    "Acres": 20.265784289999999,
+    "TA_ID": 25015,
+    "Owner": "ORCAS VISION PRESERVE LLC",
+    "Address_1": "1001 4TH AVE STE 4200",
+    "Address_2": "",
+    "Address_3": "",
+    "City": "SEATTLE",
+    "State": "WA",
+    "Zip": "98154-1154",
+    "Short_Lega": "PR W1/2 SW-NW     Sec 17, T 36N, R 2W",
+    "Legal_Acre": 20.265799999999999,
+    "Taxable_Ac": 18.969999999999999,
+    "Tax_Code": "0374",
+    "Tax_Area": "ORCAS/CEMETERY",
+    "Land_Value": 424940,
+    "Appraised_": 395850,
+    "Curruse_Va": 124780,
+    "Bldg_Value": 174490,
+    "Owner_Last": null,
+    "Use_Code": "9400",
+    "Tax_Status": null,
+    "Sale_date": 1348099200000,
+    "Sale_Price": 8300000
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       -122.9858,
+       48.6127
+      ],
+      [
+       -122.98859,
+       48.6091
+      ],
+      [
+       -122.98854,
+       48.61276
+      ],
+      [
+       -122.9858,
+       48.6127
+      ]
+     ]
+    ]
+   }
+  }
+ ]
+}
